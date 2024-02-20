@@ -1,0 +1,18 @@
+[project]
+title = "DP0"
+copyright = "2024 Association of Universities for Research in Astronomy, Inc. (AURA)"
+base_url = "https://dp0.lsst.io"
+github_url = "https://github.com/lsst/dp0_lsst_io"
+version = "Current"
+
+[sphinx]
+extensions = []
+rst_epilog_file = "rst_epilog.rst"
+
+[sphinx.intersphinx.projects]
+python = "https://docs.python.org/3/"
+rsp = "https://rsp.lsst.io/"
+pipelines = "https://pipelines.lsst.io/"
+
+[sphinx.linkcheck]
+ignore = []
