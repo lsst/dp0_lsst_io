@@ -29,7 +29,7 @@ Post-summer school update
 
 **Update, June 23, 2023:**
 This meeting has already taken place.
-See the list of :ref:`<DP0-Delegate-Resources-VSS2023-Videos>` for links to the recordings of all sessions.
+See the list of :ref:`DP0-Delegate-Resources-VSS2023-Videos` for links to the recordings of all sessions.
 
 
 .. _DP0-Delegate-Resources-VSS2023-overview:
