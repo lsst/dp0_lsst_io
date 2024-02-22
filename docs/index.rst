@@ -25,19 +25,19 @@ and of sharing the benefits of their DP0 participation with their communities as
       :link: delegate-resources/index
       :link-type: doc
 
-      Get access to DP0. Learn to use the RSP. Find schedules for virtual events.
+      Participate in DP0. Get an RSP account and access the data. Attend virtual seminars. Get support.
 
    .. grid-item-card:: DP0.2
       :link: https://dp0-2.lsst.io/
       :link-type: url
 
-      Simulated images and catalogs of extragalactic and galactic objects.
+      Documentation and tutorials for simulated images and catalogs of extragalactic and galactic objects.
 
    .. grid-item-card:: DP0.3
       :link: https://dp0-3.lsst.io/
       :link-type: url
 
-      Simulated catalogs of solar system objects.
+      Documentation and tutorials for simulated catalogs of solar system objects.
 
 
 Related documentation
