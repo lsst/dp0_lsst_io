@@ -127,7 +127,7 @@ Respond to questions or discussion topics raised by other DP0 delegates.
 This helps to build a global self-supporting network of scientists engaged in LSST research.
 
 **Participate in the DP0 virtual seminars.**
-Attend the :ref:`Delegate-Homepage-DP0-Virtual-Seminars` sessions.
+Attend the :ref:`DP0-Delegate-Resources-Virtual-Events` sessions.
 Ask questions and join the breakout discussions.
 All are welcome to present their DP0-related experiences (contact Melissa Graham).
 
