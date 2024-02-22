@@ -53,7 +53,7 @@ Risks and caveats
 =================
 
 DP0 delegates are being given access to a *shared-risk developmental version* of the RSP and the accompanying documentation,
-and should understand the `risks and caveats < https://dp0-2.lsst.io/data-access-analysis-tools/rsp-warnings.html>`__  regarding using the DP0-era RSP.
+and should understand the `risks and caveats <https://dp0-2.lsst.io/data-access-analysis-tools/rsp-warnings.html>`__  regarding using the DP0-era RSP.
 
 
 .. _DP0-Delegate-Resources-Participation-Guidelines-Code-of-Conduct:
@@ -75,7 +75,7 @@ Please note that there are a few reasons why posts get flagged, and CoC violatio
 Here are some guidelines on `how to react if your post is flagged <https://community.lsst.org/t/how-to-react-if-your-post-is-flagged>`_.
 
 If you experience or witness a violation of the CoC in another venue, please reach out to Sandrine Thomas, one of the
-  `Rubin Observatory Workplace Culture Advocates <https://project.lsst.org/workplace-culture-advocate>`_ who has agreed to be the contact person for DP0 delegates.
+`Rubin Observatory Workplace Culture Advocates <https://project.lsst.org/workplace-culture-advocate>`_ who has agreed to be the contact person for DP0 delegates.
 
 
 .. _DP0-Delegate-Resources-Participation-Guidelines-PubPol:
