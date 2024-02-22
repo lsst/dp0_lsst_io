@@ -20,6 +20,17 @@ DP0 delegate resources
 
 .. This section should provide a brief, top-level description of the page.
 
+
+.. toctree::
+    :maxdepth: 2
+    :glob:
+
+    getting-started
+
+
+
+OLD
+
 This page includes the guidelines, resources, and activities for DP0 delegates using the DP0.2 and/or DP0.3 data sets.
 
 "**DP0 delegates**" are the scientists and students who have accounts in the Rubin Science Platform (RSP)
