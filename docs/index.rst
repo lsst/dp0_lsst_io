@@ -25,19 +25,19 @@ and of sharing the benefits of their DP0 participation with their communities as
       :link: delegate-resources/index
       :link-type: doc
 
-      Become a DP0 Delegate. Learn to use Rubin data products and services. Find schedules for virtual events. Get help with DP0.
+      Get access to DP0. Learn to use the RSP. Find schedules for virtual events.
 
    .. grid-item-card:: DP0.2
       :link: https://dp0-2.lsst.io/
       :link-type: url
 
-      Simulated images and catalogs of extragalactic and galactic objects over five years and 300 square degrees.
+      Simulated images and catalogs of extragalactic and galactic objects.
 
    .. grid-item-card:: DP0.3
       :link: https://dp0-3.lsst.io/
       :link-type: url
 
-      Simulated catalogs of Solar System objects at one and ten years over the full southern sky.
+      Simulated catalogs of solar system objects.
 
 
 Related documentation
