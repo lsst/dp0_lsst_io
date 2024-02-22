@@ -22,11 +22,62 @@ DP0 delegate resources
 
 This page includes the guidelines, resources, and activities for DP0 delegates using the DP0.2 and/or DP0.3 data sets.
 
+
+.. _DP0-Delegate-Resources-toc-get-started:
+
+====================
+Get started with DP0
+====================
+
+*A few words.*
+
 .. toctree::
     :maxdepth: 2
     :glob:
 
     getting-started
+
+
+.. _DP0-Delegate-Resources-toc-guidelines:
+
+============================
+Guidelines for participation
+============================
+
+*A few words.*
+
+.. toctree::
+    :maxdepth: 2
+    :glob:
+
     guidelines
+
+
+.. _DP0-Delegate-Resources-toc-events:
+
+==============
+Virtual events
+==============
+
+*A few words.*
+
+.. toctree::
+    :maxdepth: 2
+    :glob:
+
     virtual-events
+
+
+.. _DP0-Delegate-Resources-toc-support:
+
+==================
+How to get support
+==================
+
+*A few words.*
+
+.. toctree::
+    :maxdepth: 2
+    :glob:
+
     support
