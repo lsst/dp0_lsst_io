@@ -90,7 +90,7 @@ If you publish work based on the DP0.1 or DP0.2 data set, you must cite “Cosmo
 and potentially “DESC DC2 Data Release Note” (`arXiv:2101.04855 <https://arxiv.org/abs/2101.04855>`_) if you used the Object or Truth-Match tables, which are presented in that release note.
 
 **Consider extending co-authorship or acknowledgments to DP0 delegates whose work you used, or who have helped you, as appropriate.**
-Delegates are encouraged to openly share their DP0-related work and/or code during :ref:`DP0-Delegate-Resources-Virtual-Events`,
+Delegates are encouraged to openly share their DP0-related work and/or code during :doc:`/delegate-resources/virtual-events`,
 via the `Community Forum <https://community.lsst.org/>`_, and in the shared GitHub shared repositories
 `delegate-contributions-dp02 <https://github.com/rubin-dp0/delegate-contributions-dp02>`__ or
 `delegate-contributions-dp03 <https://github.com/rubin-dp0/delegate-contributions-dp03>`__.
