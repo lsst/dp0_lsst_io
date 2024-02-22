@@ -47,9 +47,10 @@ Learn more about LSST and DP0 by participating in DP0-related activities.
 Virtual events
 ==============
 
-Find schedules for upcoming DP0-related virtual events.
-The weekly Rubin Science Assemblies offer tutorials, presentations, and Q&A with Rubin staff.
-The annual Rubin Data Academy offers a one-week virtual program of hands-on learning.
+Find schedules for upcoming DP0-related virtual events and recordings for past events.
+
+Rubin Science Assemblies feature hands-on tutorials, Q&A with Rubin staff, and co-working time.
+The Rubin Data Academy offers a one-week virtual program of hands-on learning.
 
 .. toctree::
     :maxdepth: 2
@@ -80,7 +81,7 @@ Review the policies that apply to all DP0 delegates.
 Support
 =======
 
-Find out where and how to get help with any and all issues.
+Find out where and how to get help.
 
 .. toctree::
     :maxdepth: 2
