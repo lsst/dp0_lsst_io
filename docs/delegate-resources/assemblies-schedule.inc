@@ -8,7 +8,7 @@
 
 .. This is the label that can be used for cross referencing this file.
 .. Recommended title label format is "Directory Name"-"Title Name" -- Spaces should be replaced by hyphens.
-.. _DP0-Delegate-Resources-DP0-Assemblies-Schedule:
+.. _DP0-Delegate-Resources-Virtual-Events-Schedule:
 .. Each section should include a label for cross referencing to a given area.
 .. Recommended format for all labels is "Title Name"-"Section Name" -- Spaces should be replaced by hyphens.
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
@@ -26,43 +26,40 @@
 
 .. Use double-underscore for external links to prevent duplicate explicit target names.
 
-.. list-table:: Schedule and planned content of DP0 Delegate Assemblies
+.. list-table:: Rubin Science Assemblies schedule
    :header-rows: 1
-   :widths: 1 2 2
+   :widths: 1 1 3
 
    * - Date
-     - First Hour
-     - Second Hour
-   * - 2023-08-18
-     - `DP0.3 Kick-Off Info Session <https://community.lsst.org/t/summary-delegate-assembly-on-fri-aug-18-2023-dp0-3-kick-off-info-session/7916>`_ (Melissa Graham)
-     - *general Q&A, breakouts*
-   * - 2023-09-01
-     - `DP0.3 Portal tutorials 01 and 02 <https://community.lsst.org/t/summary-delegate-assembly-on-friday-september-1-rsp-portal-tutorials-01-and-02-for-the-dp0-3/7934>`_ (Greg Madejski)
-     - *general Q&A, breakouts*
-   * - 2023-09-15
-     - `DP0.3 Notebook tutorial 02: Main Belt Asteroids <https://community.lsst.org/t/summary-dp0-delegate-assembly-fri-sep-15-2023-main-belt-asteroids-in-dp0-3/7956>`_ (Jeff Carlin)
-     - *general Q&A, breakouts*
-   * - 2023-09-29
-     - `DP0.3 Simulation Overview: Populations, Easter Eggs, Etc. <https://community.lsst.org/t/summary-delegate-assembly-fri-sep-29-dp0-3-simulation-overview/7954>`_ (Pedro Bernardinelli, Jake Kurlander)
-     - no breakouts this week
-   * - 2023-10-13
-     - `DP0.3 Notebook tutorial 03: Trans-Neptunian Objects <https://community.lsst.org/t/summary-dp0-delegate-assembly-friday-oct-13-2023-trans-neptunian-objects-in-dp0-3/7997>`_ (Andrés A. Plazas Malagón, Sarah Greenstreet)
-     - *general Q&A, breakouts*
-   * - **2023-10-20**
-     - **Special Assembly:** `SSSC Mini-Sprint Preparation (Meg Schwamb) <https://community.lsst.org/t/dp0-delegate-assembly-fri-oct-20-sssc-mini-sprint-preparation-meg-schwamb/8005/2>`_
-     - *general Q&A, breakouts*
-   * - 2023-10-27
-     - `DP0.3 Notebook tutorial 04a/b: Introduction to phase curves and advanced phase curve modeling (Yumi Choi, Christina Williams) <https://community.lsst.org/t/summary-dp0-delegate-assembly-friday-oct-27-2023-two-notebook-tutorials-on-phase-curves-for-dp0-3-ssos/8033>`_
-     - *general Q&A, breakouts*
-   * - 2023-11-10
-     - `Accessibility Hackathon for Notebooks <https://community.lsst.org/t/dp0-delegate-assembly-11-10-2023-notebook-accessibility-hackathon/8056>`_ (Jenn Kotler, Andrés A. Plazas Malagón)
-     - *breakouts: bring your own notebook, add accessibility features!*
-   * - 2023-12-08
-     - `Using TOPCAT with the DP0.2 TAP Service (Introduction to the RSP API Aspect and DP0.2 API TOPCAT tutorial 01) <https://community.lsst.org/t/announcement-dp0-delegate-assembly-8-december-2023-using-topcat-with-the-dp0-2-tap-service/8140/6>`_ (Douglas Tucker)
-     - *general Q&A, breakouts*
-
-
-Additional delegate assemblies to be posted.
-Rows in *italics* are tentative topics.
-
-
+     - Type
+     - Topic
+   * - 2024-03-07
+     - tutorial
+     - (Re-)Introduction to DP0.2 and DP0.3 (Jeff Carlin)
+   * - 2024-03-14
+     - drop-in
+     - Q&A with Rubin staff, co-working time
+   * - 2024-03-21
+     - tutorial
+     - How to upload tables to the Portal Aspect (Christina Williams)
+   * - 2024-03-28
+     - drop-in
+     - Q&A with Rubin staff, co-working time
+   * - 2024-04-13
+     - tutorial
+     - Phase curve analysis in the Portal Aspect (Yumi Choi)
+   * - 2024-04-11
+     - drop-in
+     - Q&A with Rubin staff, co-working time
+   * - 2024-04-18
+     - tutorial
+     - How to create custom coadds (Aaron Meisner)
+   * - 2024-04-25
+     - drop-in
+     - Q&A with Rubin staff, co-working time
+   * - 2024-05-02
+     - tutorial
+     - How to analyze the LSST point-spread function (PSF; Andrés Plazas Malagón)
+   * - 2024-05-02
+     - drop-in
+     - Q&A with Rubin staff, co-working time
