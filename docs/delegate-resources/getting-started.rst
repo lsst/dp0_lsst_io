@@ -40,6 +40,7 @@ New delegate checklist
 ======================
 
 **Step 1.**
+
 .. Review the :ref:`DP0-Delegate-Resources-Participation-Guidelines`.
 
 **Step 2.**
