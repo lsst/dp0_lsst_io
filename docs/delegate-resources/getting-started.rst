@@ -40,8 +40,7 @@ New delegate checklist
 ======================
 
 **Step 1.**
-
-.. Review the :ref:`DP0-Delegate-Resources-Participation-Guidelines`.
+Review the :doc:`/delegate-resources/guidelines`.
 
 **Step 2.**
 Submit a petition for an account in Rubin Science Platform (RSP) using the
@@ -53,7 +52,7 @@ Please contact Melissa Graham at mlg3k@uw.edu or Heather Shaughnessy at sheather
 Once your petition is approved and you can log in to `data.lsst.cloud <https://data.lsst.cloud>`_, you are a DP0 delegate.
 
 **Step 3.**
-Get an account in the `Rubin Community Forum <https://community.lsst.org/>`__ and review how to :ref:`DP0-Delegate-Resources-Get-Support` for DP0.
+Get an account in the `Rubin Community Forum <https://community.lsst.org/>`__ and review how to get :doc:`/delegate-resources/support` for DP0.
 
 It is recommended to go to `community.lsst.org/groups <https://community.lsst.org/groups>`_ and join the "DP0 Delegates" group.
 DP0-related news and events are shared with this group.
@@ -128,7 +127,7 @@ Respond to questions or discussion topics raised by other DP0 delegates.
 This helps to build a global self-supporting network of scientists engaged in LSST research.
 
 **Participate in the DP0 virtual seminars.**
-Attend the :ref:`DP0-Delegate-Resources-Virtual-Events` sessions.
+Attend the :doc:`/delegate-resources/virtual-events` sessions.
 Ask questions and join the breakout discussions.
 All are welcome to present their DP0-related experiences (contact Melissa Graham).
 
