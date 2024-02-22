@@ -42,7 +42,7 @@ This subcategory is monitored by the Rubin Observatory `Community Science team (
 **Instructions:**
 `Ask a question in the Forum <https://community.lsst.org/t/how-to-ask-a-question-in-the-forum/8198>`__,
 and `mark the solution <https://community.lsst.org/t/how-to-mark-a-solution/8199>`__ when the issue is resolved.
-`Confidential support <https://community.lsst.org/t/how-to-ask-a-question-confidentially/8200`>__ is available if needed.
+`Confidential support <https://community.lsst.org/t/how-to-ask-a-question-confidentially/8200>`__ is available if needed.
 
 .. _DP0-Delegate-Resources-Support-Forum-Service:
 
