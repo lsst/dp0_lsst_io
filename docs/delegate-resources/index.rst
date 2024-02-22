@@ -20,7 +20,9 @@ DP0 delegate resources
 
 .. This section should provide a brief, top-level description of the page.
 
-This page includes the guidelines, resources, and activities for DP0 delegates using the DP0.2 and/or DP0.3 data sets.
+**DP0 delegates** are the scientists and students who have RSP accounts and access to the DP0 data sets.
+
+This page contains the guidelines and activities for DP0 delegates.
 
 
 .. _DP0-Delegate-Resources-toc-get-started:
@@ -29,7 +31,8 @@ This page includes the guidelines, resources, and activities for DP0 delegates u
 Get started with DP0
 ====================
 
-*A few words.*
+Become a DP0 delegate by getting an account in the Rubin Science Platform.
+Learn more about LSST and DP0 by participating in DP0-related activities.
 
 .. toctree::
     :maxdepth: 2
@@ -38,28 +41,15 @@ Get started with DP0
     getting-started
 
 
-.. _DP0-Delegate-Resources-toc-guidelines:
-
-============================
-Guidelines for participation
-============================
-
-*A few words.*
-
-.. toctree::
-    :maxdepth: 2
-    :glob:
-
-    guidelines
-
-
 .. _DP0-Delegate-Resources-toc-events:
 
 ==============
 Virtual events
 ==============
 
-*A few words.*
+Find schedules for upcoming DP0-related virtual events.
+The weekly Rubin Science Assemblies offer tutorials, presentations, and Q&A with Rubin staff.
+The annual Rubin Data Academy offers a one-week virtual program of hands-on learning.
 
 .. toctree::
     :maxdepth: 2
@@ -68,13 +58,29 @@ Virtual events
     virtual-events
 
 
+.. _DP0-Delegate-Resources-toc-guidelines:
+
+========================
+Participation guidelines
+========================
+
+Review the policies that apply to all DP0 delegates.
+
+.. toctree::
+    :maxdepth: 2
+    :glob:
+
+    guidelines
+
+
+
 .. _DP0-Delegate-Resources-toc-support:
 
-==================
-How to get support
-==================
+=======
+Support
+=======
 
-*A few words.*
+Find out where and how to get help with any and all issues.
 
 .. toctree::
     :maxdepth: 2
