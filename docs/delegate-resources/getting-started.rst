@@ -36,7 +36,7 @@ If that changes this page will be updated.
 ======================
 New delegate checklist
 ======================
-                                                           
+
 1. Review the :ref:`Delegate-Homepage-Guidelines-Expectations`.
 2. Submit a petition for one of the :ref:`Delegate-Homepage-RSP-Accounts`.
 3. Set up your account in the :ref:`Delegate-Homepage-Forum`.
@@ -51,6 +51,3 @@ Optional (but recommended) steps for delegates:
 9. Attend :ref:`Delegate-Homepage-DP0-Virtual-Seminars` or watch recordings where available.
 10. Consider the :ref:`Delegate-Homepage-Delegate-Activities`.
 11. Be aware that the `Rubin Users Committee <https://www.lsst.org/scientists/users-committee>`_ are your advocates.
-
-
-
