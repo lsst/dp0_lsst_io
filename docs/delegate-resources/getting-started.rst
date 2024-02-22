@@ -101,7 +101,7 @@ or the `DP0.2 survey <https://community.lsst.org/t/dp0-2-feedback-survey-action-
 
 **Submit bug reports.**
 Help with RSP improvements by submitting bug reports via `GitHub issues <https://github.com/rubin-dp0/Support>`__
-(see :ref:`DP0-Delegate-Resources-Get-Started`).
+(see :ref:`DP0-Delegate-Resources-Support-Github`).
 
 **Suggest new features.**
 Help with RSP development by suggesting new RSP features via `GitHub issues <https://github.com/rubin-dp0/Support>`__,
