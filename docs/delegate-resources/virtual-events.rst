@@ -30,13 +30,13 @@ All are welcome to attend any event or watch the recordings.
 Rubin Science Assemblies (weekly)
 =================================
 
+Rubin Science Assemblies are live virtual sessions that focus on learning to use the RSP.
+
 **Connection info:** `ls.st/dp0-events <https://ls.st/dp0-events>`_
 
 **Dates and times:** Thursdays at 9am Pacific (1 hour)
 
-Rubin Science Assemblies are live virtual sessions that focus on learning to use the RSP.
-
-Each ession starts with announcements and then there will be either presentation
+Each ession starts with announcements and then there will be either a presentation
 (usually a hands-on tutorial)
 or "drop-in" time for Q&A with Rubin staff and co-working with other delegates.
 
@@ -58,11 +58,14 @@ All are welcome to volunteer to present or to suggest topics they would like to 
 Rubin Data Academy (annual)
 ===========================
 
+The annual Rubin Data Academy offers a one-week virtual program of hands-on learning, with
+time for networking and co-working. Students with no prior experience are especially welcome.
+
 ----
 2024
 ----
 
-To be held virtually, June 17-18 & 20-21, 2024.
+Save the date! To be held virtually, June 17-18 & 20-21, 2024.
 
 ----
 2023
@@ -114,8 +117,8 @@ an overview of the available data products and how to access them via the RSP.
 New delegates are recommended to watch the recorded presentations and review the
 slide decks.
 
- * `DP0.2 kick-off info session <https://community.lsst.org/t/dp0-2-kick-off-info-session-slides-pre-recorded-presentation/6846>`__
- * `DP0.3 kick-off info session <https://community.lsst.org/t/summary-delegate-assembly-on-fri-aug-18-2023-dp0-3-kick-off-info-session/7916>`__.
+* `DP0.2 kick-off info session <https://community.lsst.org/t/dp0-2-kick-off-info-session-slides-pre-recorded-presentation/6846>`__
+* `DP0.3 kick-off info session <https://community.lsst.org/t/summary-delegate-assembly-on-fri-aug-18-2023-dp0-3-kick-off-info-session/7916>`__.
 
 
 .. _DP0-Delegate-Resources-Virtual-Events-Past:
