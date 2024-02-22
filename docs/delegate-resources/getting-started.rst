@@ -52,7 +52,7 @@ Please contact Melissa Graham at mlg3k@uw.edu or Heather Shaughnessy at sheather
 Once your petition is approved and you can log in to `data.lsst.cloud <https://data.lsst.cloud>`_, you are a DP0 delegate.
 
 **Step 3.**
-Get an account in the `Rubin Community Forum <>`__ and review how to :ref:`DP0-Delegate-Resources-Get-Support` for DP0.
+Get an account in the `Rubin Community Forum <https://community.lsst.org/>`__ and review how to :ref:`DP0-Delegate-Resources-Get-Support` for DP0.
 
 It is recommended to go to `community.lsst.org/groups <https://community.lsst.org/groups>`_ and join the "DP0 Delegates" group.
 DP0-related news and events are shared with this group.
