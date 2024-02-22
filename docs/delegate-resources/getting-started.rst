@@ -40,7 +40,7 @@ New delegate checklist
 ======================
 
 **Step 1.**
-Review the :ref:`DP0-Delegate-Resources-Participation-Guidelines`.
+.. Review the :ref:`DP0-Delegate-Resources-Participation-Guidelines`.
 
 **Step 2.**
 Submit a petition for an account in Rubin Science Platform (RSP) using the
