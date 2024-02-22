@@ -26,6 +26,7 @@ DP0 delegate resources
     :glob:
 
     getting-started
+    guidelines
 
 
 
