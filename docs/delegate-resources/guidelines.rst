@@ -20,10 +20,10 @@ Participation guidelines
 
 .. This section should provide a brief, top-level description of the page.
 
-All DP0 delegates must have Rubin data rights and abide by the :ref:`DP0-Delegate-Resources-Participation-Guidelines-Data-Rights`,
-understand the :ref:`DP0-Delegate-Resources-Participation-Guidelines-Risks` of using the DP0-era RSP,
-and adhere to the :ref:`DP0-Delegate-Resources-Participation-Guidelines-Code-of-Conduct` and
-:ref:`DP0-Delegate-Resources-Participation-Guidelines-PubPol`.
+All DP0 delegates must:
+* have Rubin data rights and abide by the :ref:`DP0-Delegate-Resources-Participation-Guidelines-Data-Rights`
+* understand the :ref:`DP0-Delegate-Resources-Participation-Guidelines-Risks` of using the DP0-era RSP
+* adhere to the :ref:`DP0-Delegate-Resources-Participation-Guidelines-Code-of-Conduct` and :ref:`DP0-Delegate-Resources-Participation-Guidelines-PubPol`
 
 
 .. _DP0-Delegate-Resources-Participation-Guidelines-Data-Rights:
@@ -32,7 +32,8 @@ and adhere to the :ref:`DP0-Delegate-Resources-Participation-Guidelines-Code-of-
 Rubin data rights policy
 ========================
 
-**Rubin data rights** are required to hold an account in the Rubin Science Platform (RSP).
+Rubin data rights are required to hold an account in the Rubin Science Platform (RSP).
+
 RSP accounts are not transferable and delegates must not share their password with others.
 
 **Who has Rubin data rights?**
@@ -42,6 +43,7 @@ as well as the international scientists and students whose names appear on the
 
 For more information about data rights, please refer to the
 `Rubin Observatory Data Policy <https://docushare.lsst.org/docushare/dsweb/Get/RDO-013>`_.
+
 Anyone with uncertainty about their Rubin data rights can contact Melissa Graham at mlg3k@uw.edu or
 with a direct message in the `Rubin Community Forum <https://community.lsst.org/>`_.
 
@@ -52,8 +54,9 @@ with a direct message in the `Rubin Community Forum <https://community.lsst.org/
 Risks and caveats
 =================
 
-DP0 delegates are being given access to a *shared-risk developmental version* of the RSP and the accompanying documentation,
-and should understand the `risks and caveats <https://dp0-2.lsst.io/data-access-analysis-tools/rsp-warnings.html>`__  regarding using the DP0-era RSP.
+.. Important::
+    DP0 delegates are being given access to a *shared-risk developmental version* of the RSP and the accompanying documentation,
+    and should understand the `risks and caveats <https://dp0-2.lsst.io/data-access-analysis-tools/rsp-warnings.html>`__  regarding using the DP0-era RSP.
 
 
 .. _DP0-Delegate-Resources-Participation-Guidelines-Code-of-Conduct:
@@ -64,10 +67,10 @@ Code of conduct
 
 Review the Rubin Code of Conduct (CoC) at `ls.st/comms-coc <https://ls.st/comms-coc>`_.
 
-| To summarize the CoC:
-| - Bullying and harassment will not be tolerated.
-| - Research inclusion and collaborative work must not be impeded by poor behavior.
-| - Discussion should be constructive and civil at all times.
+To summarize the CoC:
+* Bullying and harassment will not be tolerated.
+* Research inclusion and collaborative work must not be impeded by poor behavior.
+* Discussion should be constructive and civil at all times.
 
 If you experience or witness a violation of the CoC in the Community Forum, please `flag the post <https://community.lsst.org/t/how-and-why-to-flag-a-post>`_.
 Forum moderators will handle the issue from there.
