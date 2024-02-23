@@ -76,22 +76,21 @@ and to generate and test custom software to prepare for when *real commissioning
 `DP0.2 <https://dp0-2.lsst.io/data-products-dp0-2/index.html#dp0-2-data-products-definition-document-dpdd>`__ and
 `DP0.3 <https://dp0-3.lsst.io/data-products-dp0-3/index.html#dp0-3-data-products-definition-document-dpdd>`__ releases.
 
-**Do tutorials:** follow `step-by-step introductions <https://dp0-2.lsst.io/data-access-analysis-tools/index.html#data-access-and-analysis-tools>`__
+**Work through tutorials:** follow `step-by-step introductions <https://dp0-2.lsst.io/data-access-analysis-tools/index.html#data-access-and-analysis-tools>`__
 to the Portal, Notebook, and Application Programming Interface (API) Aspects of the RSP,
-or work through the `DP0.2 Tutorials <https://dp0-2.lsst.io/tutorials-examples/index.html>`__ or `DP0.3 Tutorials <https://dp0-3.lsst.io/tutorials-dp0-3/index.html>`__.
+or the `DP0.2 Tutorials <https://dp0-2.lsst.io/tutorials-examples/index.html>`__ and `DP0.3 Tutorials <https://dp0-3.lsst.io/tutorials-dp0-3/index.html>`__.
 
-**Attend virtual seminars:** the Rubin Science Assemblies take place every Thursday morning at 9am Pacific time,
+**Attend virtual seminars:** the :ref:`DP0-Delegate-Resources-Virtual-Events-Assemblies` take place every Thursday morning at 9am Pacific time,
 and feature announcements, tutorials, presentations, and time for Q&A or co-working.
-The Rubin Virtual Data Academy takes place every June and offers an intensive week of hands-on learning.
+The :ref:`DP0-Delegate-Resources-Virtual-Events-School` takes place every June and offers an intensive week of hands-on learning.
 Recordings are available for past seminars.
-
-Be aware that the `Rubin Users Committee <https://www.lsst.org/scientists/users-committee>`_ advocates on behalf of RSP users.
 
 All delegates are invited to take on additional activities that will **inform and improve RSP development**,
 or **extend and enhance the benefits of DP0** within the science community.
 
-Inform and improve the RSP
---------------------------
+
+Inform improvements for the RSP
+-------------------------------
 
 **Participate in feedback surveys.**
 When requested, complete feedback surveys for Rubin Observatory.
@@ -99,20 +98,21 @@ When requested, complete feedback surveys for Rubin Observatory.
 Read the results from the `DP0.1 survey <https://community.lsst.org/t/the-dp0-1-feedback-survey-action-items/6105>`__
 or the `DP0.2 survey <https://community.lsst.org/t/dp0-2-feedback-survey-action-items/7402>`__.
 
+**Reach out to the Rubin Users Committee.**
+The `Rubin Users Committee <https://www.lsst.org/scientists/users-committee>`__ is charged to take feedback from the
+community and advocate on behalf of all RSP users.
+The Users Committee can be contacted via email (RubinObs-Users-Committee@lists.lsst.org).
+
 **Submit bug reports.**
 Help with RSP improvements by submitting bug reports via `GitHub issues <https://github.com/rubin-dp0/Support>`__
 (see :ref:`DP0-Delegate-Resources-Support-Github`).
 
 **Suggest new features.**
-Help with RSP development by suggesting new RSP features via `GitHub issues <https://github.com/rubin-dp0/Support>`__,
-or by communicating directly with the Rubin `Users Committee <https://www.lsst.org/scientists/users-committee>`__
-to advocate for the tools that you need for your LSST science goals.
+Help with RSP development by suggesting new RSP features via `GitHub issues <https://github.com/rubin-dp0/Support>`__.
 
 **Share your experiences.**
 Post about your DP0 investigations in the `Data Preview 0 Community Forum category <https://community.lsst.org/c/support/dp0>`__,
 so Rubin Observatory staff can see how users are doing science with the RSP.
-Reach out to the Rubin `Users Committee <https://www.lsst.org/scientists/users-committee>`__ and let them
-know how DP0 is working for you.
 
 
 Extend the benefits of DP0 in the science community
@@ -126,8 +126,8 @@ Ask questions about DP0, or show-and-tell your DP0-related investigations in the
 Respond to questions or discussion topics raised by other DP0 delegates.
 This helps to build a global self-supporting network of scientists engaged in LSST research.
 
-**Participate in the DP0 virtual seminars.**
-Attend the :doc:`/delegate-resources/virtual-events` sessions.
+**Participate in virtual events.**
+Attend DP0-related :doc:`/delegate-resources/virtual-events`.
 Ask questions and join the breakout discussions.
 All are welcome to present their DP0-related experiences (contact Melissa Graham).
 
