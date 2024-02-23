@@ -26,11 +26,11 @@ All are welcome to attend any event or watch the recordings.
 
 .. _DP0-Delegate-Resources-Virtual-Events-Assemblies:
 
-=================================
-Rubin Science Assemblies (weekly)
-=================================
+========================
+Rubin Science Assemblies
+========================
 
-Rubin Science Assemblies are live virtual sessions that focus on learning to use the RSP.
+The weekly Rubin Science Assemblies are live virtual sessions that focus on learning to use the RSP.
 
 **Connection info:** `ls.st/dp0-events <https://ls.st/dp0-events>`_
 
@@ -54,9 +54,9 @@ All are welcome to volunteer to present or to suggest topics they would like to 
 
 .. _DP0-Delegate-Resources-Virtual-Events-School:
 
-===========================
-Rubin Data Academy (annual)
-===========================
+==================
+Rubin Data Academy
+==================
 
 The annual Rubin Data Academy offers a one-week virtual program of hands-on learning, with
 time for networking and co-working. Students with no prior experience are especially welcome.
