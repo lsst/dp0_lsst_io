@@ -21,6 +21,7 @@ Participation guidelines
 .. This section should provide a brief, top-level description of the page.
 
 All DP0 delegates must:
+
 * have Rubin data rights and abide by the :ref:`DP0-Delegate-Resources-Participation-Guidelines-Data-Rights`
 * understand the :ref:`DP0-Delegate-Resources-Participation-Guidelines-Risks` of using the DP0-era RSP
 * adhere to the :ref:`DP0-Delegate-Resources-Participation-Guidelines-Code-of-Conduct` and :ref:`DP0-Delegate-Resources-Participation-Guidelines-PubPol`
@@ -68,6 +69,7 @@ Code of conduct
 Review the Rubin Code of Conduct (CoC) at `ls.st/comms-coc <https://ls.st/comms-coc>`_.
 
 To summarize the CoC:
+
 * Bullying and harassment will not be tolerated.
 * Research inclusion and collaborative work must not be impeded by poor behavior.
 * Discussion should be constructive and civil at all times.
