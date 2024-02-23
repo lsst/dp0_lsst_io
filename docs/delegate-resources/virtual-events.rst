@@ -37,8 +37,9 @@ The weekly Rubin Science Assemblies are live virtual sessions that focus on lear
 **Dates and times:** Thursdays at 9am Pacific (1 hour)
 
 Each assembly will start with announcements.
-On alternating weeks, there will either be a presentation (usually a hands-on tutorial),
-or open drop-in time for Q&A with Rubin staff (like an office hour) or co-working with other delegates.
+On alternating weeks there will either be a presentation (usually a hands-on tutorial),
+or open drop-in time for Q&A with Rubin staff (like an office hour)
+and breakout rooms for co-working with other delegates.
 
 For presentation weeks, all are welcome to volunteer to speak or to suggest topics they would like to see covered
 (contact Melissa Graham, mlg3k@uw.edu).
