@@ -36,7 +36,7 @@ The weekly Rubin Science Assemblies are live virtual sessions that focus on lear
 
 **Dates and times:** Thursdays at 9am Pacific (1 hour)
 
-Each ession starts with announcements and then there will be either a presentation
+Each session starts with announcements and then there will be either a presentation
 (usually a hands-on tutorial)
 or "drop-in" time for Q&A with Rubin staff and co-working with other delegates.
 
