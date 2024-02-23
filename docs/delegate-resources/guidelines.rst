@@ -57,7 +57,7 @@ Risks and caveats
 
 .. Important::
     DP0 delegates are being given access to a *shared-risk developmental version* of the RSP and the accompanying documentation,
-    and should understand the `risks and caveats <https://dp0-2.lsst.io/data-access-analysis-tools/rsp-warnings.html>`__  regarding using the DP0-era RSP.
+    and should understand the **`risks and caveats <https://dp0-2.lsst.io/data-access-analysis-tools/rsp-warnings.html>`__**.
 
 
 .. _DP0-Delegate-Resources-Participation-Guidelines-Code-of-Conduct:
