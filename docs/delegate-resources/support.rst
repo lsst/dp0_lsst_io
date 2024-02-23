@@ -22,11 +22,11 @@ Support
 
 Several venues are provided to support DP0 delegates and RSP users, as described below.
 
-There is no wrong place to post questions or requests for assistance!
+If you're unsure which venue to use, `make a new topic <https://community.lsst.org/t/how-to-make-a-new-topic/8197>`__
+in the Rubin Community Forum's `Support category <https://community.lsst.org/c/support>`__.
 
-Hearing about issues and receiving feedback from delegates is a key component of DP0 for Rubin Observatory staff.
-
-Please do not hestiate to ask questions.
+There is no wrong place to post questions or requests for assistance, so please don't hestitate.
+Hearing about issues and receiving feedback from delegates is important to Rubin Observatory staff.
 
 
 .. _DP0-Delegate-Resources-Support-Forum:
