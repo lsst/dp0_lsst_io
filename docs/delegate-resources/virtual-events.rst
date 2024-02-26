@@ -93,7 +93,8 @@ Custom seminars (by request)
 In addition to the virtual seminars and the publicly available recordings, requests for custom seminars are considered.
 These can be presentations or tutorials, and could be virtual or in-person.
 
-Due to the limited resources, priority will be given to requests from scientists at small and/or underserved institutions (SUIs).
+Due to the limited resources, priority will be given to requests from scientists at small and underserved institutions (SUIs),
+primarily undergraduate institutions (PUIs), and minority-serving institutions (MSIs).
 Requests sent at least 6 weeks in advance are more likely to be accommodated.
 
 **Example requests:**
