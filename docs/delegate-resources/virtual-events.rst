@@ -91,14 +91,14 @@ Custom seminars (by request)
 ============================
 
 In addition to the virtual seminars and the publicly available recordings, requests for custom seminars are considered.
-These can be presentations or tutoriasl, and could be virtual or in-person.
+These can be presentations or tutorials, and could be virtual or in-person.
 
 Due to the limited resources, priority will be given to requests from scientists at small and/or underserved institutions (SUIs).
 Requests sent at least 6 weeks in advance are more likely to be accommodated.
 
 **Example requests:**
 
-* Group "onboarding" (account set ups, learning about Rubin in general, learning about specific resources) for, e.g., students at PUIs.
+* Group "onboarding" (account set ups, learning about Rubin in general, learning about specific resources) for, e.g., students at SUIs.
 * Invitations to provide virtual or in person tutorials related to DP0 at, e.g., a workshop.
 
 To broaden the participation of the Rubin community in the activity, one or both of the following should be adopted.
