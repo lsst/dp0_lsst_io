@@ -47,6 +47,8 @@ For presentation weeks, all are welcome to volunteer to speak or to suggest topi
 For open drop-in weeks, all are welcome to bring their questions or issues and get support from Rubin staff,
 or come with a topic of interest and co-work in a breakout room.
 
+See all past :doc:`/delegate-resources/assembly-recordings`.
+
 .. include:: assemblies-schedule.inc
 
 .. toctree::
