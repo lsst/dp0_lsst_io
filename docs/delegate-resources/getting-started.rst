@@ -61,12 +61,11 @@ People new to the Rubin Community Forum might appreciate
 `this video demonstrating how to navigate and post topics to the forum <https://www.youtube.com/watch?v=d_Z5xmkR4P4&list=PLPINAcUH0dXZSx2aY6wTIjLCWiexs3dZR&index=10>`_.
 
 
+.. _DP0-Delegate-Resources-Get-Started-Docs-and-Tuts:
 
-.. _DP0-Delegate-Resources-Get-Started-Activities:
-
-======================
-Recommended activities
-======================
+===========================
+Documentation and tutorials
+===========================
 
 All DP0 delegates are encouraged to use the documentation and tutorials to learn how to use the RSP to access and analyze LSST data,
 and to generate and test custom software to prepare for when *real commissioning data* are released as Data Preview 1 (DP1) and DP2
@@ -80,14 +79,17 @@ and to generate and test custom software to prepare for when *real commissioning
 to the Portal, Notebook, and Application Programming Interface (API) Aspects of the RSP,
 or the `DP0.2 Tutorials <https://dp0-2.lsst.io/tutorials-examples/index.html>`__ and `DP0.3 Tutorials <https://dp0-3.lsst.io/tutorials-dp0-3/index.html>`__.
 
-**Attend virtual seminars:** the :ref:`DP0-Delegate-Resources-Virtual-Events-Assemblies` take place every Thursday morning at 9am Pacific time,
-and feature announcements, tutorials, presentations, and time for Q&A or co-working.
+**Attend live virtual tutorials:** the :ref:`DP0-Delegate-Resources-Virtual-Events-Assemblies` take place every Thursday
+morning at 9am Pacific time, and feature announcements, tutorials, presentations, and time for Q&A or co-working.
 The :ref:`DP0-Delegate-Resources-Virtual-Events-School` takes place every June and offers an intensive week of hands-on learning.
 Recordings are available for past seminars.
 
-All delegates are invited to take on additional activities that will **inform and improve RSP development**,
-or **extend and enhance the benefits of DP0** within the science community.
 
+.. _DP0-Delegate-Resources-Get-Started-Activities:
+
+=====================
+Additional activities
+=====================
 
 Inform improvements for the RSP
 -------------------------------
