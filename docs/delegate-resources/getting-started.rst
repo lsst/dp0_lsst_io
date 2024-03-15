@@ -27,7 +27,7 @@ Becoming a delegate and accessing the DP0 data is as easy as following the check
 and getting an account in the Rubin Science Platform (RSP).
 
 There is no application process.
-The only prerequisite is to be a Rubin data rights holder (see the `Rubin Data Policy <https://docushare.lsst.org/docushare/dsweb/Get/RDO-013>`__).
+The only prerequisite is to be a Rubin data rights holder (see the `Rubin Data Policy <https://docushare.lsst.org/docushare/dsweb/Get/RDO-013>`_).
 The number of delegates is currently limited to 900.
 Space is available and all petitions are being accepted.
 If that changes this page will be updated.
@@ -39,11 +39,15 @@ If that changes this page will be updated.
 New delegate checklist
 ======================
 
+.. Important::
+    Rubin data rights are required in order to become a DP0 delegate and have an RSP account. Briefly, this includes students and scientists at US and Chilean institutions, and individuals whose name appears on the `list of international data rights holders <https://www.lsst.org/scientists/international-drh-list>`_; find details in the `Rubin Data Policy <https://docushare.lsst.org/docushare/dsweb/Get/RDO-013>`_. If you’re not sure if you have Rubin data rights, please contact Heather Shaughnessy (sheather@slac.stanford.edu) before proceeding with these steps.
+
+
 **Step 1.**
 Review the :doc:`/delegate-resources/guidelines`.
 
 **Step 2.**
-Submit a petition for an account in Rubin Science Platform (RSP) using the
+If you are sure you have Rubin data rights, submit a petition for an account in Rubin Science Platform (RSP) using the
 instructions on `how to get an RSP account <https://rsp.lsst.io/guides/getting-started/get-an-account.html>`_.
 
 Everyone should use their full professional names and institutional email addresses.
