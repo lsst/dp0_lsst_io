@@ -35,7 +35,7 @@
      - Topic
    * - 2024-03-07
      - tutorial
-     - (Re-)Introduction to DP0.2 and DP0.3 (Jeff Carlin)
+     - `(Re-)Introduction to DP0.2 and DP0.3 <https://community.lsst.org/t/rubin-science-assembly-thu-07-march-2024-re-introduction-to-dp0-2-and-dp0-3/8339/2>`_ (Jeff Carlin) 
    * - 2024-03-14
      - drop-in
      - Q&A with Rubin staff, co-working time
