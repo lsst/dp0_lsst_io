@@ -104,6 +104,13 @@ which range from beginner- to advanced-level
 and are designed to build new skills with the RSP.
 Then provide feedback to Rubin Observatory via a designated :ref:`DP0-Delegate-Resources-Exercises-Form`.
 
+.. toctree::
+    :maxdepth: 2
+    :glob:
+
+    usability-exercises
+
+
 **Participate in feedback surveys.**
 When requested, complete feedback surveys for Rubin Observatory.
 
