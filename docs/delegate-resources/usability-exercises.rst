@@ -26,7 +26,7 @@ of the Portal Aspect of the Rubin Science Platform (RSP;
 The goal is to understand how users interact with the Portal and identify
 areas that may require improvement.
 These exercises were also designed serve also as challenged-based
-learning opportunities, complementary to the `Documentation and tutorials`_.
+learning opportunities, complementary to the :ref:`DP0-Delegate-Resources-Get-Started-Docs-and-Tuts`.
 
 **Who can participate?**
 Anyone with an RSP account at `data.lsst.cloud <https://data.lsst.cloud/>`_.
@@ -35,7 +35,7 @@ Anyone with an RSP account at `data.lsst.cloud <https://data.lsst.cloud/>`_.
 There are six exercises to choose from, two each at the beginner,
 intermediate, and experienced levels.
 Choose an exercise (use the table of contents at upper right),
-work through it, then complete the `Feedback form`_.
+work through it, then complete the :ref:`DP0-Delegate-Resources-Exercises-Form`.
 The entire process should not take more than 25 minutes per exercise,
 and might be much faster depending on RSP experience.
 
@@ -51,7 +51,9 @@ and `DP0.3 Portal tutorials <https://dp0-3.lsst.io/tutorials-dp0-3/index.html>`_
 The `Portal (Firefly) Help pages <https://data.lsst.cloud/portal/app/onlinehelp/>`_ (image display).
 
 **Answer key.**
-ADD LINK TO UPDATED ANSWER KEY HOSTED HERE
+In some cases there are multiple ways to achieve a task in the RSP.
+Find at least one demonstration per exercise in the
+`Portal usability test answer key <https://dp0-2.lsst.io/tutorials-examples/portal-usabilitytest-answerkey.html>`_.
 
 
 .. _DP0-Delegate-Resources-Exercises-Form:
@@ -97,7 +99,7 @@ Change the plot symbols to open circles.
 If this takes more than 20 minutes in this task, in the feedback form please mark
 it as "could not be completed" and indicate how far you got.
 
-`Feedback form`.
+:ref:`DP0-Delegate-Resources-Exercises-Form`.
 
 
 .. _DP0-Delegate-Resources-Exercises-2:
@@ -108,3 +110,4 @@ Exercise 2 (beginner)
 
 TBD
 
+:ref:`DP0-Delegate-Resources-Exercises-Form`
