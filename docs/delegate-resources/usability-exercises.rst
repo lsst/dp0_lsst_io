@@ -57,7 +57,7 @@ ADD LINK TO UPDATED ANSWER KEY HOSTED HERE
 .. _DP0-Delegate-Resources-Exercises-Form:
 
 =============
-Feedback form 
+Feedback form
 =============
 
 Thank you for completing the form, your feedback is essential and will be
