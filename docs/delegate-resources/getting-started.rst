@@ -98,10 +98,11 @@ Participate in DP0 activities
 Inform improvements for the RSP
 -------------------------------
 
-**Participate in focus group testing.**
-Work through a few of these Focus Group Exercises, which range from beginner- to advanced-level
+**Participate in RSP usability testing.**
+Work through a few of these :doc:`/delegate-resources/usability-exercises`,
+which range from beginner- to advanced-level
 and are designed to build new skills with the RSP.
-Then provide feedback to Rubin Observatory via a designated webform.
+Then provide feedback to Rubin Observatory via a designated :ref:`DP0-Delegate-Resources-Exercises-Form`.
 
 **Participate in feedback surveys.**
 When requested, complete feedback surveys for Rubin Observatory.
