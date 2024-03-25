@@ -91,12 +91,17 @@ Recordings are available for past seminars.
 
 .. _DP0-Delegate-Resources-Get-Started-Activities:
 
-=====================
-Additional activities
-=====================
+=============================
+Participate in DP0 activities
+=============================
 
 Inform improvements for the RSP
 -------------------------------
+
+**Participate in focus group testing.**
+Work through a few of these Focus Group Exercises, which range from beginner- to advanced-level
+and are designed to build new skills with the RSP.
+Then provide feedback to Rubin Observatory via a designated webform.
 
 **Participate in feedback surveys.**
 When requested, complete feedback surveys for Rubin Observatory.
