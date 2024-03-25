@@ -91,11 +91,11 @@ at Right Ascension 55.75 degrees and Declination -32.27 degrees.
 Plot the ``psfFlux`` vs. the ``calibFlux`` flux columns.
 In the results table, impose a constraint to only plot objects with extendedness
 equal to 1.
-Change the plot symbols to open circles. 
+Change the plot symbols to open circles.
 
 **Reminder:**
 If this takes more than 20 minutes in this task, in the feedback form please mark
-it as "could not be completed" and indicate how far you got. 
+it as "could not be completed" and indicate how far you got.
 
 `Feedback form`.
 
