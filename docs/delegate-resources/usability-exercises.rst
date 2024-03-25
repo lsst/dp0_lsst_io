@@ -82,7 +82,7 @@ Link to this form: `https://forms.gle/mdg5af8gwd7teyDLA <https://forms.gle/mdg5a
 Exercise 1 (beginner)
 =====================
 
-Navigate in a web browser to `data.lsst.cloud <https://data.lsst.cloud>`_
+Navigate in a web browser to `data.lsst.cloud <https://data.lsst.cloud/>`_
 and log in to the Portal Aspect.
 
 Retrieve the ``g_psfFlux``, ``g_calibFlux``, and the ``g_extendedness`` columns
