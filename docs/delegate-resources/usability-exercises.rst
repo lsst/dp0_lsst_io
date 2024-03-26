@@ -95,8 +95,8 @@ In the results table, impose a constraint to only plot objects with extendedness
 equal to 1.
 Change the plot symbols to open circles.
 
-**Reminder:**
-If this takes more than 20 minutes in this task, in the feedback form please mark
+**Reminder**:
+If  this task takes more than 20 minutes, please mark
 it as "could not be completed" in the feedback form and indicate how far you got.
 
 :ref:`DP0-Delegate-Resources-Exercises-Form`.
@@ -115,7 +115,7 @@ Save the plot as a PNG file to your local computer. **Hint**: After retrieving t
 use the expression ``(-2.5*log10({band}_calibFlux) + 31.4)`` to convert the fluxes in nanoJankys to magnitudes in the AB system.
 
 **Reminder**:
-If this takes more than 20 minutes in this task, in the feedback form please mark
+If  this task takes more than 20 minutes, please mark
 it as "could not be completed" in the feedback form and indicate how far you got.
 
 :ref:`DP0-Delegate-Resources-Exercises-Form`
@@ -134,7 +134,7 @@ Use the "Image alignment drop down" tool to align and lock all displayed images 
 and zoom-in 3 times.
 
 **Reminder**:
-If this takes more than 20 minutes in this task, in the feedback form please mark
+If  this task takes more than 20 minutes, please mark
 it as "could not be completed" in the feedback form and indicate how far you got.
 
 :ref:`DP0-Delegate-Resources-Exercises-Form`
@@ -152,11 +152,13 @@ with this ``diaObjectId``. Plot the light curve as the flux as a function of tim
 each flux point. Change the plot style to use connected points, the point style to be red circles, and then sort the
 results by ``midPointTai``.
 Update the plot axes labels to be "PSF Difference-Image Flux" and "MJD of the Exposure Midpoint".
-Save the plot as a PNG file to your local computer. **Hint**: In the ADQL query, the filter name will need to be
+Save the plot as a PNG file to your local computer.
+
+**Hint**: In the ADQL query, the filter name will need to be
 formatted as a string (e.g., ``'r'``).
 
 **Reminder**:
-If this takes more than 20 minutes in this task, in the feedback form please mark
+If  this task takes more than 20 minutes, please mark
 it as "could not be completed" in the feedback form and indicate how far you got.
 
 :ref:`DP0-Delegate-Resources-Exercises-Form`
@@ -167,22 +169,45 @@ it as "could not be completed" in the feedback form and indicate how far you got
 Exercise 5 (experienced)
 ========================
 
-The first figure below, which corresponds to Figure 15 from
+The following figure, which corresponds to Figure 15 from the
 `The LSST DESC DC2 Simulated Sky Survey <https://ui.adsabs.harvard.edu/abs/2021ApJS..253...31L/abstract>`_ paper,
 has three panels: the grid of tracts in the DC2 simulation area on the left, the image of tract ``3828`` on the center,
 and a zoom-in image approximately centered near a particularly bright elongated galaxy on the right.
-The galaxy is located at Right Ascension = 3h46m56.21s and Declination = -36d05m27.7s (EQ_J2000). Use the
-Portal Aspect of the RSP to reproduce the second figure below, which shows an image of the same galaxy
+The galaxy is located at Right Ascension = 3h46m56.21s and Declination = -36d05m27.7s (EQ_J2000).
+
+.. figure:: /_static/portal_focus_exp1_fig1.png
+	:name: portal_focus_exp1_fig1
+	:alt: A screenshot of Figure 15 from the "The LSST DESC DC2 Simulated Sky Survey" paper.
+		The figure has three panels from left to right: the grid of tracts in the DC2 simulation area on the left,
+                the image of tract ``3828`` on the center, and a zoom-in image approximately centered near a particularly
+                bright elongated galaxy on the right.
+	
+	Figure 15 from the `The LSST DESC DC2 Simulated Sky Survey <https://ui.adsabs.harvard.edu/abs/2021ApJS..253...31L/abstract>`_ paper
+
+Use the Portal Aspect of the RSP to reproduce the following figure, which shows an image of the same galaxy
 in the ``r`` band, including:
 
 * The compass with cardinal points (N-E compass)
 * The footprint of the Hubble Space Telescope Wide Field Camera 3 - Infrared channel (WFC3/IR)
 * The extraction of a light profile of the galaxy. Save the light profile as a CSV file.
 
-**Hint**: Use a color stretch "Linear: Stretch -1 Sigma to 30 Sigma” to resemble the second figure below.
+**Hint**: Use a color stretch "Linear: Stretch -1 Sigma to 30 Sigma” to resemble the figure below.
+
+.. figure:: /_static/portal_focus_exp1_fig2.png
+	:name: portal_focus_exp1_fig2
+	:alt: A screenshot of the Portal Aspect of the Rubin Science Platform with three panels, two on top
+              and one at the bottom. The top left panel displays the image of a galaxy from the DC2 simulation
+              in the `r` band. There is a red compass in the upper-left part of the panel, displaying the
+              cardinal directions. The footprint of the Hubble Space Telescope Wide Field Camera 3 - Infrared channel (WFC3/IR)
+              is overlayed as a square, and an extraction line crosses the galaxy from left to right. The top-right panel
+              shows a two-dimensional plot of flux in ADU vs offset in arcseconds, corresponding to the light profile
+              extracted from the galaxy by the line in the top-left panel. The bottom panel shows a table with
+              different objects from the image.
+
+	Screenshot of a DC2 galaxy from the Portal Aspect of the RSP.
 
 **Reminder**:
-If this takes more than 20 minutes in this task, in the feedback form please mark
+If  this task takes more than 20 minutes, please mark
 it as "could not be completed" in the feedback form and indicate how far you got.
 
 :ref:`DP0-Delegate-Resources-Exercises-Form`
@@ -195,9 +220,28 @@ Exercise 6 (experienced)
 
 Query the DP0.2 Object catalog for the galaxy cluster around Right Ascension 3h43m00.00s and Declination -32d16m19.00s
 to visualize the region where the cluster is and plot the "red sequence" in a color-magnitude diagram
-(for example, ``r-i`` vs ``i``), as illustrated in the first image below.  Then, select the points in the red
-sequence to highlight the cluster members in the image, as shown in the second image below. **Hint 1**: use a
-search radius of 200 arcseconds. **Hint 2**: you can use the ``scisql_nanojanskyToAbMag`` SQL function to convert
+(for example, ``r-i`` vs ``i``), as illustrated in the image below.
+
+.. figure:: /_static/portal_focus_exp2_fig1.png
+	:name: portal_focus_exp2_fig1
+	:alt: A screenshot of the Portal Aspect of the Rubin Science Platform with two panels.
+              The left panel shows a galaxy cluster from the DC2 simulation and the right panel
+              plots the cluster "red sequence" as an "r-i" vs "i" color-magnitude plot.
+
+	Screenshot of a DC2 galaxy from the Portal Aspect of the RSP.
+
+Then, select the points in the red sequence to highlight the cluster members in the image, as shown in the image below. 
+
+.. figure:: /_static/portal_focus_exp2_fig2.png
+	:name: portal_focus_exp2_fig2
+	:alt: A screenshot of the Portal Aspect of the Rubin Science Platform with two panels.
+              The left panel shows a galaxy cluster from the DC2 simulation with squares
+              identifying the cluster members explicitly, and the right panel
+              plots the cluster "red sequence" as an "r-i" vs "i" color-magnitude plot.
+
+**Hint 1**: use a search radius of 200 arcseconds.
+
+**Hint 2**: you can use the ``scisql_nanojanskyToAbMag`` SQL function to convert
 fluxes to magnitudes (filter out negative fluxes before using the function).
 
 **Definition**: The red sequence in galaxy clusters refers to a tight correlation observed in color-magnitude diagrams,
@@ -205,7 +249,7 @@ where many of the galaxies in a cluster show a similar red color and brightness,
 indicating they are older, more evolved galaxies with less star formation.
 
 **Reminder**:
-If this takes more than 20 minutes in this task, in the feedback form please mark
+If  this task takes more than 20 minutes, please mark
 it as "could not be completed" in the feedback form and indicate how far you got.
 
 :ref:`DP0-Delegate-Resources-Exercises-Form`
