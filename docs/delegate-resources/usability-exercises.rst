@@ -75,7 +75,7 @@ in the time.
 The feedback form is not anonymous and collects email addresses, so that
 CST members may follow up in some cases.
 
-Link to this form: `https://forms.gle/mdg5af8gwd7teyDLA <https://forms.gle/mdg5af8gwd7teyDLA>`_.
+Link to this form: `https://forms.gle/PdqNgW8ErV277tih9 <https://forms.gle/PdqNgW8ErV277tih9>`_.
 
 
 .. _DP0-Delegate-Resources-Exercises-1:
