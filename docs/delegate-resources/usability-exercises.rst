@@ -112,7 +112,7 @@ Create a ``g-r`` color vs. ``i`` magnitude diagram using the ``calibFlux`` colum
 for all objects within 120 arcseconds of Right Ascension 60 degrees and Declination -35 degrees.
 Zoom in on the clump of points with color values approximately in the range of -4 < ``g-r`` < 4.
 Save the plot as a PNG file to your local computer. **Hint**: After retrieving the ``{band}_calibFlux`` columns,
-use the expression ``(-2.5*log10({band}_calibFlux) + 31.4)`` to convert the fluxes in nanoJankys to magnitudes in the AB system. 
+use the expression ``(-2.5*log10({band}_calibFlux) + 31.4)`` to convert the fluxes in nanoJankys to magnitudes in the AB system.
 
 **Reminder**:
 If this takes more than 20 minutes in this task, in the feedback form please mark
@@ -122,9 +122,9 @@ it as "could not be completed" in the feedback form and indicate how far you got
 
 .. _DP0-Delegate-Resources-Exercises-3:
 
-=====================
+=========================
 Exercise 3 (intermediate)
-=====================
+=========================
 
 Retrieve the four DP0.2 processed visit images (PVI), also known as "calexp" images, obtained with LSST band ``i``,
 before the date of ``MJD 59840``, whose boundaries contain the point with Right Ascension 55.75 degrees
@@ -141,18 +141,19 @@ it as "could not be completed" in the feedback form and indicate how far you got
 
 .. _DP0-Delegate-Resources-Exercises-4:
 
-=====================
+=========================
 Exercise 4 (intermediate)
-=====================
+=========================
 
 Use the ADQL interface to obtain, from the DP0.2 DiaSource table, an ``r``-band light curve for the Type Ia supernova
 which has a ``diaObjectId`` of ``1250953961339360185``. Retrieve the ``r``-band fluxes and their errors derived from
 a linear least-squares fit of a PSF model, and the effective mid-exposure time, for all ``diaSources`` associated
 with this ``diaObjectId``. Plot the light curve as the flux as a function of time, with error bars associated with
 each flux point. Change the plot style to use connected points, the point style to be red circles, and then sort the
-results by ``midPointTai``. Update the plot axes labels to be "PSF Difference-Image Flux" and "MJD of the Exposure Midpoint".
+results by ``midPointTai``.
+Update the plot axes labels to be "PSF Difference-Image Flux" and "MJD of the Exposure Midpoint".
 Save the plot as a PNG file to your local computer. **Hint**: In the ADQL query, the filter name will need to be
-formatted as a string (e.g., ``'r'``). 
+formatted as a string (e.g., ``'r'``).
 
 **Reminder**:
 If this takes more than 20 minutes in this task, in the feedback form please mark
@@ -162,9 +163,9 @@ it as "could not be completed" in the feedback form and indicate how far you got
 
 .. _DP0-Delegate-Resources-Exercises-5:
 
-=====================
+========================
 Exercise 5 (experienced)
-=====================
+========================
 
 The first figure below, which corresponds to Figure 15 from
 `The LSST DESC DC2 Simulated Sky Survey <https://ui.adsabs.harvard.edu/abs/2021ApJS..253...31L/abstract>`_ paper,
@@ -178,7 +179,7 @@ in the ``r`` band, including:
 * The footprint of the Hubble Space Telescope Wide Field Camera 3 - Infrared channel (WFC3/IR)
 * The extraction of a light profile of the galaxy. Save the light profile as a CSV file.
 
-**Hint**: Use a color stretch "Linear: Stretch -1 Sigma to 30 Sigma” to resemble the second figure below. 
+**Hint**: Use a color stretch "Linear: Stretch -1 Sigma to 30 Sigma” to resemble the second figure below.
 
 **Reminder**:
 If this takes more than 20 minutes in this task, in the feedback form please mark
@@ -188,23 +189,23 @@ it as "could not be completed" in the feedback form and indicate how far you got
 
 .. _DP0-Delegate-Resources-Exercises-6:
 
-=====================
+========================
 Exercise 6 (experienced)
-=====================
+========================
 
 Query the DP0.2 Object catalog for the galaxy cluster around Right Ascension 3h43m00.00s and Declination -32d16m19.00s
 to visualize the region where the cluster is and plot the "red sequence" in a color-magnitude diagram
 (for example, ``r-i`` vs ``i``), as illustrated in the first image below.  Then, select the points in the red
 sequence to highlight the cluster members in the image, as shown in the second image below. **Hint 1**: use a
 search radius of 200 arcseconds. **Hint 2**: you can use the ``scisql_nanojanskyToAbMag`` SQL function to convert
-fluxes to magnitudes (filter out negative fluxes before using the function). 
+fluxes to magnitudes (filter out negative fluxes before using the function).
 
-**Definition**: The red sequence in galaxy clusters refers to a tight correlation observed in color-magnitude diagrams, where many of the galaxies in a cluster show a similar red color and brightness, indicating they are older, more evolved galaxies with less star formation.
+**Definition**: The red sequence in galaxy clusters refers to a tight correlation observed in color-magnitude diagrams,
+where many of the galaxies in a cluster show a similar red color and brightness,
+indicating they are older, more evolved galaxies with less star formation.
 
 **Reminder**:
 If this takes more than 20 minutes in this task, in the feedback form please mark
 it as "could not be completed" in the feedback form and indicate how far you got.
 
 :ref:`DP0-Delegate-Resources-Exercises-Form`
-
-
