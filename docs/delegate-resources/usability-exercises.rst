@@ -181,7 +181,7 @@ The galaxy is located at Right Ascension = 3h46m56.21s and Declination = -36d05m
 		The figure has three panels from left to right: the grid of tracts in the DC2 simulation area on the left,
                 the image of tract ``3828`` on the center, and a zoom-in image approximately centered near a particularly
                 bright elongated galaxy on the right.
-	
+
 	Figure 15 from the `The LSST DESC DC2 Simulated Sky Survey <https://ui.adsabs.harvard.edu/abs/2021ApJS..253...31L/abstract>`_ paper
 
 Use the Portal Aspect of the RSP to reproduce the following figure, which shows an image of the same galaxy
@@ -230,7 +230,7 @@ to visualize the region where the cluster is and plot the "red sequence" in a co
 
 	Screenshot of a DC2 galaxy from the Portal Aspect of the RSP.
 
-Then, select the points in the red sequence to highlight the cluster members in the image, as shown in the image below. 
+Then, select the points in the red sequence to highlight the cluster members in the image, as shown in the image below.
 
 .. figure:: /_static/portal_focus_exp2_fig2.png
 	:name: portal_focus_exp2_fig2
