@@ -182,7 +182,7 @@ The galaxy is located at Right Ascension = 3h46m56.21s and Declination = -36d05m
                 the image of tract ``3828`` on the center, and a zoom-in image approximately centered near a particularly
                 bright elongated galaxy on the right.
 
-	Figure 15 from the `The LSST DESC DC2 Simulated Sky Survey <https://ui.adsabs.harvard.edu/abs/2021ApJS..253...31L/abstract>`_ paper
+	Figure 15 from the "The LSST DESC DC2 Simulated Sky Survey" paper.
 
 Use the Portal Aspect of the RSP to reproduce the following figure, which shows an image of the same galaxy
 in the ``r`` band, including:
