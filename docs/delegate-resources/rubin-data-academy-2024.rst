@@ -19,17 +19,15 @@ DP0 Rubin Data Academy 2024
 
 .. This section should provide a brief, top-level description of the page.
 
-
-
 .. _DP0-Delegate-Resources-VSS2023-update:
 
-=========================
-Post-summer school update
-=========================
+.. =========================
+.. Post-summer school update
+.. =========================
 
-**Update, June 23, 2023:**
-This meeting has already taken place.
-See the list of :ref:`DP0-Delegate-Resources-VSS2023-Videos` for links to the recordings of all sessions.
+.. **Update, June 23, 2023:**
+.. This meeting has already taken place.
+.. See the list of :ref:`DP0-Delegate-Resources-VSS2023-Videos` for links to the recordings of all sessions.
 
 
 .. _DP0-Delegate-Resources-VSS2023-overview:
@@ -38,7 +36,7 @@ See the list of :ref:`DP0-Delegate-Resources-VSS2023-Videos` for links to the re
 Overview
 ========
 
-**Dates**: June 12-16, 2023
+**Dates**: June 17-18, 20-21, 2024
 
 **Times** (delegates may attend either session):
 
@@ -48,7 +46,7 @@ Session B: 19:00-21:00 PDT (02:00-04:00 UTC; +1 day)
 
 **Location**: virtual
 
-**Eligibility**: All DP0 delegates are eligible to register for the DP0 Virtual Summer School.
+**Eligibility**: All DP0 delegates are eligible to register for the DP0 Rubin Data Academy.
 There is currently space available for new DP0 delegates:
 for more information about how to become a delegate, see the :ref:`DP0-Delegate-Resources-Get-Started-Checklist`.
 
