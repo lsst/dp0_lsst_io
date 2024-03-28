@@ -59,7 +59,8 @@ and then processed with the LSST Science Pipelines to provide data products (bot
 in the same format as future (real) data releases.  These data products can be accessed and analyzed 
 via the web-based Rubin Science Platform (RSP).  
 
-**Data Preview 0.3** (`DP0.3<https://dp0-3.lsst.io/data-products-dp0-3/>`_), which was released on XX, contains only 
+**Data Preview 0.3** (`DP0.3<https://dp0-3.lsst.io/index.html>`_) 
+which was released on XX, contains only 
 catalogs of simulated Solar System objects, including trans-Neptunian objects (TNOs), main belt asteroids (MBAs), 
 interstellar objects (ISOs), Hildas and Trojan asteroids, long-period comets, and near-Earth objects (NEOs).  
 The DP0.3 data set is composed of two sets of catalogs containing real 
@@ -70,7 +71,7 @@ can be accessed via the Rubin Science Platform (RSP).
 **Goals.**
 The goal of this DP0 Virtual Summer School is to introduce any data-rights holding scientist
 (from undergraduate student to faculty/staff) to both the `DP0.2 dataset <https://dp0-2.lsst.io/data-products-dp0-2/index.html#the-desc-dc2-data-set>`_ 
-and the 
+and the `DP0.2 Dataset <https://dp0-3.lsst.io/data-products-dp0-3/>`_, 
 as well as the RSP and to provide an accelerated learning experience enabling research on Rubin data with a focus on both DP0 datasets.
 In order to develop a thriving Rubin science community, another key goal of the Virtual Summer School is to provide opportunities
 for networking, collaboration, and new-skill acquisition for participants.
