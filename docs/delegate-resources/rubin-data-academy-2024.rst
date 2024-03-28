@@ -71,8 +71,8 @@ can be accessed via the Rubin Science Platform (RSP).
 **Goals.**
 The goal of this DP0 Virtual Summer School is to introduce any data-rights holding scientist
 (from undergraduate student to faculty/staff) to both the `DP0.2 dataset <https://dp0-2.lsst.io/data-products-dp0-2/index.html#the-desc-dc2-data-set>`_ 
-and the `DP0.2 Dataset <https://dp0-3.lsst.io/data-products-dp0-3/>`_, 
-as well as the RSP and to provide an accelerated learning experience enabling research on Rubin data with a focus on both DP0 datasets.
+and the `DP0.3 Dataset <https://dp0-3.lsst.io/data-products-dp0-3/>`_, 
+as well as the RSP, and to provide an accelerated learning experience enabling research on Rubin data with a focus on both DP0 datasets.
 In order to develop a thriving Rubin science community, another key goal of the Virtual Summer School is to provide opportunities
 for networking, collaboration, and new-skill acquisition for participants.
 
@@ -80,18 +80,18 @@ for networking, collaboration, and new-skill acquisition for participants.
 The Virtual Summer School will span 4 days: between June 17 - 18 and June 20 - 21, where each day will be split into two 2-3 hr sessions to
 accommodate the international time-zones of the participants.
 The curriculum will cover key utilities of the RSP (e.g., Catalogs, Images, TAP, Butler) with guided tutorials by members of the
-Rubin Community Engagement Team, and there will be dedicated time for collaborative discussions and hack sessions.
+Rubin Community Science Team, and there will be dedicated time for collaborative discussions and hack sessions.
 The primary meeting platform will be Zoom.
 
 
 
 .. _DP0-Delegate-Resources-VSS2023-Registration:
 
-=================
-Registration form
-=================
+.. =================
+.. Registration form
+.. =================
 
-Registration is closed, as the Summer School has already taken place.
+.. Registration is closed, as the Summer School has already taken place.
 
 
 .. _DP0-Delegate-Resources-VSS2023-SOC:
