@@ -83,8 +83,6 @@ The curriculum will cover key utilities of the RSP (e.g., Catalogs, Images, TAP,
 Rubin Community Science Team, and there will be dedicated time for collaborative discussions and hack sessions.
 The primary meeting platform will be Zoom.
 
-
-
 .. _DP0-Delegate-Resources-VSS2023-Registration:
 
 .. =================
@@ -93,16 +91,15 @@ The primary meeting platform will be Zoom.
 
 .. Registration is closed, as the Summer School has already taken place.
 
-
 .. _DP0-Delegate-Resources-VSS2023-SOC:
 
 ============================
 Science Organizing Committee
 ============================
 
-**CST Members:** Jeff Carlin, Gloria Fonseca Alvarez, Melissa Graham, Ryan Lau, Douglas Tucker
+**CST Members:** Greg Madejski, Jeff Carlin, Gloria Fonseca Alvarez, Melissa Graham, Sarah Greenstreet, Douglas Tucker
 
-**Delegate Members:** Louise Edwards, Nandini Hazra, Vincenzo Petrecca, Fabio Ragosta
+**Delegate Members:** TBD
 
 
 
