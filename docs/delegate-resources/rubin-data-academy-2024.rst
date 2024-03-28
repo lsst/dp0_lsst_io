@@ -88,7 +88,7 @@ The primary meeting platform will be Zoom.
 Science Organizing Committee
 ============================
 
-**CST Members:** Greg Madejski, Jeff Carlin, Gloria Fonseca Alvarez, Melissa Graham, Sarah Greenstreet, Douglas Tucker
+**CST Members:** Greg Madejski, Jeff Carlin, Gloria Fonseca Alvarez, Sarah Greenstreet, Douglas Tucker
 
 **Delegate Members:** TBD
 
