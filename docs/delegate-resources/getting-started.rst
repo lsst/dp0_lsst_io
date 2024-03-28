@@ -110,6 +110,12 @@ Then provide feedback to Rubin Observatory via a designated :ref:`DP0-Delegate-R
 
     usability-exercises
 
+.. toctree::
+    :maxdepth: 1
+    :glob:
+
+    portal-usabilitytest-answerkey.rst
+
 
 **Participate in feedback surveys.**
 When requested, complete feedback surveys for Rubin Observatory.
