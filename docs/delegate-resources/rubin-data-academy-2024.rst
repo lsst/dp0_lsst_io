@@ -11,7 +11,7 @@ DP0 Rubin Data Academy 2024
     - If a file cannot include a title (surrounded by ampersands (#)), comment out the title from the template and include a comment explaining why this is implemented (in addition to applying the ``title`` directive).
 .. This is the label that can be used for cross referencing this file.
 .. Recommended title label format is "Directory Name"-"Title Name" -- Spaces should be replaced by hyphens.
-.. _DP0-Delegate-Resources-VSS2023:
+.. _DP0-Delegate-Resources-RDA2024:
 .. Each section should include a label for cross referencing to a given area.
 .. Recommended format for all labels is "Title Name"-"Section Name" -- Spaces should be replaced by hyphens.
 .. To reference a label that isn't associated with an reST object such as a title or figure, you must include the link and explicit title using the syntax :ref:`link text <label-name>`.
@@ -19,18 +19,9 @@ DP0 Rubin Data Academy 2024
 
 .. This section should provide a brief, top-level description of the page.
 
-.. _DP0-Delegate-Resources-VSS2023-update:
-
-.. =========================
-.. Post-summer school update
-.. =========================
-
-.. **Update, June 23, 2023:**
-.. This meeting has already taken place.
-.. See the list of :ref:`DP0-Delegate-Resources-VSS2023-Videos` for links to the recordings of all sessions.
 
 
-.. _DP0-Delegate-Resources-VSS2023-overview:
+.. _DP0-Delegate-Resources-RDA2024-overview:
 
 ========
 Overview
@@ -83,7 +74,7 @@ The curriculum will cover key utilities of the RSP (e.g., Catalogs, Images, TAP,
 Rubin Community Science Team, and there will be dedicated time for collaborative discussions and hack sessions.
 The primary meeting platform will be Zoom.
 
-.. _DP0-Delegate-Resources-VSS2023-Registration:
+.. _DP0-Delegate-Resources-RDA2024-Registration:
 
 .. =================
 .. Registration form
@@ -91,7 +82,7 @@ The primary meeting platform will be Zoom.
 
 .. Registration is closed, as the Summer School has already taken place.
 
-.. _DP0-Delegate-Resources-VSS2023-SOC:
+.. _DP0-Delegate-Resources-RDA2024-SOC:
 
 ============================
 Science Organizing Committee
@@ -103,7 +94,7 @@ Science Organizing Committee
 
 
 
-.. _DP0-Delegate-Resources-VSS2023-Agenda:
+.. _DP0-Delegate-Resources-RDA2024-Agenda:
 
 ======
 Agenda
@@ -121,13 +112,13 @@ Note that all times are given in the PDT (Pacific Daylight Time) time zone.
 For conversion to your local time, try `this time zone converter <https://www.timeanddate.com/worldclock/converter.html>`__ (use Los Angeles as the anchor for PDT).
 
 
-.. _DP0-Delegate-Resources-VSS2023-Videos:
+.. _DP0-Delegate-Resources-RDA2024-Videos:
 
 ======
 Videos
 ======
 
-For information about the topics covered in each of these sessions, see the :ref:`agenda <DP0-Delegate-Resources-VSS2023-Agenda>` in the section above this one.
+For information about the topics covered in each of these sessions, see the :ref:`agenda <DP0-Delegate-Resources-RDA2024-Agenda>` in the section above this one.
 
 `Monday, June 12, Session A <https://youtu.be/ndNwbC1LADA>`__
 
@@ -158,7 +149,7 @@ The workshop will include automated captions, written instructions, and breaks.
 All tutorials will be available beforehand and the website will include accessibility-related information.
 
 
-.. _DP0-Delegate-Resources-VSS2023-Contact:
+.. _DP0-Delegate-Resources-RDA2024-Contact:
 
 =======
 Contact
