@@ -41,7 +41,7 @@
      - Q&A with Rubin staff, co-working time
    * - 2024-03-21
      - tutorial
-     - How to upload tables to the Portal Aspect (Christina Williams)
+     - How to upload tables to the Portal Aspect <https://community.lsst.org/t/rubin-science-assembly-thu-21-march-2024-how-to-upload-tables-to-the-portal-aspect/8390/4>`_ (Christina Williams)
    * - 2024-03-28
      - drop-in
      - Q&A with Rubin staff, co-working time
