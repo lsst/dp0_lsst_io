@@ -63,3 +63,15 @@
    * - 2024-05-09
      - drop-in
      - Q&A with Rubin staff, co-working time
+   * - 2024-05-16
+     - tutorial
+     - How to use the image cutout service (Christina Williams)
+   * - 2024-05-23
+     - drop-in
+     - Q&A with Rubin staff, co-working time
+   * - 2024-05-30
+     - tutorial
+     - How to do synthetic source injection (Jeff Carlin)
+   * - 2024-06-06
+     - drop-in
+     - Q&A with Rubin staff, co-working time
