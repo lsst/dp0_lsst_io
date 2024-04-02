@@ -47,7 +47,7 @@
      - Q&A with Rubin staff, co-working time
    * - 2024-04-04
      - tutorial
-     - Phase curve analysis in the Portal Aspect (Yumi Choi)
+     - Phase curve fit analysis in the Portal Aspect (Yumi Choi)
    * - 2024-04-11
      - drop-in
      - Q&A with Rubin staff, co-working time
