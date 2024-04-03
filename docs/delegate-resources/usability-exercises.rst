@@ -52,9 +52,7 @@ The `Portal (Firefly) Help pages <https://data.lsst.cloud/portal/app/onlinehelp/
 
 **Answer key.**
 In some cases, there are multiple ways to achieve a task in the RSP.
-Find at least one demonstration per exercise in the
-`Portal usability test answer key <https://dp0-2.lsst.io/tutorials-examples/portal-usabilitytest-answerkey.html>`_.
-
+Find at least one demonstration per exercise in the :doc:`/delegate-resources/portal-usabilitytest-answerkey`
 
 .. _DP0-Delegate-Resources-Exercises-Form:
 
