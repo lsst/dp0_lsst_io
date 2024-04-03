@@ -252,11 +252,11 @@ Step 1. Find the image of the galaxy in the ``r`` band
 
 1.3. In the table on the right, under “Output Column Selection and Constraints”, search for “lsst_tract” and enter “=3828” in the “constraints” column.
 
-1.4. Enter the galaxy's right ascension and declination, 3h46m56.21s, -36d05m27.7s, in "Coords or Onj. Name" under "Location". 
+1.4. Enter the galaxy's right ascension and declination, 3h46m56.21s, -36d05m27.7s, in "Coords or Onj. Name" under "Location".
 
 1.5. Click “Search” at the lower left.
 
-1.6. In the table at the bottom select the third row, corresponding to the image in the "r" band. 
+1.6. In the table at the bottom select the third row, corresponding to the image in the "r" band.
 
 1.7. In the "Data Product: ivoa.obsCore" tab where the image is displayed,
 enter the galaxy coordinates again in the "Image Center Dropdown", and click on "Go".
@@ -268,9 +268,12 @@ use the zoom icons at the upper left part to zoom in the galaxy center.
 Step 2. Overlay compass and WFC3-IR's field of view
 ===================================================
 
-2.1. Select the "Tools" drop-down (the icon with a wrench) menu. Go to "Layers" and click on the first icon the left with an "N" and an "E" to overlay the compass with the cardinal points. 
+2.1. Select the "Tools" drop-down (the icon with a wrench) menu.
+Go to "Layers" and click on the first icon the left with an "N" and an "E" to overlay the compass with the cardinal points.
 
-2.2. In the same "Layers" row, select the last icon "Overlay Markers and Instrument Footprints". Go to "Add HST footprint" and select "WFC3/IR". Click on the footprint that appears on the image and move it so that it is centered on the galaxy.  
+2.2. In the same "Layers" row, select the last icon "Overlay Markers and Instrument Footprints".
+Go to "Add HST footprint" and select "WFC3/IR".
+Click on the footprint that appears on the image and move it so that it is centered on the galaxy.
 
 
 Step 3. Extract the flux profile of the galaxy and save it as a CSV file
