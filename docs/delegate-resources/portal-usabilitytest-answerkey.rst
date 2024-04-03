@@ -24,22 +24,22 @@ Portal Usability Test Answer Key
 
 **Contact authors:** Andrés A. Plazas Malagón and Gloria Fonseca Alvarez
 
-**Last verified to run:** 2024-01-22
+**Last verified to run:** 2024-03-02
 
-**Link to Portal usability test:** https://forms.gle/EVqX29G3i2o7cvXE6
+**Link to Portal usability tests:** :doc:`/delegate-resources/usability-exercises`
 
 **Introduction:**
 The following is the answer key for the tasks in the Portal usability test. The test was designed to understand how users interact with the Portal functionality.
-Anyone is welcome to do the Portal usability test and submit their responses via
-the Google form linked above.
+Anyone is welcome to do the Portal usability tests and submit their responses via
+the following Google form: `https://forms.gle/PdqNgW8ErV277tih9 <https://forms.gle/PdqNgW8ErV277tih9>`_
 
 .. _DP0-2-Portal-UTAK-beginner-task1:
 
-===============
-Beginner Task 1
-===============
+=====================
+Exercise 1 (beginner)
+=====================
 
-Retrieve the g_psfFlux, g_calibFlux, and the g_extendedness columns from the DP0.2 Object catalog for objects within 15 arcminutes of the galaxy cluster at Right Ascension 55.75 degrees and Declination -32.27 degrees. Plot the psfFlux vs. the calibFlux. In the results table, impose a constraint to only plot objects with extendedness equal to 1. Change the plot symbols to open purple circles.
+Retrieve the ``g_psfFlux``, ``g_calibFlux``, and the ``g_extendedness`` columns from the DP0.2 Object catalog for objects within 15 arcminutes of the galaxy cluster at Right Ascension 55.75 degrees and Declination -32.27 degrees. Plot the ``psfFlux`` vs. the ``calibFlux`` flux columns. In the results table, impose a constraint to only plot objects with extendedness equal to 1. Change the plot symbols to open purple circles.
 
 Step 1. Query the DP0.2 Object catalog
 ======================================
@@ -76,13 +76,15 @@ Step 3. Plot only extended objects
 
 .. _DP0-2-Portal-UTAK-beginner-task2:
 
-===============
-Beginner Task 2
-===============
+=====================
+Exercise 2 (beginner)
+=====================
 
-Create a g-r color vs. i magnitude diagram using the calibFlux columns in the DP0.2 Object catalog, for all objects within 120 arcseconds of Right Ascension 60 degrees and Declination -35 degrees. Zoom in on the clump of points with color values approximately in the range of -4 < g-r < 4. Save the plot as a PNG file to your local computer.
-
-Hint: After retrieving the {band}_calibFlux columns, use the expression (-2.5*log10({band}_calibFlux) + 31.4) to convert the fluxes in nanoJankys to magnitudes in the AB system.
+Create a ``g-r`` color vs. ``i`` magnitude diagram using the ``calibFlux`` columns in the DP0.2 Object catalog,
+for all objects within 120 arcseconds of Right Ascension 60 degrees and Declination -35 degrees.
+Zoom in on the clump of points with color values approximately in the range of -4 < ``g-r`` < 4.
+Save the plot as a PNG file to your local computer. **Hint**: After retrieving the ``{band}_calibFlux`` columns,
+use the expression ``(-2.5*log10({band}_calibFlux) + 31.4)`` to convert the fluxes in nanoJankys to magnitudes in the AB system.
 
 Step 1. Query the DP0.2 Object catalog
 ======================================
@@ -113,17 +115,22 @@ Step 3. Zoom-in and save the diagram
 
 .. figure:: /_static/portal_UTAK_beginner_task2.png
 	:name: portal_UTAK_beginner_task2
-	:alt: The chart shows a color magnitude diagram, g-band minus r-band  vs i-band magnitude, for the objects returned by the search query.
+	:alt: The chart shows a color-magnitude diagram, g-band minus r-band  vs i-band magnitude, for the objects returned by the search query.
 
         The g-r color vs i magnitude diagram
 
 .. _DP0-2-Portal-UTAK-intermediate-task1:
 
-===================
-Intermediate Task 1
-===================
+=========================
+Exercise 3 (intermediate)
+=========================
 
-Retrieve the four DP0.2 processed visit images (PVI) images obtained with LSST band i, before the date of MJD 59840, whose boundaries contain the point with Right Ascension 55.75 degrees and Declination -32.27 degrees. In the results view, choose the option to display the six images in a grid. Use the "Image center drop down" tool to center the first displayed image on the search coordinates. Use the "Image alignment drop down" tool to align and lock all displayed images by the World Coordinate System (WCS) and zoom-in 3 times
+Retrieve the four DP0.2 processed visit images (PVI), also known as "calexp" images, obtained with LSST band ``i``,
+before the date of ``MJD 59840``, whose boundaries contain the point with Right Ascension 55.75 degrees
+and Declination -32.27 degrees. In the results view, choose the option to display the images in a grid.
+Use the "Image center drop down" tool to center the first displayed image on the search coordinates.
+Use the "Image alignment drop down" tool to align and lock all displayed images by the World Coordinate System (WCS)
+and zoom-in 3 times.
 
 Step 1. Retrieve processed visit images
 =======================================
@@ -161,11 +168,21 @@ Step 2. View and align the images
 
 .. _DP0-2-Portal-UTAK-intermediate-task2:
 
-===================
-Intermediate Task 2
-===================
+=========================
+Exercise 4 (intermediate)
+=========================
 
-Use the ADQL interface to obtain, from the DP0.2 DiaSource table, an r-band light curve for the Type Ia supernova which has a diaObjectId of 1250953961339360185. Retrieve the r-band fluxes and their errors derived from a linear least-squares fit of a PSF model, and the effective mid-exposure time, for all diaSources associated with this diaObjectId. Plot the light curve as the flux as a function of time, with error bars associated to each flux point. Change the plot style to use connected points, the point style to be red circles, and then sort the results by midPointTai. Update the plot axes labels to be "PSF Difference-Image Flux" and "MJD of the Exposure Midpoint".
+Use the ADQL interface to obtain, from the DP0.2 DiaSource table, an ``r``-band light curve for the Type Ia supernova
+which has a ``diaObjectId`` of ``1250953961339360185``. Retrieve the ``r``-band fluxes and their errors derived from
+a linear least-squares fit of a PSF model, and the effective mid-exposure time, for all ``diaSources`` associated
+with this ``diaObjectId``. Plot the light curve as the flux as a function of time, with error bars associated with
+each flux point. Change the plot style to use connected points, the point style to be red circles, and then sort the
+results by ``midPointTai``.
+Update the plot axes labels to be "PSF Difference-Image Flux" and "MJD of the Exposure Midpoint".
+Save the plot as a PNG file to your local computer.
+
+**Hint**: In the ADQL query, the filter name will need to be
+formatted as a string (e.g., ``'r'``).
 
 Hint: In the ADQL query, the filter name will need to be formatted as a string (e.g., 'r').
 
@@ -203,87 +220,87 @@ Step 2. Create a light curve plot
 
 	The light curve after sorting by the exposure midpoint
 
+2.5. Click on the Active Chart "save" icon to download the image as a PNG.
+
 .. _DP0-2-Portal-UTAK-experienced-task1:
 
-==================
-Experienced Task 1
-==================
+========================
+Exercise 5 (experienced)
+========================
 
-The following figure, taken from the DP0.2 data products page, has three panels: the grid of tracts in the DC2 simulation area, the image of tract 3828, and a zoom-in image approximately centered near a particularly bright elongated galaxy. Use the Portal Aspect to find the ObjectId of that galaxy in the DP0.2 Object catalog.
+The following figure, which corresponds to Figure 15 from the
+`The LSST DESC DC2 Simulated Sky Survey <https://ui.adsabs.harvard.edu/abs/2021ApJS..253...31L/abstract>`_ paper,
+has three panels: the grid of tracts in the DC2 simulation area on the left, the image of tract ``3828`` on the center,
+and a zoom-in image approximately centered near a particularly bright elongated galaxy on the right.
+The galaxy is located at Right Ascension = 3h46m56.21s and Declination = -36d05m27.7s (EQ_J2000).
 
-Hint: Do an image search to find the right ascension (RA) and declination (DEC) coordinates of the object and then a catalog search.
+Use the Portal Aspect of the RSP to reproduce the following figure, which shows an image of the same galaxy
+in the ``r`` band, including:
 
-Hint: Query for bright extended objects near the tract center and then visually review the results until you find the target.
+* The compass with cardinal points (N-E compass)
+* The footprint of the Hubble Space Telescope Wide Field Camera 3 - Infrared channel (WFC3/IR)
+* The extraction of a light profile of the galaxy. Save the light profile as a CSV file.
 
-Step 1. Find the coordinates of the galaxy
-==========================================
+**Hint**: Use a color stretch "Linear: Stretch -1 Sigma to 30 Sigma” to resemble the figure below.
+
+Step 1. Find the image of the galaxy in the ``r`` band
+======================================================
 
 1.1. Check the “Use Image Search (ObsTAP)” box below “LSST DP0.2 DC2 Tables”. Under “Enter Constraints”, unselect the box to the left of "Observation Type and Source" and “Location”.
 
-1.2. In the table on the right, under “Output Column Selection and Constraints”, search for “lsst_tract” and enter “=3828” in the “constraints” column.
+1.2 In "Calibration Level" under "Observation Type and Source", check the box "3".
 
-1.3. Click “Search” at lower left.
+1.3. In the table on the right, under “Output Column Selection and Constraints”, search for “lsst_tract” and enter “=3828” in the “constraints” column.
 
-1.4. Under the "Coverage" tab, visually inspect each patch and find the coordinates of the galaxy. The galaxy is in patch 38, with coordinates around "56.74, -36.08".
+1.4. Enter the galaxy's right ascension and declination, 3h46m56.21s, -36d05m27.7s, in "Coords or Onj. Name" under "Location". 
 
+1.5. Click “Search” at the lower left.
 
-Step 2. Query for bright extended objects
-=========================================
+1.6. In the table at the bottom select the third row, corresponding to the image in the "r" band. 
 
-2.1. On the upper right of the portal aspect, click on “Edit ADQL”.
+1.7. In the "Data Product: ivoa.obsCore" tab where the image is displayed,
+enter the galaxy coordinates again in the "Image Center Dropdown", and click on "Go".
+use the zoom icons at the upper left part to zoom in the galaxy center.
 
+1.8. In the same "Data Product: ivoa.obsCore" tab, click on the stretch drop down, and select
+"Linear: Stretch -1 Sigma to 30 Sigma”
 
-2.2. Query for extended objects brighter than 20th magnitude, near the coordinates of the galaxy, including objectId.
+Step 2. Overlay compass and WFC3-IR's field of view
+===================================================
 
-.. code-block:: SQL
+2.1. Select the "Tools" drop-down (the icon with a wrench) menu. Go to "Layers" and click on the first icon the left with an "N" and an "E" to overlay the compass with the cardinal points. 
 
-	SELECT coord_dec, coord_ra, detect_isPrimary, objectId,
-       	g_extendedness, r_extendedness, i_extendedness,
-       	scisql_nanojanskyToAbMag(g_cModelFlux) as gmag,
-       	scisql_nanojanskyToAbMag(r_cModelFlux) as rmag,
-       	scisql_nanojanskyToAbMag(i_cModelFlux) as imag
-	FROM dp02_dc2_catalogs.Object
-	WHERE CONTAINS(POINT('ICRS', coord_ra, coord_dec),CIRCLE('ICRS', 56.74, -36.08, 1))=1
-        AND (detect_isPrimary =1
-       	AND scisql_nanojanskyToAbMag(g_cModelFlux) < 20 AND g_extendedness =1
-       	AND scisql_nanojanskyToAbMag(r_cModelFlux) < 20 AND r_extendedness =1
-       	AND scisql_nanojanskyToAbMag(i_cModelFlux) < 20 AND i_extendedness =1)
+2.2. In the same "Layers" row, select the last icon "Overlay Markers and Instrument Footprints". Go to "Add HST footprint" and select "WFC3/IR". Click on the footprint that appears on the image and move it so that it is centered on the galaxy.  
 
 
-Step 3. Narrow down the number of objects and visually inspect
-==============================================================
+Step 3. Extract the flux profile of the galaxy and save it as a CSV file
+========================================================================
 
-3.1. Click on the Active Chart settings icon (two gears) and choose “Add New Chart”. Next to “Radius”, from the drop down menu, choose “Histogram”. Enter “gmag” for “Column or Expression”. Repeat for “rmag” and “imag” to see the distribution of magnitudes in the three bands. Particularly bright objects have magnitudes < 16.
+3.1. In the "Tools" drop-down menu, go to "Extract". Click on "Extract Line from Image" and draw a line along the galaxy by dragging the cursor in the image.
+The light profile should populate automatically in a new window.
 
-
-3.2. In the results table, under the column “rmag” and “imag”, enter “< 16.5” to narrow down the results.
-
-
-3.3. Select the “Coverage” tab and click on the first result from the table. Zoom-in to visually inspect the object.
-
-
-3.4. Scroll through and visually inspect the results until finding the galaxy (objectId = 1650235011896472264).
-
-.. figure:: /_static/portal_UTAK_experienced_task1.png
-	:name: portal_UTAK_experienced_task1
-	:alt: A screenshot of the image display for the elongated galaxy and table results.
-
-	Image of the particularly bright elongated galaxy
-
+3.2 In the light profile window, click on "Download as Table" and select the CSV format before saving.
 
 .. _DP0-2-Portal-UTAK-experienced-task2:
 
-==================
-Experienced Task 2
-==================
+========================
+Exercise 6 (experienced)
+========================
 
-Query the DP0.2 Object catalog for the galaxy cluster around Right Ascension 3h43m00.00s and Declination -32d16m19.00s to visualize the region where the cluster is and plot the red-sequence* in a color-magnitude diagram (for example, r-i vs i), as illustrated in the first image below.  Then, select the points in the red sequence to highlight the cluster members in the image, as shown in the second image below.
+Query the DP0.2 Object catalog for the galaxy cluster around Right Ascension 3h43m00.00s and Declination -32d16m19.00s
+to visualize the region where the cluster is and plot the "red sequence" in a color-magnitude diagram
+(for example, ``r-i`` vs ``i``), as illustrated in the image below.
 
-Hint: use a search radius of 200 arcseconds.
+Then, select the points in the red sequence to highlight the cluster members in the image, as shown in the image below.
 
-Hint: you can use the scisql_nanojanskyToAbMag SQL function to convert fluxes to magnitudes.
+**Hint 1**: use a search radius of 200 arcseconds.
 
-* Definition: The red sequence in galaxy clusters refers to a tight correlation observed in color-magnitude diagrams, where many of the galaxies in a cluster show a similar red color and brightness, indicating they are older, more evolved galaxies with less star formation.
+**Hint 2**: you can use the ``scisql_nanojanskyToAbMag`` SQL function to convert
+fluxes to magnitudes (filter out negative fluxes before using the function).
+
+**Definition**: The red sequence in galaxy clusters refers to a tight correlation observed in color-magnitude diagrams,
+where many of the galaxies in a cluster show a similar red color and brightness,
+indicating they are older, more evolved galaxies with less star formation.
 
 Step 1. Visualize the region of the cluster
 ===========================================
