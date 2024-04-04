@@ -41,14 +41,14 @@ and might be much faster depending on RSP experience.
 
 **Resources.**
 First, try the exercise on its own, then use any of these resources
-which are relevant.
-The `DP0.2 documentation <http://dp0-2.lsst.io>`_,
+which are relevant:
+the `DP0.2 documentation <http://dp0-2.lsst.io>`_,
 `DP0.2 schema browser <https://dm.lsst.org/sdm_schemas/browser/dp02.html>`_,
-and `DP0.2 Portal tutorials <https://dp0-2.lsst.io/tutorials-examples/index.html#portal-tutorials>`_.
-The `DP0.3 documentation <http://dp0-3.lsst.io>`_,
+and `DP0.2 Portal tutorials <https://dp0-2.lsst.io/tutorials-examples/index.html#portal-tutorials>`_;
+the `DP0.3 documentation <http://dp0-3.lsst.io>`_,
 `DP0.3 schema browser <https://dm.lsst.org/sdm_schemas/browser/dp03.html>`_,
-and `DP0.3 Portal tutorials <https://dp0-3.lsst.io/tutorials-dp0-3/index.html>`_.
-The `Portal (Firefly) Help pages <https://data.lsst.cloud/portal/app/onlinehelp/>`_ (image display).
+and `DP0.3 Portal tutorials <https://dp0-3.lsst.io/tutorials-dp0-3/index.html>`_;
+and the `Portal (Firefly) Help pages <https://data.lsst.cloud/portal/app/onlinehelp/>`_ (image display).
 
 **Answer key.**
 In some cases, there are multiple ways to achieve a task in the RSP.
