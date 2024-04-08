@@ -51,13 +51,13 @@ in the same format as future (real) data releases.  These data products can be a
 via the web-based Rubin Science Platform (RSP).  
 
 **Data Preview 0.3** (`DP0.3<https://dp0-3.lsst.io/index.html>`_) 
-which was released on XX, contains only 
+which was released around July 1 2023, contains only 
 catalogs of simulated Solar System objects, including trans-Neptunian objects (TNOs), main belt asteroids (MBAs), 
 interstellar objects (ISOs), Hildas and Trojan asteroids, long-period comets, and near-Earth objects (NEOs).  
 The DP0.3 data set is composed of two sets of catalogs containing real 
 and simulated solar system and interstellar objects: one that represents LSST results after one year, and the other 
 represents LSST results at the end of the 10 year survey. The DP0.3 data set is hosted on, and 
-can be accessed via the Rubin Science Platform (RSP).  
+can be accessed via the Rubin Science Platform (RSP).  In the Data Academy, we will only consider the 10-year catalogs.  
 
 **Goals.**
 The goal of this DP0 Virtual Summer School is to introduce any data-rights holding scientist
@@ -120,23 +120,23 @@ Videos
 
 For information about the topics covered in each of these sessions, see the :ref:`agenda <DP0-Delegate-Resources-RDA2024-Agenda>` in the section above this one.
 
-`Monday, June 12, Session A <https://youtu.be/ndNwbC1LADA>`__
+.. `Monday, June 12, Session A <https://youtu.be/ndNwbC1LADA>`__
 
-`Monday, June 12, Session B <https://youtu.be/IAx74kMrC0E>`__
+.. `Monday, June 12, Session B <https://youtu.be/IAx74kMrC0E>`__
 
-`Tuesday, June 13, Session A <https://youtu.be/4bge8CN5Ojg>`__
+.. `Tuesday, June 13, Session A <https://youtu.be/4bge8CN5Ojg>`__
 
-`Tuesday, June 13, Session B <https://youtu.be/R2QbRmqsiEw>`__
+.. `Tuesday, June 13, Session B <https://youtu.be/R2QbRmqsiEw>`__
 
-`Wednesday, June 14, Session A <https://youtu.be/dnXPTfybf0w>`__
+.. `Wednesday, June 14, Session A <https://youtu.be/dnXPTfybf0w>`__
 
-`Wednesday, June 14, Session B <https://youtu.be/tuGrMPvFp-Y>`__
+.. `Wednesday, June 14, Session B <https://youtu.be/tuGrMPvFp-Y>`__
 
-`Thursday, June 15, Session A <https://youtu.be/FrtXr3RGuKk>`__
+.. `Thursday, June 15, Session A <https://youtu.be/FrtXr3RGuKk>`__
 
-`Thursday, June 15, Session B <https://youtu.be/pycrXcNij8M>`__
+.. `Thursday, June 15, Session B <https://youtu.be/pycrXcNij8M>`__
 
-`Friday, June 16, Session A <https://youtu.be/26eqXwZp_64>`__
+.. `Friday, June 16, Session A <https://youtu.be/26eqXwZp_64>`__
 
 
 =============
