@@ -47,7 +47,7 @@
      - Q&A with Rubin staff, co-working time
    * - 2024-04-04
      - tutorial
-     - Phase curve analysis in the Portal Aspect (Yumi Choi)
+     - `Phase curve analysis in the Portal Aspect <https://community.lsst.org/t/rubin-science-assembly-thu-4-april-2024-at-9-am-pdt-pd0-3-phase-curve-fit-analysis-in-the-portal-aspect/8429>`_ (Yumi Choi)
    * - 2024-04-11
      - drop-in
      - Q&A with Rubin staff, co-working time
