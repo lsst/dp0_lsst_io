@@ -39,7 +39,7 @@ Session B: 19:00-21:00 PDT (02:00-04:00 UTC; +1 day)
 
 **Eligibility**: All DP0 delegates are eligible to register for the DP0 Rubin Data Academy.
 There is currently space available for new DP0 delegates:
-for more information about how to become a delegate, see the :ref:`DP0-Delegate-Resources-Get-Started-Checklist`.
+for more information about how to become a delegate, see the "Getting started" `document <https://dp0.lsst.io/delegate-resources/getting-started.html>`_.  
 
 **What is DP0?**
 Rubin Data Previews use simulated data products, but the tools and the data formats are similar to what the real data and the Rubin Science Platform (RSP) will look like. 
