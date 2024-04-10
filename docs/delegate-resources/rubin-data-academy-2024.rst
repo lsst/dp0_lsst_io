@@ -62,7 +62,7 @@ represents LSST results at the end of the 10 year survey. The DP0.3 data set is 
 can be accessed via the Rubin Science Platform (RSP).  In the Data Academy, we will only consider the 10-year catalogs.  
 
 **Goals.**
-The goal of this DP0 Virtual Summer School is to introduce any data-rights holding scientist
+The goal of this DP0 Rubin Data Academy is to introduce any data-rights holding scientist
 (from undergraduate student to faculty/staff) to both the `DP0.2 dataset <https://dp0-2.lsst.io/data-products-dp0-2/index.html#the-desc-dc2-data-set>`_ 
 and the `DP0.3 dataset <https://dp0-3.lsst.io/data-products-dp0-3/>`_, 
 as well as the RSP, and to provide an accelerated learning experience enabling research on Rubin data with a focus on both DP0 datasets.
