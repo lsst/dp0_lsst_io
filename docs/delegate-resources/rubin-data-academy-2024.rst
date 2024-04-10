@@ -42,7 +42,7 @@ There is currently space available for new DP0 delegates:
 for more information about how to become a delegate, see the "Getting started" `document <https://dp0.lsst.io/delegate-resources/getting-started.html>`_.  
 
 **What is DP0?**
-Rubin Data Previews use simulated data products, but the tools and the data formats are similar to what the real data and the Rubin Science Platform (RSP) will look like. 
+Rubin Data Previews use simulated data products, but the tools and the data formats are similar to what the real data and the `Rubin Science Platform (RSP) <https://dp0-2.lsst.io/data-access-analysis-tools/index.html#rubin-science-platform-rsp>`_ will look like. 
 This provides an excellent opportunity to prepare for the release of the first real data products.
 There are two distinct datasets that are available for the Delegates in the Data Preview 0 (DP0).  
 
