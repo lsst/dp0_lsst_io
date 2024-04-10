@@ -42,6 +42,8 @@ There is currently space available for new DP0 delegates:
 for more information about how to become a delegate, see the :ref:`DP0-Delegate-Resources-Get-Started-Checklist`.
 
 **What is DP0?**
+Rubin Data Previews use simulated data products, but the tools and the data formats are similar to what the real data and the Rubin Science Platform (RSP) will look like. 
+This provides an excellent opportunity to prepare for the release of the first real data products.
 There are two distinct datasets that are available for the Delegates in the Data Preview 0 (DP0).  
 
 **Data Preview 0.2** (`DP0.2 <https://dp0-2.lsst.io>`_), which was released on June 30, 2022, is based on simulated
@@ -68,19 +70,19 @@ In order to develop a thriving Rubin science community, another key goal of the 
 for networking, collaboration, and new-skill acquisition for participants.
 
 **Schedule.**
-The Virtual Summer School will span 4 days: between June 17 - 18 and June 20 - 21, where each day will be split into two 2-3 hr sessions to
-accommodate the international time-zones of the participants.
+The Virtual Summer School will span 4 days: between June 17 - 18 and June 20 - 21, where each day will be split into two 2-3 hr sessions 
+(covering essentially the same material) to accommodate the international time-zones of the participants.
 The curriculum will cover key utilities of the RSP (e.g., Catalogs, Images, TAP, Butler) with guided tutorials by members of the
 Rubin Community Science Team, and there will be dedicated time for collaborative discussions and hack sessions.
 The primary meeting platform will be Zoom.
 
 .. _DP0-Delegate-Resources-RDA2024-Registration:
 
-.. =================
-.. Registration form
-.. =================
+=================
+Registration form
+=================
 
-.. Registration is closed, as the Summer School has already taken place.
+To register, please enter the requested information in the form linked `here <https://docs.google.com/forms/d/1tZOUS9JCa4629LYTZPpQj4vqZCXH_23JMFtqj-GCXx0>`_.  
 
 .. _DP0-Delegate-Resources-RDA2024-SOC:
 
@@ -102,23 +104,23 @@ Agenda
 
 .. raw:: html
 
-    <iframe height="800" width="100%" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjY-QNzC4MBiYcBjvqFiNK0PM9j_DqnL6jB56FcTB4YYHtdWckIW-IHlw2IrQ0sf01d1qQHxr7Ljj2/pubhtml?gid=1347880957&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+ ..   <iframe height="800" width="100%" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjY-QNzC4MBiYcBjvqFiNK0PM9j_DqnL6jB56FcTB4YYHtdWckIW-IHlw2IrQ0sf01d1qQHxr7Ljj2/pubhtml?gid=1347880957&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-Download the agenda as a pdf file: :download:`agenda </_static/DP0_Virtual_Summer_School_agenda.pdf>`.
+.. Download the agenda as a pdf file: :download:`agenda </_static/DP0_Virtual_Summer_School_agenda.pdf>`.
 
-Download the agenda as a txt file: :download:`agenda </_static/vss_agenda.txt>`.
+.. Download the agenda as a txt file: :download:`agenda </_static/vss_agenda.txt>`.
 
-Note that all times are given in the PDT (Pacific Daylight Time) time zone.
+.  Note that all times are given in the PDT (Pacific Daylight Time) time zone.
 For conversion to your local time, try `this time zone converter <https://www.timeanddate.com/worldclock/converter.html>`__ (use Los Angeles as the anchor for PDT).
 
 
 .. _DP0-Delegate-Resources-RDA2024-Videos:
 
-======
-Videos
-======
+.. ======
+.. Videos
+.. ======
 
-For information about the topics covered in each of these sessions, see the :ref:`agenda <DP0-Delegate-Resources-RDA2024-Agenda>` in the section above this one.
+.. For information about the topics covered in each of these sessions, see the :ref:`agenda <DP0-Delegate-Resources-RDA2024-Agenda>` in the section above this one.
 
 .. `Monday, June 12, Session A <https://youtu.be/ndNwbC1LADA>`__
 
