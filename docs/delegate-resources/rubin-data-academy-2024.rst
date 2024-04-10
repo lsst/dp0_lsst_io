@@ -102,15 +102,17 @@ Science Organizing Committee
 Agenda
 ======
 
+The agenda is still under construction.  
+
 .. raw:: html
 
- ..   <iframe height="800" width="100%" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjY-QNzC4MBiYcBjvqFiNK0PM9j_DqnL6jB56FcTB4YYHtdWckIW-IHlw2IrQ0sf01d1qQHxr7Ljj2/pubhtml?gid=1347880957&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+.. <iframe height="800" width="100%" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjY-QNzC4MBiYcBjvqFiNK0PM9j_DqnL6jB56FcTB4YYHtdWckIW-IHlw2IrQ0sf01d1qQHxr7Ljj2/pubhtml?gid=1347880957&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 .. Download the agenda as a pdf file: :download:`agenda </_static/DP0_Virtual_Summer_School_agenda.pdf>`.
 
 .. Download the agenda as a txt file: :download:`agenda </_static/vss_agenda.txt>`.
 
-.  Note that all times are given in the PDT (Pacific Daylight Time) time zone.
+Note that all times in the Agenda will be given in the PDT (Pacific Daylight Time) time zone.
 For conversion to your local time, try `this time zone converter <https://www.timeanddate.com/worldclock/converter.html>`__ (use Los Angeles as the anchor for PDT).
 
 
