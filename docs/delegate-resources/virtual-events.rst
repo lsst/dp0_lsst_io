@@ -71,7 +71,7 @@ time for networking and co-working. Students with no prior experience are especi
 2024
 ----
 
-Save the date! To be held virtually, June 17-18 & 20-21, 2024.  
+Save the date! To be held virtually, June 17-18 & 20-21, 2024.
 
 The provisional Web page is `here <https://github.com/lsst/dp0_lsst_io/blob/tickets/PREOPS-4966/docs/delegate-resources/rubin-data-academy-2024.rst>`_.
 
