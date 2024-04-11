@@ -94,8 +94,6 @@ Science Organizing Committee
 
 **Delegate Members:** TBD
 
-
-
 .. _DP0-Delegate-Resources-RDA2024-Agenda:
 
 ======
