@@ -52,7 +52,7 @@ and then processed with the LSST Science Pipelines to provide data products (bot
 in the same format as future (real) data releases.  These data products can be accessed and analyzed
 via the web-based Rubin Science Platform (RSP).
 
-**Data Preview 0.3** (`DP0.3<https://dp0-3.lsst.io/index.html>`_)
+**Data Preview 0.3** (`DP0.3 <https://dp0-3.lsst.io/index.html>`_)
 which was released around July 1 2023, contains only
 catalogs of simulated Solar System objects, including trans-Neptunian objects (TNOs), main belt asteroids (MBAs),
 interstellar objects (ISOs), Hildas and Trojan asteroids, long-period comets, and near-Earth objects (NEOs).
