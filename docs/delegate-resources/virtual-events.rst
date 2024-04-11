@@ -73,7 +73,12 @@ time for networking and co-working. Students with no prior experience are especi
 
 Save the date! To be held virtually, June 17-18 & 20-21, 2024.
 
-The provisional Web page is `here <https://github.com/lsst/dp0_lsst_io/blob/tickets/PREOPS-4966/docs/delegate-resources/rubin-data-academy-2024.rst>`_.
+.. toctree::
+    :maxdepth: 1
+    :glob:
+
+    rubin-data-academy-2024
+
 
 ----
 2023
@@ -85,8 +90,7 @@ Held virtually June 12-16, 2023.
     :maxdepth: 1
     :glob:
 
-    `virtual-summer-school-2023 <https://dp0.lsst.io/delegate-resources/virtual-summer-school-2023.html>`_
-
+    virtual-summer-school-2023
 
 
 .. _DP0-Delegate-Resources-Virtual-Events-Custom:
