@@ -84,7 +84,7 @@ Registration form
 
 To register, please enter the requested information in the form linked `here <https://docs.google.com/forms/d/1tZOUS9JCa4629LYTZPpQj4vqZCXH_23JMFtqj-GCXx0>`_.
 
-.. _DP0-Delegate-Resources-RDA2024-SOC
+.. _DP0-Delegate-Resources-RDA2024-SOC:
 
 ============================
 Science Organizing Committee
