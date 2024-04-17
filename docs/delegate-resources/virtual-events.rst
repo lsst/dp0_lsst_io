@@ -73,6 +73,13 @@ time for networking and co-working. Students with no prior experience are especi
 
 Save the date! To be held virtually, June 17-18 & 20-21, 2024.
 
+.. toctree::
+    :maxdepth: 1
+    :glob:
+
+    rubin-data-academy-2024
+
+
 ----
 2023
 ----
