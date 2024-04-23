@@ -53,7 +53,7 @@
      - Q&A with Rubin staff, co-working time
    * - 2024-04-18
      - tutorial
-     - How to create custom coadds (Aaron Meisner)
+     - `How to create custom coadds <https://community.lsst.org/t/rubin-science-assembly-thu-18-april-2024-at-9-am-pdt-how-to-create-custom-coadds/8473/2>`_ (Aaron Meisner)
    * - 2024-04-25
      - drop-in
      - Q&A with Rubin staff, co-working time
