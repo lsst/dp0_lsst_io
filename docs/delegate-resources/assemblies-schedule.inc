@@ -57,12 +57,12 @@
    * - 2024-04-25
      - drop-in
      - Q&A with Rubin staff, co-working time
-   * - 2024-05-09
-     - cancelled
-     - N/A
    * - 2024-05-02
      - tutorial
      - How to analyze the LSST point-spread function (PSF; Andrés Plazas Malagón)
+   * - 2024-05-09
+     - cancelled
+     - N/A
    * - 2024-05-16
      - tutorial
      - How to use the image cutout service (Christina Williams)
@@ -84,3 +84,15 @@
    * - 2024-06-27
      - tutorial
      - Near-Earth objects in DP0.3 (Sarah Greenstreet)
+   * - 2024-07-04
+     - cancelled
+     - Holiday in the USA.
+   * - 2024-07-11
+     - tutorial
+     - Asteroid Taxonomy with DP0.3 (Valerio Carruba)
+   * - 2024-07-18
+     - drop-in
+     - Q&A with Rubin staff, co-working time
+   * - 2024-07-25
+     - cancelled
+     - Week of the `Rubin Community Workshop <https://project.lsst.org/meetings/rubin-2024/>`_, see you there!
