@@ -57,12 +57,12 @@
    * - 2024-04-25
      - drop-in
      - Q&A with Rubin staff, co-working time
-   * - 2024-05-09
-     - cancelled
-     - N/A
    * - 2024-05-02
      - tutorial
      - How to analyze the LSST point-spread function (PSF; Andrés Plazas Malagón)
+   * - 2024-05-09
+     - cancelled
+     - N/A
    * - 2024-05-16
      - tutorial
      - How to use the image cutout service (Christina Williams)
