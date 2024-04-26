@@ -77,7 +77,7 @@
      - Custom source detection pipeline (Aaron Meisner)
    * - 2024-06-20
      - none
-     - :ref:`DP0-Delegate-Resources-RDA2024`
+     - :doc:`rubin-data-academy-2024`
    * - 2024-06-27
      - tutorial
      - Near-Earth objects in DP0.3 (Sarah Greenstreet)
