@@ -60,9 +60,6 @@
    * - 2024-05-02
      - tutorial
      - How to analyze the LSST point-spread function (PSF; Andrés Plazas Malagón)
-   * - 2024-05-09
-     - drop-in
-     - Q&A with Rubin staff, co-working time
    * - 2024-05-16
      - tutorial
      - How to use the image cutout service (Christina Williams)
@@ -75,3 +72,12 @@
    * - 2024-06-06
      - drop-in
      - Q&A with Rubin staff, co-working time
+   * - 2024-06-13
+     - tutorial
+     - Custom source detection pipeline (Aaron Meisner)
+   * - 2024-06-20
+     - none
+     - :ref:`DP0-Delegate-Resources-RDA2024`
+   * - 2024-06-27
+     - tutorial
+     - Near-Earth objects in DP0.3 (Sarah Greenstreet)
