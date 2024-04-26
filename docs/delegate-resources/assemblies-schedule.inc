@@ -89,7 +89,7 @@
      - Holiday in the USA.
    * - 2024-07-11
      - tutorial
-     - Asteroid Taxonomy with DP0.3 (Valerio Carruba) 
+     - Asteroid Taxonomy with DP0.3 (Valerio Carruba)
    * - 2024-07-18
      - drop-in
      - Q&A with Rubin staff, co-working time
