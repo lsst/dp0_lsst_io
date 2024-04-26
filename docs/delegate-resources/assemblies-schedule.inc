@@ -84,3 +84,15 @@
    * - 2024-06-27
      - tutorial
      - Near-Earth objects in DP0.3 (Sarah Greenstreet)
+   * - 2024-07-04
+     - cancelled
+     - Holiday in the USA.
+   * - 2024-07-11
+     - tutorial
+     - Asteroid Taxonomy with DP0.3 (Valerio Carruba) 
+   * - 2024-07-18
+     - drop-in
+     - Q&A with Rubin staff, co-working time
+   * - 2024-07-25
+     - cancelled
+     - Week of the `Rubin Community Workshop <https://project.lsst.org/meetings/rubin-2024/>`_, see you there!
