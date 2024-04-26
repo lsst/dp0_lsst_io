@@ -57,6 +57,9 @@
    * - 2024-04-25
      - drop-in
      - Q&A with Rubin staff, co-working time
+   * - 2024-05-09
+     - cancelled
+     - N/A
    * - 2024-05-02
      - tutorial
      - How to analyze the LSST point-spread function (PSF; Andrés Plazas Malagón)
@@ -76,8 +79,8 @@
      - tutorial
      - Custom source detection pipeline (Aaron Meisner)
    * - 2024-06-20
-     - none
-     - :doc:`rubin-data-academy-2024`
+     - cancelled
+     - Week of the :doc:`rubin-data-academy-2024`, see you there!
    * - 2024-06-27
      - tutorial
      - Near-Earth objects in DP0.3 (Sarah Greenstreet)
