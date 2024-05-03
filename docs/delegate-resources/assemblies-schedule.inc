@@ -59,7 +59,7 @@
      - Q&A with Rubin staff, co-working time
    * - 2024-05-02
      - tutorial
-     - How to analyze the LSST point-spread function (PSF; Andrés Plazas Malagón)
+     - How to analyze the LSST point-spread function <https://community.lsst.org/t/rubin-science-assembly-thu-02-may-2024-at-9-am-pdt-how-to-analyze-the-lsst-point-spread-function/8534>`_ (PSF; Andrés Plazas Malagón)
    * - 2024-05-09
      - cancelled
      - N/A
