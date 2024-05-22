@@ -27,6 +27,8 @@ DP0 Rubin Data Academy 2024
 Overview
 ========
 
+**Last modified**:  May 23, 2024
+
 **Dates**: June 17-18, 20-21, 2024
 
 **Times** (delegates may attend either session):
@@ -92,7 +94,7 @@ Science Organizing Committee
 
 **CST Members:** Greg Madejski, Jeff Carlin, Sarah Greenstreet, Douglas Tucker, Christina Williams, Andres Plazas Malagon
 
-**Delegate Members:** TBD
+**Delegate Members:** Fabio Ragosta, Jake Kurlander, Nandini Hazra, Vincenzo Petrecca
 
 .. _DP0-Delegate-Resources-RDA2024-Agenda:
 
