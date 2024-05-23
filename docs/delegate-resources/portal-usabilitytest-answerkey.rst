@@ -56,7 +56,7 @@ Step 1. Query the DP0.2 Object catalog
 
 1.6. Click “Search” at lower left.
 
-Step 2. Create a g psfFlux vs. g cmodelFlux diagram
+Step 2. Create a g psfFlux vs. g calibFlux diagram
 ===================================================
 
 2.1. Click on the "Active Chart" tab in the right panel, then click on the settings icon (single gear) and set “X” to be “g_calibFlux”, and “Y” to be “g_psfFlux”. Click "Apply", then "Close".
@@ -90,9 +90,10 @@ use the expression ``(-2.5*log10({band}_calibFlux) + 31.4)`` to convert the flux
 Step 1. Query the DP0.2 Object catalog
 ======================================
 
-1.1. Next to “LSST DP0.2 DC2 Tables”, choose the Table Collection to be “dp02_dc2_catalogs” (left drop-down menu) and the Table to be “dp02_dc2_catalogs.Object” (right drop-down menu).
+1.1. Click on "DP0.2 Catalogs" tab at the top, ensure Table Collection is set to “dp02_dc2_catalogs” (left drop-down menu) and the Table is set to “dp02_dc2_catalogs.Object” (right drop-down menu).
 
-1.2. Under “Enter Constraints”, select the box to the left of “Spatial”. For “Coords or Obj Name”, use the coordinates “60, -35”. Next to “Radius”, from the drop down menu choose “arcseconds” and then enter “120”.
+1.2. Under “Enter Constraints”, select the box to the left of “Spatial”. For “Coordinates or Object Name”, use the coordinates “60, -35”. 
+Next to “Radius”, from the drop down menu choose “arcseconds” and then enter “120”.
 
 1.3. In the table on the right, under “Output Column Selection and Constraints”, select “coord_ra”, “coord_dec”, “detect_isPrimary”, “g” “r” and “i_calibFlux”. Click on the filter icon to show only the selected columns.
 
@@ -103,9 +104,9 @@ Step 1. Query the DP0.2 Object catalog
 Step 2. Create a g-r color vs i magnitude diagram
 =================================================
 
-2.1. Click on the Active Chart settings icon (single gear) to change the plot parameters. Set “X” to be "(-2.5 * log10(g_calibFlux)) - (-2.5 * log10(r_calibFlux))" and “Y” to be “-2.5 * log10(i_calibFlux) + 31.4”.
+2.1. Click on the "Active Chart" tab in the right panel, then click settings icon (single gear) to change the plot parameters. Set “X” to be "(-2.5 * log10(g_calibFlux)) - (-2.5 * log10(r_calibFlux))" and “Y” to be “-2.5 * log10(i_calibFlux) + 31.4”.
 
-2.2. Click on “Chart Options” and set "X Label” to “color (g-r)”. Set “Y Label” to “magnitude (i)”, and underneath check the “Options” box for “reverse”. Click "Apply".
+2.2. Click on “Chart Options” and set "X Label” to “color (g-r)”. Set “Y Label” to “magnitude (i)”, and underneath check the “Options” box for “reverse”. Click "Apply" then "Close".
 
 Step 3. Zoom-in and save the diagram
 ====================================
