@@ -135,11 +135,11 @@ and zoom-in 3 times.
 Step 1. Retrieve processed visit images
 =======================================
 
-1.1. Check the “Use Image Search (ObsTAP)” box below “LSST DP0.2 DC2 Tables”.
+1.1. Check the “LSST DP0.2 DC2 Tables” tab on the top.
 
 1.2. Under “Observation Type and Source”, choose “Calibration Level” 2, for PVIs.
 
-1.3. Under “Location”, from the drop-down menu next to "Query Type", choose “Observation boundary contains point”. For “Coords or Obj Name”, use the coordinates “55.75, -32.27”.
+1.3. Under “Location”, from the drop-down menu next to "Query Type", choose “Observation boundary contains point”. For “Coordinates or Object Name”, use the coordinates “55.75, -32.27”.
 
 1.4. Under "Timing", from the drop-down menu next to "Time of Observation", choose “Overlapping specified range” and select “MJD values”. Enter “59840” for "End Time".
 
@@ -150,11 +150,13 @@ Step 1. Retrieve processed visit images
 Step 2. View and align the images
 =================================
 
-2.1  Click on “Bi-view Tables” in the upper right corner to show just one image and the table side-by-side. To display the PVIs, select the “Data Product” tab.
+2.1  Click on the "hamburger" icon (three lines in a box) in the upper left hand corner, scroll down to "Results Layout" and select "Tables|Coverage Images Charts" option. 
+To display the PVIs, click on "Data Product:ivoa.ObsCore-dat..." tab in the right side panel.
 
 2.2. Above the image, click on the grid icon (hover-over text “Tile all images in the search result table”) to simultaneously view all 4 i band PVIs.
 
-2.3 Click on the first image and choose the "center" icon (hover-over text “Image center drop down.”), and in the box next to “Center On” enter coordinates, “55.75, -32.27”, and then click “Go and Mark”.
+2.3. Click on the first image and choose the "center" icon (square with circle in the center, hover-over text “Image center drop down.”) in the right panel 
+upper icons, and in the box next to “Center On” enter coordinates, “55.75, -32.27”, and then click “Go and Mark”.
 
 2.4. Click on the align icon above the image (hover-over text “Image alignment drop down.”) and under “Align and Lock Options” select “by WCS”.
 
