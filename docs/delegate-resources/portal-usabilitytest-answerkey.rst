@@ -162,7 +162,7 @@ upper icons, and in the "<Enter position to center on>" box enter coordinates, �
 
 2.4. Click on the align icon above the image (hover-over text “Image alignment drop down.”, second icon from the right) and under “Align and Lock Options” select “by WCS”.
 
-2.5. Click the Zoom icon and then Zoom-in (magnifying glass with a plus) 6 times.
+2.5. Click the Zoom icon and then Zoom-in (magnifying glass with a plus) 3-6 times.
 
 .. figure:: /_static/portal_UTAK_intermediate_task1.png
 	:name: portal_UTAK_intermediate_task1
@@ -214,7 +214,7 @@ Step 2. Create a light curve plot
 
 2.2. From the drop-down menu next to "Trace Style", choose “Connected points” and under “Trace options” enter “red” for "Color".
 
-2.3. Click on “Chart Options” and set “X Label” to “MJD of the Exposure Midpoint” and “Y Label” to “PSF Difference-Image Flux”. Click "Apply".
+2.3. Click on “Chart Options” and set “X Label” to “MJD of the Exposure Midpoint” and “Y Label” to “PSF Difference-Image Flux”. Click "Apply" and then "Close".
 
 2.4. Click on the table column “midPointTai” to sort the results.
 
