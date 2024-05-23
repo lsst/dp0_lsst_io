@@ -222,7 +222,7 @@ Step 2. Create a light curve plot
 
 	The light curve after sorting by the exposure midpoint
 
-2.5. Click on the Active Chart "save" icon to download the image as a PNG.
+2.5. Click on the Active Chart "save this chart" icon (disc icon) to download the image as a PNG.
 
 .. _DP0-2-Portal-UTAK-experienced-task1:
 
@@ -248,13 +248,13 @@ in the ``r`` band, including:
 Step 1. Find the image of the galaxy in the ``r`` band
 ======================================================
 
-1.1. Check the “Use Image Search (ObsTAP)” box below “LSST DP0.2 DC2 Tables”. Under “Enter Constraints”, unselect the box to the left of "Observation Type and Source" and “Location”.
+1.1. Click "DP0.2 Images".
 
 1.2 In "Calibration Level" under "Observation Type and Source", check the box "3".
 
 1.3. In the table on the right, under “Output Column Selection and Constraints”, search for “lsst_tract” and enter “=3828” in the “constraints” column.
 
-1.4. Enter the galaxy's right ascension and declination, 3h46m56.21s, -36d05m27.7s, in "Coords or Onj. Name" under "Location".
+1.4. Enter the galaxy's right ascension and declination, 3h46m56.21s, -36d05m27.7s, in "Coordinates or Object Name" under "Location".
 
 1.5. Click “Search” at the lower left.
 
@@ -270,7 +270,7 @@ use the zoom icons at the upper left part to zoom in the galaxy center.
 Step 2. Overlay compass and WFC3-IR's field of view
 ===================================================
 
-2.1. Select the "Tools" drop-down (the icon with a wrench) menu.
+2.1. Select the "Tools" drop-down (the icon with a wrench and hammer) menu.
 Go to "Layers" and click on the first icon the left with an "N" and an "E" to overlay the compass with the cardinal points.
 
 2.2. In the same "Layers" row, select the last icon "Overlay Markers and Instrument Footprints".
@@ -310,7 +310,7 @@ indicating they are older, more evolved galaxies with less star formation.
 Step 1. Visualize the region of the cluster
 ===========================================
 
-1.1. Under “Enter Constraints”, enter the coordinates “3h43m00.00s, -32d16m19.00s” for “Coords or Obj Name”. Next to “Radius”, from the drop down menu choose “arcseconds” and then enter “200”.
+1.1. Under “Enter Constraints”, enter the coordinates “3h43m00.00s, -32d16m19.00s” for “Coordinates or Object Name”. Next to “Radius”, from the drop down menu choose “arcseconds” and then enter “200”.
 
 1.2. Select the output columns “coord_ra”, “coord_dec”, “r” and “i_cModelFlux”, “r” and “i_extendedness” and “detect_isPrimary”. In the “constraints” column, enter “=1” for “g", “r” and “i_extendedness” and for “detect_isPrimary”.
 
