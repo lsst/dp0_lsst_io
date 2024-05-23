@@ -137,7 +137,7 @@ and zoom-in 3 times.
 Step 1. Retrieve processed visit images
 =======================================
 
-1.1. Check the “LSST DP0.2 DC2 Tables” tab on the top.
+1.1. Click the “DP0.2 Images” tab on the top.
 
 1.2. Under “Observation Type and Source”, choose “Calibration Level” 2, for PVIs.
 
