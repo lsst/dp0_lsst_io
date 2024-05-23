@@ -188,8 +188,6 @@ Save the plot as a PNG file to your local computer.
 **Hint**: In the ADQL query, the filter name will need to be
 formatted as a string (e.g., ``'r'``).
 
-Hint: In the ADQL query, the filter name will need to be formatted as a string (e.g., 'r').
-
 Step 1. Query the DiaSource table with ADQL
 ===========================================
 
