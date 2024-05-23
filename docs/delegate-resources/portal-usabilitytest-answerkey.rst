@@ -44,7 +44,7 @@ Retrieve the ``g_psfFlux``, ``g_calibFlux``, and the ``g_extendedness`` columns 
 Step 1. Query the DP0.2 Object catalog
 ======================================
 
-1.1. Click on "DP0.2 Catalogs" tab on the top, ensure Table Collection is “dp02_dc2_catalogs” (left drop-down menu) and the Table is “dp02_dc2_catalogs.Object” (right drop-down menu).
+1.1. Click on "DP0.2 Catalogs" tab on the top, ensure Table Collection (Schema) is “dp02_dc2_catalogs” (left drop-down menu) and the Table is “dp02_dc2_catalogs.Object” (right drop-down menu).
 
 1.2. Under “Enter Constraints”, enter the coordinates “55.75, -32.27” for “Coordinates or Object Name”. Next to “Radius”, from the drop down menu choose “arcminutes” and then enter “15”.
 
@@ -59,14 +59,15 @@ Step 1. Query the DP0.2 Object catalog
 Step 2. Create a g psfFlux vs. g cmodelFlux diagram
 ===================================================
 
-2.1. Click on the Active Chart settings icon (single gear) and set “X” to be “g_calibFlux”, and “Y” to be “g_psfFlux”. Click "Apply".
+2.1. Click on the "Active Chart" tab in the right panel, then click on the settings icon (single gear) and set “X” to be “g_calibFlux”, and “Y” to be “g_psfFlux”. Click "Apply", then "Close".
 
 Step 3. Plot only extended objects
 ==================================
 
 3.0. In the results table, under the column "g_extendedness", enter "= 1". Click on the filter icon.
 
-3.1 Click on the Active Chart settings icon (single gear) and click on “Trace Options”. Next to “Symbol”, from the drop down menu choose “circle-open”. Next to "Color", enter "purple". Click "Apply".
+3.1 Click on the Active Chart settings icon (single gear on right-hand panel) and click on “Trace Options”. Next to “Symbol”, from the drop down menu choose “circle-open”. 
+Next to "Color", click on the magnifying glass and select a purple color, then click "ok". Click "Apply" and then "Close".
 
 .. figure:: /_static/portal_UTAK_beginner_task1.png
 	:name: portal_UTAK_beginner_task1
