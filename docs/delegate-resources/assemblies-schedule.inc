@@ -65,7 +65,7 @@
      - N/A
    * - 2024-05-16
      - tutorial
-     - How to use the image cutout service (Christina Williams)
+     - How to use the image cutout service <https://community.lsst.org/t/rubin-science-assembly-thu-16-may-2024-at-9-am-pdt-how-to-use-the-rubin-image-cutout-service/8592>`_ (Christina Williams)
    * - 2024-05-23
      - drop-in
      - Q&A with Rubin staff, co-working time
