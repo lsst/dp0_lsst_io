@@ -39,7 +39,9 @@ the following Google form: `https://forms.gle/PdqNgW8ErV277tih9 <https://forms.g
 Exercise 1 (beginner)
 =====================
 
-Retrieve the ``g_psfFlux``, ``g_calibFlux``, and the ``g_extendedness`` columns from the DP0.2 Object catalog for objects within 15 arcminutes of the galaxy cluster at Right Ascension 55.75 degrees and Declination -32.27 degrees. Plot the ``psfFlux`` vs. the ``calibFlux`` flux columns. In the results table, impose a constraint to only plot objects with extendedness equal to 1. Change the plot symbols to open purple circles.
+Retrieve the ``g_psfFlux``, ``g_calibFlux``, and the ``g_extendedness`` columns from the DP0.2
+Object catalog for objects within 15 arcminutes of the galaxy cluster at Right Ascension 55.75 degrees and Declination -32.27 degrees. Plot the ``psfFlux`` vs. the ``calibFlux`` flux columns.
+In the results table, impose a constraint to only plot objects with extendedness equal to 1. Change the plot symbols to open purple circles.
 
 Step 1. Query the DP0.2 Object catalog
 ======================================
@@ -92,7 +94,7 @@ Step 1. Query the DP0.2 Object catalog
 
 1.1. Click on "DP0.2 Catalogs" tab at the top, ensure Table Collection is set to “dp02_dc2_catalogs” (left drop-down menu) and the Table is set to “dp02_dc2_catalogs.Object” (right drop-down menu).
 
-1.2. Under “Enter Constraints”, select the box to the left of “Spatial”. For “Coordinates or Object Name”, use the coordinates “60, -35”. 
+1.2. Under “Enter Constraints”, select the box to the left of “Spatial”. For “Coordinates or Object Name”, use the coordinates “60, -35”.
 Next to “Radius”, from the drop down menu choose “arcseconds” and then enter “120”.
 
 1.3. In the table on the right, under “Output Column Selection and Constraints”, select “coord_ra”, “coord_dec”, “detect_isPrimary”, “g” “r” and “i_calibFlux”. Click on the filter icon to show only the selected columns.
@@ -153,7 +155,7 @@ Step 1. Retrieve processed visit images
 Step 2. View and align the images
 =================================
 
-2.1  Click on the "hamburger" icon (three lines in a box) in the upper left hand corner, scroll down to "Results Layout" and select "Tables|Coverage Images Charts" option. 
+2.1  Click on the "hamburger" icon (three lines in a box) in the upper left hand corner, scroll down to "Results Layout" and select "Tables|Coverage Images Charts" option.
 To display the PVIs, click on "Data Product:ivoa.ObsCore-dat..." tab in the right side panel.
 
 2.2. Above the image, click on the grid icon (hover-over text “Tile all images in the search result table”) to simultaneously view all 4 i band PVIs.
