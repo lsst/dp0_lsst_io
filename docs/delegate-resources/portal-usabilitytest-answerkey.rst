@@ -157,7 +157,7 @@ To display the PVIs, click on "Data Product:ivoa.ObsCore-dat..." tab in the righ
 
 2.2. Above the image, click on the grid icon (hover-over text “Tile all images in the search result table”) to simultaneously view all 4 i band PVIs.
 
-2.3. Click on the first image and choose the "center" icon (square with circle in the center, hover-over text “Image center drop down.”) in the right panel 
+2.3. Click on the first image and choose the "center" icon (square with circle in the center, hover-over text “Image center drop down.”) in the right panel
 upper icons, and in the "<Enter position to center on>" box enter coordinates, “55.75, -32.27”, and then click “Go & Mark”.
 
 2.4. Click on the align icon above the image (hover-over text “Image alignment drop down.”, second icon from the right) and under “Align and Lock Options” select “by WCS”.
