@@ -71,7 +71,7 @@
      - Q&A with Rubin staff, co-working time
    * - 2024-05-30
      - tutorial
-     - How to do synthetic source injection (Jeff Carlin)
+     - `How to do synthetic source injection <https://community.lsst.org/t/rubin-science-assembly-thu-30-may-2024-at-9-am-pdt-how-to-do-synthetic-source-injection/8647/4>`_ (Jeff Carlin)
    * - 2024-06-06
      - drop-in
      - Q&A with Rubin staff, co-working time
