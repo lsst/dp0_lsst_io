@@ -104,7 +104,8 @@ Next to “Radius”, from the drop down menu choose “arcseconds” and then e
 Step 2. Create a g-r color vs i magnitude diagram
 =================================================
 
-2.1. Click on the "Active Chart" tab in the right panel, then click settings icon (single gear) to change the plot parameters. Set “X” to be "(-2.5 * log10(g_calibFlux)) - (-2.5 * log10(r_calibFlux))" and “Y” to be “-2.5 * log10(i_calibFlux) + 31.4”.
+2.1. Click on the "Active Chart" tab in the right panel, then click settings icon (single gear) to change the plot parameters.
+Set “X” to be "(-2.5 * log10(g_calibFlux)) - (-2.5 * log10(r_calibFlux))" and “Y” to be “-2.5 * log10(i_calibFlux) + 31.4”.
 
 2.2. Click on “Chart Options” and set "X Label” to “color (g-r)”. Set “Y Label” to “magnitude (i)”, and underneath check the “Options” box for “reverse”. Click "Apply" then "Close".
 
