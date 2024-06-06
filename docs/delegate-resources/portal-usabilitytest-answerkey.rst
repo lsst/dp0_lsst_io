@@ -59,7 +59,7 @@ Step 1. Query the DP0.2 Object catalog
 1.6. Click “Search” at lower left.
 
 Step 2. Create a g psfFlux vs. g calibFlux diagram
-===================================================
+==================================================
 
 2.1. Click on the "Active Chart" tab in the right panel, then click on the settings icon (single gear) and set “X” to be “g_calibFlux”, and “Y” to be “g_psfFlux”. Click "Apply", then "Close".
 
@@ -279,7 +279,6 @@ Go to "Layers" and click on the first icon the left with an "N" and an "E" to ov
 2.2. In the same "Layers" row, select the last icon "Overlay Markers and Instrument Footprints".
 Go to "Add HST footprint" and select "WFC3/IR".
 Click on the footprint that appears on the image and move it so that it is centered on the galaxy.
-
 
 Step 3. Extract the flux profile of the galaxy and save it as a CSV file
 ========================================================================
