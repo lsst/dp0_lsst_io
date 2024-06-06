@@ -68,7 +68,7 @@ Step 3. Plot only extended objects
 
 3.0. In the results table, under the column "g_extendedness", enter "= 1". Click on the filter icon.
 
-3.1 Click on the Active Chart settings icon (single gear on right-hand panel) and click on “Trace Options”. Next to “Symbol”, from the drop down menu choose “circle-open”. 
+3.1 Click on the Active Chart settings icon (single gear on right-hand panel) and click on “Trace Options”. Next to “Symbol”, from the drop down menu choose “circle-open”.
 Next to "Color", click on the magnifying glass and select a purple color, then click "ok". Click "Apply" and then "Close".
 
 .. figure:: /_static/portal_UTAK_beginner_task1.png
