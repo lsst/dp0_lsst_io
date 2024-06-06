@@ -274,7 +274,7 @@ use the zoom icons at the upper left part to zoom in the galaxy center.
 	:name: portal_focus_exp1_fig2
 	:alt: A screenshot of the image display and plot.
 
-	A screenshot of the image display and plot. 
+	A screenshot of the image display and plot.
 
 Step 2. Overlay compass and WFC3-IR's field of view
 ===================================================
