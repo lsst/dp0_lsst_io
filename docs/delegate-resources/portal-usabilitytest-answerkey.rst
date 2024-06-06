@@ -271,7 +271,7 @@ use the zoom icons at the upper left part to zoom in the galaxy center.
 "Linear: Stretch -1 Sigma to 30 Sigma”
 
 .. figure:: /_static/portal_focus_exp1_fig2.png
-	:name: portal_focus_exp1_fig2
+	:name: portal_focus_exp1_fig2_ex_5_answer
 	:alt: A screenshot of the image display and plot.
 
 	A screenshot of the image display and plot.
