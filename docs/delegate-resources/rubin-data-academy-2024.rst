@@ -102,7 +102,7 @@ Science Organizing Committee
 Agenda
 ======
 
-.. figure:: /_static/rubin_data_academy_2024_agenda.png
+.. figure:: ../_static/rubin_data_academy_2024_agenda.png
 	:name: rubin_data_academy_2024_agenda
 	:alt: rubin_data_academy_2024_agenda
 
