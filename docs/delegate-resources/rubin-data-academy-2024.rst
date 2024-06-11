@@ -37,7 +37,7 @@ Session B: 19:00-21:00 PDT (02:00-04:00 UTC; +1 day)
 
 **Location**: virtual
 
-**Last modified**: June 3 2024
+**Last modified**: June 10 2024
 
 **Eligibility**: All DP0 delegates are eligible to register for the DP0 Rubin Data Academy.
 There is currently space available for new DP0 delegates:
@@ -102,11 +102,13 @@ Science Organizing Committee
 Agenda
 ======
 
-The agenda is still under construction.
+.. figure:: /_static/rubin_data_academy_2024_agenda.png
+	:name: rubin_data_academy_2024_agenda
+	:alt: rubin_data_academy_2024_agenda.png
 
-<iframe height="800" width="100%" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjY-QNzC4MBiYcBjvqFiNK0PM9j_DqnL6jB56FcTB4YYHtdWckIW-IHlw2IrQ0sf01d1qQHxr7Ljj2/pubhtml?gid=1347880957&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+..  <iframe height="800" width="100%" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjY-QNzC4MBiYcBjvqFiNK0PM9j_DqnL6jB56FcTB4YYHtdWckIW-IHlw2IrQ0sf01d1qQHxr7Ljj2/pubhtml?gid=1347880957&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-.. Download the agenda as a pdf file: :download:`agenda </_static/DP0_Virtual_Summer_School_agenda.pdf>`.
+Download the agenda as a pdf file: :download:`agenda </_static/rubin_data_academy_2024_agenda.pdf>`.
 
 .. Download the agenda as a txt file: :download:`agenda </_static/vss_agenda.txt>`.
 
