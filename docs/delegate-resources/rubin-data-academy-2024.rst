@@ -92,7 +92,7 @@ To register, please enter the requested information in the `registration form <h
 Science Organizing Committee
 ============================
 
-**CST Members:** Greg Madejski, Jeff Carlin, Sarah Greenstreet, Douglas Tucker, Christina Williams, Andres Plazas Malagon
+**CST Members:** Greg Madejski, Jeff Carlin, Sarah Greenstreet, Douglas Tucker, Christina Williams, Andres Plazas Malagon, Tina Adair, Gloria Fonseca Alvarez
 
 **Delegate Members:** Jake Kurlander, Vincenzo Petrecca, Fabio Ragosta, Nandini Hazra
 
