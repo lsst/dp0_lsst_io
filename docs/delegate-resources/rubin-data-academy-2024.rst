@@ -37,6 +37,8 @@ Session B: 19:00-21:00 PDT (02:00-04:00 UTC; +1 day)
 
 **Location**: virtual
 
+**Last modified**: June 3 2024
+
 **Eligibility**: All DP0 delegates are eligible to register for the DP0 Rubin Data Academy.
 There is currently space available for new DP0 delegates:
 for more information about how to become a delegate, see the `"Getting started" document <https://dp0.lsst.io/delegate-resources/getting-started.html>`_.
@@ -92,7 +94,7 @@ Science Organizing Committee
 
 **CST Members:** Greg Madejski, Jeff Carlin, Sarah Greenstreet, Douglas Tucker, Christina Williams, Andres Plazas Malagon
 
-**Delegate Members:** TBD
+**Delegate Members:** Jake Kurlander, Vincenzo Petrecca, Fabio Ragosta, Nandini Hazra
 
 .. _DP0-Delegate-Resources-RDA2024-Agenda:
 
@@ -102,7 +104,7 @@ Agenda
 
 The agenda is still under construction.
 
-.. <iframe height="800" width="100%" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjY-QNzC4MBiYcBjvqFiNK0PM9j_DqnL6jB56FcTB4YYHtdWckIW-IHlw2IrQ0sf01d1qQHxr7Ljj2/pubhtml?gid=1347880957&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe height="800" width="100%" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjY-QNzC4MBiYcBjvqFiNK0PM9j_DqnL6jB56FcTB4YYHtdWckIW-IHlw2IrQ0sf01d1qQHxr7Ljj2/pubhtml?gid=1347880957&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 .. Download the agenda as a pdf file: :download:`agenda </_static/DP0_Virtual_Summer_School_agenda.pdf>`.
 
