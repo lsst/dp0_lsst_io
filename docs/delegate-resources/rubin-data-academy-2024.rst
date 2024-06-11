@@ -54,8 +54,7 @@ and then processed with the LSST Science Pipelines to provide data products (bot
 in the same format as future (real) data releases.  These data products can be accessed and analyzed
 via the web-based Rubin Science Platform (RSP).
 
-**Data Preview 0.3** (`DP0.3 <https://dp0-3.lsst.io/index.html>`_),
-released around July 1, 2023, contains only
+**Data Preview 0.3** (`DP0.3 <https://dp0-3.lsst.io/index.html>`_), released around July 1, 2023, contains only
 catalogs of simulated Solar System objects, including trans-Neptunian objects (TNOs), main belt asteroids (MBAs),
 interstellar objects (ISOs), Hildas and Trojan asteroids, long-period comets, and near-Earth objects (NEOs).
 The DP0.3 data set is composed of two sets of catalogs containing real
@@ -105,8 +104,6 @@ Agenda
 .. figure:: ../_static/rubin_data_academy_2024_agenda.png
 	:name: rubin_data_academy_2024_agenda
 	:alt: rubin_data_academy_2024_agenda
-
-..  <iframe height="800" width="100%" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjY-QNzC4MBiYcBjvqFiNK0PM9j_DqnL6jB56FcTB4YYHtdWckIW-IHlw2IrQ0sf01d1qQHxr7Ljj2/pubhtml?gid=1347880957&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 The agenda is also available as a pdf file `here <../_static/rubin_data_academy_2024_agenda.pdf>`_.
 
