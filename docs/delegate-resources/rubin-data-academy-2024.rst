@@ -37,7 +37,7 @@ Session B: 19:00-21:00 PDT (02:00-04:00 UTC; +1 day)
 
 **Location**: virtual
 
-**Last modified**: June 11 2024
+**Last modified**: June 12 2024
 
 **Eligibility**: All DP0 delegates are eligible to register for the DP0 Rubin Data Academy.
 There is currently space available for new DP0 delegates:
