@@ -71,7 +71,7 @@ In order to develop a thriving Rubin science community, another key goal of the 
 for networking, collaboration, and new-skill acquisition for participants.
 
 **Schedule.**
-The Rubin ata Academy will span 4 days: between June 17 - 18 and June 20 - 21, where each day will be split into two 2-3 hr sessions
+The Rubin Data Academy will span 4 days: between June 17 - 18 and June 20 - 21, where each day will be split into two 2-3 hr sessions
 (each session covering essentially the same material) to accommodate the international time-zones of the participants.
 The curriculum will cover key utilities of the RSP (e.g., Catalogs, Images, TAP, Butler) with guided tutorials by members of the
 Rubin Community Science Team, and there will be dedicated time for collaborative discussions and hack sessions.
