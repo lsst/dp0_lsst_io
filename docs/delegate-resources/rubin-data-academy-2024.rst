@@ -37,6 +37,8 @@ Session B: 19:00-21:00 PDT (02:00-04:00 UTC; +1 day)
 
 **Location**: virtual
 
+**Last modified**: June 12 2024
+
 **Eligibility**: All DP0 delegates are eligible to register for the DP0 Rubin Data Academy.
 There is currently space available for new DP0 delegates:
 for more information about how to become a delegate, see the `"Getting started" document <https://dp0.lsst.io/delegate-resources/getting-started.html>`_.
@@ -52,8 +54,7 @@ and then processed with the LSST Science Pipelines to provide data products (bot
 in the same format as future (real) data releases.  These data products can be accessed and analyzed
 via the web-based Rubin Science Platform (RSP).
 
-**Data Preview 0.3** (`DP0.3 <https://dp0-3.lsst.io/index.html>`_),
-released around July 1, 2023, contains only
+**Data Preview 0.3** (`DP0.3 <https://dp0-3.lsst.io/index.html>`_), released around July 1, 2023, contains only
 catalogs of simulated Solar System objects, including trans-Neptunian objects (TNOs), main belt asteroids (MBAs),
 interstellar objects (ISOs), Hildas and Trojan asteroids, long-period comets, and near-Earth objects (NEOs).
 The DP0.3 data set is composed of two sets of catalogs containing real
@@ -66,11 +67,11 @@ The goal of this DP0 Rubin Data Academy is to introduce any data-rights holding 
 (from undergraduate student to faculty/staff) to both the `DP0.2 dataset <https://dp0-2.lsst.io/data-products-dp0-2/index.html#the-desc-dc2-data-set>`_
 and the `DP0.3 dataset <https://dp0-3.lsst.io/data-products-dp0-3/>`_,
 as well as the RSP, and to provide an accelerated learning experience enabling research on Rubin data with a focus on both DP0 datasets.
-In order to develop a thriving Rubin science community, another key goal of the Virtual Summer School is to provide opportunities
+In order to develop a thriving Rubin science community, another key goal of the Rubin Data Academy is to provide opportunities
 for networking, collaboration, and new-skill acquisition for participants.
 
 **Schedule.**
-The Virtual Summer School will span 4 days: between June 17 - 18 and June 20 - 21, where each day will be split into two 2-3 hr sessions
+The Rubin Data Academy will span 4 days: between June 17 - 18 and June 20 - 21, where each day will be split into two 2-3 hr sessions
 (each session covering essentially the same material) to accommodate the international time-zones of the participants.
 The curriculum will cover key utilities of the RSP (e.g., Catalogs, Images, TAP, Butler) with guided tutorials by members of the
 Rubin Community Science Team, and there will be dedicated time for collaborative discussions and hack sessions.
@@ -90,9 +91,9 @@ To register, please enter the requested information in the `registration form <h
 Science Organizing Committee
 ============================
 
-**CST Members:** Greg Madejski, Jeff Carlin, Sarah Greenstreet, Douglas Tucker, Christina Williams, Andres Plazas Malagon
+**CST Members:** Greg Madejski, Jeff Carlin, Sarah Greenstreet, Douglas Tucker, Christina Williams, Andres Plazas Malagon, Tina Adair, Gloria Fonseca Alvarez
 
-**Delegate Members:** TBD
+**Delegate Members:** Jake Kurlander, Vincenzo Petrecca, Fabio Ragosta, Nandini Hazra
 
 .. _DP0-Delegate-Resources-RDA2024-Agenda:
 
@@ -100,11 +101,11 @@ Science Organizing Committee
 Agenda
 ======
 
-The agenda is still under construction.
+.. figure:: ../_static/rubin_data_academy_2024_agenda.png
+	:name: rubin_data_academy_2024_agenda
+	:alt: rubin_data_academy_2024_agenda
 
-.. <iframe height="800" width="100%" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjY-QNzC4MBiYcBjvqFiNK0PM9j_DqnL6jB56FcTB4YYHtdWckIW-IHlw2IrQ0sf01d1qQHxr7Ljj2/pubhtml?gid=1347880957&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-
-.. Download the agenda as a pdf file: :download:`agenda </_static/DP0_Virtual_Summer_School_agenda.pdf>`.
+The agenda is also available as a pdf file `here <../_static/rubin_data_academy_2024_agenda.pdf>`_.
 
 .. Download the agenda as a txt file: :download:`agenda </_static/vss_agenda.txt>`.
 
