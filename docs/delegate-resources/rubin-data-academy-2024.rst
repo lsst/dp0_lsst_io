@@ -105,7 +105,7 @@ Agenda
 	:name: rubin_data_academy_2024_agenda
 	:alt: rubin_data_academy_2024_agenda
 
-The agenda is also available as a pdf file `here <../_static/rubin_data_academy_2024_agenda.pdf>`_.
+Download the agenda as a pdf file: :download:`agenda </_static/rubin_data_academy_2024_agenda.pdf>`.
 
 .. Download the agenda as a txt file: :download:`agenda </_static/vss_agenda.txt>`.
 
