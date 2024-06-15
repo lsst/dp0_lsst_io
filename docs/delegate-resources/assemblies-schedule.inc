@@ -77,7 +77,7 @@
      - Q&A with Rubin staff, co-working time
    * - 2024-06-13
      - tutorial
-     - Custom source detection pipeline (Aaron Meisner)
+     - `Custom source detection pipeline <https://community.lsst.org/t/rubin-science-assembly-thu-13-june-2024-at-9-am-pdt-custom-source-detection-pipeline/8703/2>`_ (Aaron Meisner)
    * - 2024-06-20
      - cancelled
      - Week of the :doc:`rubin-data-academy-2024`, see you there!
