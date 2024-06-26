@@ -71,7 +71,7 @@ Step 3. Plot only extended objects
 3.1 Click on the Active Chart settings icon (single gear on right-hand panel) and click on “Trace Options”. Next to “Symbol”, from the drop down menu choose “circle-open”.
 Next to "Color", click on the magnifying glass and select a purple color, then click "ok". Click "Apply" and then "Close".
 
-.. figure:: /_static/portal_UTAK_beginner_task1.png
+.. figure:: ../_static/portal_UTAK_beginner_task1.png
 	:name: portal_UTAK_beginner_task1
 	:alt: The chart shows the g-band psfFlux vs the g-band calibFlux, for the extended objects returned by the search query.
 
@@ -118,7 +118,7 @@ Step 3. Zoom-in and save the diagram
 
 3.2. Click on "Pin Chart" and then the save icon (next to the 1x magnifying glass) to download the chart as a PNG.
 
-.. figure:: /_static/portal_UTAK_beginner_task2.png
+.. figure:: ../_static/portal_UTAK_beginner_task2.png
 	:name: portal_UTAK_beginner_task2
 	:alt: The chart shows a color-magnitude diagram, g-band minus r-band  vs i-band magnitude, for the objects returned by the search query.
 
@@ -167,7 +167,7 @@ upper icons, and in the "<Enter position to center on>" box enter coordinates, �
 
 2.5. Click the Zoom icon and then Zoom-in (magnifying glass with a plus) 3-6 times.
 
-.. figure:: /_static/portal_UTAK_intermediate_task1.png
+.. figure:: ../_static/portal_UTAK_intermediate_task1.png
 	:name: portal_UTAK_intermediate_task1
 	:alt: A screenshot of the image display and table results.
 
@@ -219,7 +219,7 @@ Step 2. Create a light curve plot
 
 2.4. Click on the table column “midPointTai” to sort the results.
 
-.. figure:: /_static/portal_UTAK_intermediate_task2.png
+.. figure:: ../_static/portal_UTAK_intermediate_task2.png
 	:name: portal_UTAK_intermediate_task2
 	:alt: Light curve of a Type Ia supernova in the r-band.
 
@@ -270,7 +270,7 @@ use the zoom icons at the upper left part to zoom in the galaxy center.
 1.8. In the same "Data Product: ivoa.obsCore" tab, click on the stretch drop down, and select
 "Linear: Stretch -1 Sigma to 30 Sigma”
 
-.. figure:: /_static/portal_focus_exp1_fig2.png
+.. figure:: ../_static/portal_focus_exp1_fig2.png
 	:name: portal_focus_exp1_fig2_ex_5_answer
 	:alt: A screenshot of the image display and plot.
 
@@ -334,7 +334,7 @@ Step 2. Create a color-magnitude diagram
 
 2.2. Under Chart Options, set "Chart title" to "Red Sequence". Set “X Label” to “i” and set “Y Label” to “r-i”. Click "Apply".
 
-.. figure:: /_static/portal_UTAK_experienced_task2a.png
+.. figure:: ../_static/portal_UTAK_experienced_task2a.png
 	:name: portal_UTAK_experienced_task2a
 	:alt: A screenshot of the coverage and red sequence in a color-magnitude diagram.
 
@@ -349,7 +349,7 @@ Step 3. Highlight the cluster members
 
 3.3. Under the "Coverage" tab, click on the layers icon (hover-over text “manipulate overlay display”) and select “Coverage”.
 
-.. figure:: /_static/portal_UTAK_experienced_task2b.png
+.. figure:: ../_static/portal_UTAK_experienced_task2b.png
 	:name: portal_UTAK_experienced_task2b
 	:alt: A screenshot of the coverage and red sequence in a color-magnitude diagram with cluster members highlighted.
 
