@@ -25,7 +25,7 @@ of the Portal Aspect of the Rubin Science Platform (RSP;
 `data.lsst.cloud <https://data.lsst.cloud/>`_).
 The goal is to understand how users interact with the Portal and identify
 areas that may require improvement.
-These exercises were also designed serve also as challenged-based
+These exercises were also designed to serve also as challenged-based
 learning opportunities, complementary to the :ref:`DP0-Delegate-Resources-Get-Started-Docs-and-Tuts`.
 
 **Who can participate?**
