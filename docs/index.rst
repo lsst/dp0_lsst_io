@@ -45,4 +45,4 @@ Related documentation
 
 - `Rubin Science Platform`_ — Learn how to use the Rubin Science Platform to access and analyze LSST data.
 - `LSST Science Pipelines`_ — Learn about the Rubin LSST's Python data processing, measurement, and access software, which is pre-installed in the Rubin Science Platform.
-- `https://github.com/rubin-dp0`_ - GitHub repository of tutorial notebooks (including delegate contributions) for both DP0.2 and DP0.3.  
+- `https://github.com/rubin-dp0`_ - GitHub repository of tutorial notebooks (including delegate contributions) for both DP0.2 and DP0.3.
