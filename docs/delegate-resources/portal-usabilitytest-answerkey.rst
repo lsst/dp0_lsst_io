@@ -39,14 +39,16 @@ the following Google form: `https://forms.gle/PdqNgW8ErV277tih9 <https://forms.g
 Exercise 1 (beginner)
 =====================
 
-Retrieve the ``g_psfFlux``, ``g_calibFlux``, and the ``g_extendedness`` columns from the DP0.2 Object catalog for objects within 15 arcminutes of the galaxy cluster at Right Ascension 55.75 degrees and Declination -32.27 degrees. Plot the ``psfFlux`` vs. the ``calibFlux`` flux columns. In the results table, impose a constraint to only plot objects with extendedness equal to 1. Change the plot symbols to open purple circles.
+Retrieve the ``g_psfFlux``, ``g_calibFlux``, and the ``g_extendedness`` columns from the DP0.2
+Object catalog for objects within 15 arcminutes of the galaxy cluster at Right Ascension 55.75 degrees and Declination -32.27 degrees. Plot the ``psfFlux`` vs. the ``calibFlux`` flux columns.
+In the results table, impose a constraint to only plot objects with extendedness equal to 1. Change the plot symbols to open purple circles.
 
 Step 1. Query the DP0.2 Object catalog
 ======================================
 
-1.1. Next to “LSST DP0.2 DC2 Tables”, choose the Table Collection to be “dp02_dc2_catalogs” (left drop-down menu) and the Table to be “dp02_dc2_catalogs.Object” (right drop-down menu).
+1.1. Click on "DP0.2 Catalogs" tab on the top, ensure Table Collection (Schema) is “dp02_dc2_catalogs” (left drop-down menu) and the Table is “dp02_dc2_catalogs.Object” (right drop-down menu).
 
-1.2. Under “Enter Constraints”, enter the coordinates “55.75, -32.27” for “Coords or Obj Name”. Next to “Radius”, from the drop down menu choose “arcminutes” and then enter “15”.
+1.2. Under “Enter Constraints”, enter the coordinates “55.75, -32.27” for “Coordinates or Object Name”. Next to “Radius”, from the drop down menu choose “arcminutes” and then enter “15”.
 
 1.3. Select the output columns “coord_ra”, “coord_dec”, “g_psfFlux” “g_calibFlux” and “g_extendedness” and “detect_isPrimary”. Click on the filter icon to show only the selected columns.
 
@@ -56,19 +58,20 @@ Step 1. Query the DP0.2 Object catalog
 
 1.6. Click “Search” at lower left.
 
-Step 2. Create a g psfFlux vs. g cmodelFlux diagram
-===================================================
+Step 2. Create a g psfFlux vs. g calibFlux diagram
+==================================================
 
-2.1. Click on the Active Chart settings icon (two gears) and set “X” to be “g_calibFlux”, and “Y” to be “g_psfFlux”. Click "Apply".
+2.1. Click on the "Active Chart" tab in the right panel, then click on the settings icon (single gear) and set “X” to be “g_calibFlux”, and “Y” to be “g_psfFlux”. Click "Apply", then "Close".
 
 Step 3. Plot only extended objects
 ==================================
 
 3.0. In the results table, under the column "g_extendedness", enter "= 1". Click on the filter icon.
 
-3.1 Click on the Active Chart settings icon (two gears) and click on “Trace Options”. Next to “Symbol”, from the drop down menu choose “circle-open”. Next to "Color", enter "purple". Click "Apply".
+3.1 Click on the Active Chart settings icon (single gear on right-hand panel) and click on “Trace Options”. Next to “Symbol”, from the drop down menu choose “circle-open”.
+Next to "Color", click on the magnifying glass and select a purple color, then click "ok". Click "Apply" and then "Close".
 
-.. figure:: /_static/portal_UTAK_beginner_task1.png
+.. figure:: ../_static/portal_UTAK_beginner_task1.png
 	:name: portal_UTAK_beginner_task1
 	:alt: The chart shows the g-band psfFlux vs the g-band calibFlux, for the extended objects returned by the search query.
 
@@ -89,9 +92,10 @@ use the expression ``(-2.5*log10({band}_calibFlux) + 31.4)`` to convert the flux
 Step 1. Query the DP0.2 Object catalog
 ======================================
 
-1.1. Next to “LSST DP0.2 DC2 Tables”, choose the Table Collection to be “dp02_dc2_catalogs” (left drop-down menu) and the Table to be “dp02_dc2_catalogs.Object” (right drop-down menu).
+1.1. Click on "DP0.2 Catalogs" tab at the top, ensure Table Collection is set to “dp02_dc2_catalogs” (left drop-down menu) and the Table is set to “dp02_dc2_catalogs.Object” (right drop-down menu).
 
-1.2. Under “Enter Constraints”, select the box to the left of “Spatial”. For “Coords or Obj Name”, use the coordinates “60, -35”. Next to “Radius”, from the drop down menu choose “arcseconds” and then enter “120”.
+1.2. Under “Enter Constraints”, select the box to the left of “Spatial”. For “Coordinates or Object Name”, use the coordinates “60, -35”.
+Next to “Radius”, from the drop down menu choose “arcseconds” and then enter “120”.
 
 1.3. In the table on the right, under “Output Column Selection and Constraints”, select “coord_ra”, “coord_dec”, “detect_isPrimary”, “g” “r” and “i_calibFlux”. Click on the filter icon to show only the selected columns.
 
@@ -102,9 +106,10 @@ Step 1. Query the DP0.2 Object catalog
 Step 2. Create a g-r color vs i magnitude diagram
 =================================================
 
-2.1. Click on the Active Chart settings icon (two gears) to change the plot parameters. Set “X” to be "(-2.5 * log10(g_calibFlux)) - (-2.5 * log10(r_calibFlux))" and “Y” to be “-2.5 * log10(i_calibFlux) + 31.4”.
+2.1. Click on the "Active Chart" tab in the right panel, then click settings icon (single gear) to change the plot parameters.
+Set “X” to be "(-2.5 * log10(g_calibFlux)) - (-2.5 * log10(r_calibFlux))" and “Y” to be “-2.5 * log10(i_calibFlux) + 31.4”.
 
-2.2. Click on “Chart Options” and set "X Label” to “color (g-r)”. Set “Y Label” to “magnitude (i)”, and underneath check the “Options” box for “reverse”. Click "Apply".
+2.2. Click on “Chart Options” and set "X Label” to “color (g-r)”. Set “Y Label” to “magnitude (i)”, and underneath check the “Options” box for “reverse”. Click "Apply" then "Close".
 
 Step 3. Zoom-in and save the diagram
 ====================================
@@ -113,7 +118,7 @@ Step 3. Zoom-in and save the diagram
 
 3.2. Click on "Pin Chart" and then the save icon (next to the 1x magnifying glass) to download the chart as a PNG.
 
-.. figure:: /_static/portal_UTAK_beginner_task2.png
+.. figure:: ../_static/portal_UTAK_beginner_task2.png
 	:name: portal_UTAK_beginner_task2
 	:alt: The chart shows a color-magnitude diagram, g-band minus r-band  vs i-band magnitude, for the objects returned by the search query.
 
@@ -135,11 +140,11 @@ and zoom-in 3 times.
 Step 1. Retrieve processed visit images
 =======================================
 
-1.1. Check the “Use Image Search (ObsTAP)” box below “LSST DP0.2 DC2 Tables”.
+1.1. Click the “DP0.2 Images” tab on the top.
 
 1.2. Under “Observation Type and Source”, choose “Calibration Level” 2, for PVIs.
 
-1.3. Under “Location”, from the drop-down menu next to "Query Type", choose “Observation boundary contains point”. For “Coords or Obj Name”, use the coordinates “55.75, -32.27”.
+1.3. Under “Location”, from the drop-down menu next to "Query Type", choose “Observation boundary contains point”. For “Coordinates or Object Name”, use the coordinates “55.75, -32.27”.
 
 1.4. Under "Timing", from the drop-down menu next to "Time of Observation", choose “Overlapping specified range” and select “MJD values”. Enter “59840” for "End Time".
 
@@ -150,17 +155,19 @@ Step 1. Retrieve processed visit images
 Step 2. View and align the images
 =================================
 
-2.1  Click on “Bi-view Tables” in the upper right corner to show just one image and the table side-by-side. To display the PVIs, select the “Data Product” tab.
+2.1  Click on the "hamburger" icon (three lines in a box) in the upper left hand corner, scroll down to "Results Layout" and select "Tables|Coverage Images Charts" option.
+To display the PVIs, click on "Data Product:ivoa.ObsCore-dat..." tab in the right side panel.
 
 2.2. Above the image, click on the grid icon (hover-over text “Tile all images in the search result table”) to simultaneously view all 4 i band PVIs.
 
-2.3 Click on the first image and choose the "center" icon (hover-over text “Image center drop down.”), and in the box next to “Center On” enter coordinates, “55.75, -32.27”, and then click “Go and Mark”.
+2.3. Click on the first image and choose the "center" icon (square with circle in the center, hover-over text “Image center drop down.”) in the right panel
+upper icons, and in the "<Enter position to center on>" box enter coordinates, “55.75, -32.27”, and then click “Go & Mark”.
 
-2.4. Click on the align icon above the image (hover-over text “Image alignment drop down.”) and under “Align and Lock Options” select “by WCS”.
+2.4. Click on the align icon above the image (hover-over text “Image alignment drop down.”, second icon from the right) and under “Align and Lock Options” select “by WCS”.
 
-2.5. Click the Zoom icon and then Zoom-in (magnifying glass with a plus) 3 times.
+2.5. Click the Zoom icon and then Zoom-in (magnifying glass with a plus) 3-6 times.
 
-.. figure:: /_static/portal_UTAK_intermediate_task1.png
+.. figure:: ../_static/portal_UTAK_intermediate_task1.png
 	:name: portal_UTAK_intermediate_task1
 	:alt: A screenshot of the image display and table results.
 
@@ -183,8 +190,6 @@ Save the plot as a PNG file to your local computer.
 
 **Hint**: In the ADQL query, the filter name will need to be
 formatted as a string (e.g., ``'r'``).
-
-Hint: In the ADQL query, the filter name will need to be formatted as a string (e.g., 'r').
 
 Step 1. Query the DiaSource table with ADQL
 ===========================================
@@ -210,17 +215,17 @@ Step 2. Create a light curve plot
 
 2.2. From the drop-down menu next to "Trace Style", choose “Connected points” and under “Trace options” enter “red” for "Color".
 
-2.3. Click on “Chart Options” and set “X Label” to “MJD of the Exposure Midpoint” and “Y Label” to “PSF Difference-Image Flux”. Click "Apply".
+2.3. Click on “Chart Options” and set “X Label” to “MJD of the Exposure Midpoint” and “Y Label” to “PSF Difference-Image Flux”. Click "Apply" and then "Close".
 
 2.4. Click on the table column “midPointTai” to sort the results.
 
-.. figure:: /_static/portal_UTAK_intermediate_task2.png
+.. figure:: ../_static/portal_UTAK_intermediate_task2.png
 	:name: portal_UTAK_intermediate_task2
 	:alt: Light curve of a Type Ia supernova in the r-band.
 
 	The light curve after sorting by the exposure midpoint
 
-2.5. Click on the Active Chart "save" icon to download the image as a PNG.
+2.5. Click on the Active Chart "save this chart" icon (disc icon) to download the image as a PNG.
 
 .. _DP0-2-Portal-UTAK-experienced-task1:
 
@@ -246,13 +251,13 @@ in the ``r`` band, including:
 Step 1. Find the image of the galaxy in the ``r`` band
 ======================================================
 
-1.1. Check the “Use Image Search (ObsTAP)” box below “LSST DP0.2 DC2 Tables”. Under “Enter Constraints”, unselect the box to the left of "Observation Type and Source" and “Location”.
+1.1. Click "DP0.2 Images".
 
 1.2 In "Calibration Level" under "Observation Type and Source", check the box "3".
 
 1.3. In the table on the right, under “Output Column Selection and Constraints”, search for “lsst_tract” and enter “=3828” in the “constraints” column.
 
-1.4. Enter the galaxy's right ascension and declination, 3h46m56.21s, -36d05m27.7s, in "Coords or Onj. Name" under "Location".
+1.4. Enter the galaxy's right ascension and declination, 3h46m56.21s, -36d05m27.7s, in "Coordinates or Object Name" under "Location".
 
 1.5. Click “Search” at the lower left.
 
@@ -265,16 +270,21 @@ use the zoom icons at the upper left part to zoom in the galaxy center.
 1.8. In the same "Data Product: ivoa.obsCore" tab, click on the stretch drop down, and select
 "Linear: Stretch -1 Sigma to 30 Sigma”
 
+.. figure:: ../_static/portal_focus_exp1_fig2.png
+	:name: portal_focus_exp1_fig2_ex_5_answer
+	:alt: A screenshot of the image display and plot.
+
+	A screenshot of the image display and plot.
+
 Step 2. Overlay compass and WFC3-IR's field of view
 ===================================================
 
-2.1. Select the "Tools" drop-down (the icon with a wrench) menu.
+2.1. Select the "Tools" drop-down (the icon with a wrench and hammer) menu.
 Go to "Layers" and click on the first icon the left with an "N" and an "E" to overlay the compass with the cardinal points.
 
 2.2. In the same "Layers" row, select the last icon "Overlay Markers and Instrument Footprints".
 Go to "Add HST footprint" and select "WFC3/IR".
 Click on the footprint that appears on the image and move it so that it is centered on the galaxy.
-
 
 Step 3. Extract the flux profile of the galaxy and save it as a CSV file
 ========================================================================
@@ -308,9 +318,10 @@ indicating they are older, more evolved galaxies with less star formation.
 Step 1. Visualize the region of the cluster
 ===========================================
 
-1.1. Under “Enter Constraints”, enter the coordinates “3h43m00.00s, -32d16m19.00s” for “Coords or Obj Name”. Next to “Radius”, from the drop down menu choose “arcseconds” and then enter “200”.
+1.1. Under “Enter Constraints”, enter the coordinates “3h43m00.00s, -32d16m19.00s” for “Coordinates or Object Name”. Next to “Radius”, from the drop down menu choose “arcseconds” and then enter “200”.
 
-1.2. Select the output columns “coord_ra”, “coord_dec”, “r” and “i_cModelFlux”, “r” and “i_extendedness” and “detect_isPrimary”. In the “constraints” column, enter “=1” for “g", “r” and “i_extendedness” and for “detect_isPrimary”.
+1.2. Select the output columns “coord_ra”, “coord_dec”, "r” and “i_cModelFlux”, "r” and “i_extendedness” and “detect_isPrimary”.
+In the “constraints” column, enter “=1” for “r” and “i_extendedness” and for “detect_isPrimary”.
 
 1.3. Click “Search” at lower left.
 
@@ -323,7 +334,7 @@ Step 2. Create a color-magnitude diagram
 
 2.2. Under Chart Options, set "Chart title" to "Red Sequence". Set “X Label” to “i” and set “Y Label” to “r-i”. Click "Apply".
 
-.. figure:: /_static/portal_UTAK_experienced_task2a.png
+.. figure:: ../_static/portal_UTAK_experienced_task2a.png
 	:name: portal_UTAK_experienced_task2a
 	:alt: A screenshot of the coverage and red sequence in a color-magnitude diagram.
 
@@ -338,7 +349,7 @@ Step 3. Highlight the cluster members
 
 3.3. Under the "Coverage" tab, click on the layers icon (hover-over text “manipulate overlay display”) and select “Coverage”.
 
-.. figure:: /_static/portal_UTAK_experienced_task2b.png
+.. figure:: ../_static/portal_UTAK_experienced_task2b.png
 	:name: portal_UTAK_experienced_task2b
 	:alt: A screenshot of the coverage and red sequence in a color-magnitude diagram with cluster members highlighted.
 
