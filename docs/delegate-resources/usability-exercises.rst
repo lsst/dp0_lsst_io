@@ -85,6 +85,8 @@ Exercise 1 (beginner)
 Navigate in a web browser to `data.lsst.cloud <https://data.lsst.cloud/>`_
 and log in to the Portal Aspect.
 
+Select the "DP0.2 Catalogs" tab.  This selection will default you to the "dp02_dc2_catalogs.Object" table.
+
 Retrieve the ``g_psfFlux``, ``g_calibFlux``, and the ``g_extendedness`` columns
 from the DP0.2 Object catalog for objects within 15 arcminutes of the galaxy cluster
 at Right Ascension 55.75 degrees and Declination -32.27 degrees.
