@@ -25,7 +25,7 @@ of the Portal Aspect of the Rubin Science Platform (RSP;
 `data.lsst.cloud <https://data.lsst.cloud/>`_).
 The goal is to understand how users interact with the Portal and identify
 areas that may require improvement.
-These exercises were also designed serve also as challenged-based
+These exercises were also designed to serve also as challenged-based
 learning opportunities, complementary to the :ref:`DP0-Delegate-Resources-Get-Started-Docs-and-Tuts`.
 
 **Who can participate?**
@@ -84,6 +84,8 @@ Exercise 1 (beginner)
 
 Navigate in a web browser to `data.lsst.cloud <https://data.lsst.cloud/>`_
 and log in to the Portal Aspect.
+
+Select the "DP0.2 Catalogs" tab.  This selection will default you to the "dp02_dc2_catalogs.Object" table.
 
 Retrieve the ``g_psfFlux``, ``g_calibFlux``, and the ``g_extendedness`` columns
 from the DP0.2 Object catalog for objects within 15 arcminutes of the galaxy cluster
@@ -173,7 +175,7 @@ has three panels: the grid of tracts in the DC2 simulation area on the left, the
 and a zoom-in image approximately centered near a particularly bright elongated galaxy on the right.
 The galaxy is located at Right Ascension = 3h46m56.21s and Declination = -36d05m27.7s (EQ_J2000).
 
-.. figure:: /_static/portal_focus_exp1_fig1.png
+.. figure:: ../_static/portal_focus_exp1_fig1.png
 	:name: portal_focus_exp1_fig1
 	:alt: A screenshot of Figure 15 from the "The LSST DESC DC2 Simulated Sky Survey" paper.
 		The figure has three panels from left to right: the grid of tracts in the DC2 simulation area on the left,
@@ -191,7 +193,7 @@ in the ``r`` band, including:
 
 **Hint**: Use a color stretch "Linear: Stretch -1 Sigma to 30 Sigma” to resemble the figure below.
 
-.. figure:: /_static/portal_focus_exp1_fig2.png
+.. figure:: ../_static/portal_focus_exp1_fig2.png
 	:name: portal_focus_exp1_fig2
 	:alt: A screenshot of the Portal Aspect of the Rubin Science Platform with three panels, two on top
               and one at the bottom. The top left panel displays the image of a galaxy from the DC2 simulation
@@ -220,7 +222,7 @@ Query the DP0.2 Object catalog for the galaxy cluster around Right Ascension 3h4
 to visualize the region where the cluster is and plot the "red sequence" in a color-magnitude diagram
 (for example, ``r-i`` vs ``i``), as illustrated in the image below.
 
-.. figure:: /_static/portal_focus_exp2_fig1.png
+.. figure:: ../_static/portal_focus_exp2_fig1.png
 	:name: portal_focus_exp2_fig1
 	:alt: A screenshot of the Portal Aspect of the Rubin Science Platform with two panels.
               The left panel shows a galaxy cluster from the DC2 simulation and the right panel
@@ -230,7 +232,7 @@ to visualize the region where the cluster is and plot the "red sequence" in a co
 
 Then, select the points in the red sequence to highlight the cluster members in the image, as shown in the image below.
 
-.. figure:: /_static/portal_focus_exp2_fig2.png
+.. figure:: ../_static/portal_focus_exp2_fig2.png
 	:name: portal_focus_exp2_fig2
 	:alt: A screenshot of the Portal Aspect of the Rubin Science Platform with two panels.
               The left panel shows a galaxy cluster from the DC2 simulation with squares
