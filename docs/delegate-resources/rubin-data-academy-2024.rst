@@ -23,11 +23,15 @@ DP0 Rubin Data Academy 2024
 
 .. _DP0-Delegate-Resources-RDA2024-overview:
 
+===================
+Post-Academy Update
+===================
+
+**Update, June 22, 2024:** This meeting has already taken place. See below for links to video recordings of all sessions.
+
 ========
 Overview
 ========
-
-**Update, June 22, 2024:** This meeting has already taken place. See below for links to video recordings of all sessions.
 
 **Dates**: June 17-18, 20-21, 2024
 
