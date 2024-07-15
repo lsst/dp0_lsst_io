@@ -135,7 +135,7 @@ For information about the topics covered in each of these sessions, see the :ref
 
 `Monday, June 17, Session B <https://youtu.be/7iS2ER4yRVs>`__
 
-`Tuesday, June 18, Session A <>`__
+`Tuesday, June 18, Session A <https://youtu.be/7l1M4Hj_Qso>`__
 
 `Tuesday, June 18, Session B <https://youtu.be/_d-VCFihPso>`__
 
