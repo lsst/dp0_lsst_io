@@ -131,19 +131,19 @@ Videos
 
 For information about the topics covered in each of these sessions, see the :ref:`agenda <DP0-Delegate-Resources-RDA2024-Agenda>` in the section above this one.
 
-`Monday, June 17, Session A <https://youtu.be/ndNwbC1LADA>`__
+`Monday, June 17, Session A <https://youtu.be/vr_ZO-Je17I>`__
 
-`Monday, June 17, Session B <https://youtu.be/IAx74kMrC0E>`__
+`Monday, June 17, Session B <https://youtu.be/7iS2ER4yRVs>`__
 
-`Tuesday, June 18, Session A <https://youtu.be/4bge8CN5Ojg>`__
+`Tuesday, June 18, Session A <>`__
 
-`Tuesday, June 18, Session B <https://youtu.be/R2QbRmqsiEw>`__
+`Tuesday, June 18, Session B <https://youtu.be/_d-VCFihPso>`__
 
-`Thursday, June 20, Session A <https://youtu.be/FrtXr3RGuKk>`__
+`Thursday, June 20, Session A <https://youtu.be/edTi4aR_fLY>`__
 
-`Thursday, June 20, Session B <https://youtu.be/pycrXcNij8M>`__
+`Thursday, June 20, Session B <https://youtu.be/q2zfZPWrapQ>`__
 
-`Friday, June 21, Session A <https://youtu.be/26eqXwZp_64>`__
+`Friday, June 21, Session A <https://youtu.be/nN0b3IzofsI>`__
 
 
 =============
