@@ -83,7 +83,7 @@
      - Week of the :doc:`rubin-data-academy-2024`, see you there!
    * - 2024-06-27
      - tutorial
-     - Near-Earth objects in DP0.3 (Sarah Greenstreet)
+     - Near-Earth objects in DP0.3 <https://community.lsst.org/t/rubin-science-assembly-thu-27-june-2024-at-9-am-pdt-dp0-3-exploring-near-earth-object-orbital-properties-in-the-notebook-aspect/8776>`_ (Sarah Greenstreet)
    * - 2024-07-04
      - cancelled
      - Holiday in the USA.
