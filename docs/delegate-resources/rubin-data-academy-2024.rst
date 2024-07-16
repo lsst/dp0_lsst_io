@@ -24,7 +24,7 @@ DP0 Rubin Data Academy 2024
 .. _DP0-Delegate-Resources-RDA2024-overview:
 
 ===================
-Post-Academy Update
+Post Academy Update
 ===================
 
 **Update, June 22, 2024:** The 2024 Data Academy has already taken place. See below for links to video recordings of all sessions.
@@ -93,7 +93,7 @@ Registration form
 
 .. To register, please enter the requested information in the `registration form <https://docs.google.com/forms/d/1tZOUS9JCa4629LYTZPpQj4vqZCXH_23JMFtqj-GCXx0>`_.
 
-Registration is closed, as the Summer School has already taken place.  
+Registration is closed, as the Summer School has already taken place.
 
 .. _DP0-Delegate-Resources-RDA2024-SOC:
 
