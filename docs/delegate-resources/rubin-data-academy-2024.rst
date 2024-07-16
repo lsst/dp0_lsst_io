@@ -23,6 +23,12 @@ DP0 Rubin Data Academy 2024
 
 .. _DP0-Delegate-Resources-RDA2024-overview:
 
+===================
+Post Academy Update
+===================
+
+**Update, June 22, 2024:** The 2024 Data Academy has already taken place. See below for links to video recordings of all sessions.
+
 ========
 Overview
 ========
@@ -39,7 +45,7 @@ Session B: 19:00-21:00 PDT (02:00-04:00 UTC; +1 day)
 
 **Connection info:** `ls.st/dp0-events <https://ls.st/dp0-events>`_
 
-**Last modified**: June 12 2024
+**Last modified**: July 16 2024
 
 **Eligibility**: All DP0 delegates are eligible to register for the DP0 Rubin Data Academy.
 There is currently space available for new DP0 delegates:
@@ -85,7 +91,9 @@ The primary meeting platform will be Zoom.
 Registration form
 =================
 
-To register, please enter the requested information in the `registration form <https://docs.google.com/forms/d/1tZOUS9JCa4629LYTZPpQj4vqZCXH_23JMFtqj-GCXx0>`_.
+.. To register, please enter the requested information in the `registration form <https://docs.google.com/forms/d/1tZOUS9JCa4629LYTZPpQj4vqZCXH_23JMFtqj-GCXx0>`_.
+
+Registration is closed, as the Summer School has already taken place.
 
 .. _DP0-Delegate-Resources-RDA2024-SOC:
 
@@ -117,29 +125,25 @@ For conversion to your local time, try `this time zone converter <https://www.ti
 
 .. _DP0-Delegate-Resources-RDA2024-Videos:
 
-.. ======
-.. Videos
-.. ======
+================
+Video recordings
+================
 
-.. For information about the topics covered in each of these sessions, see the :ref:`agenda <DP0-Delegate-Resources-RDA2024-Agenda>` in the section above this one.
+For information about the topics covered in each of these sessions, see the :ref:`agenda <DP0-Delegate-Resources-RDA2024-Agenda>` in the section above this one.
 
-.. `Monday, June 12, Session A <https://youtu.be/ndNwbC1LADA>`__
+`Monday, June 17, Session A <https://youtu.be/vr_ZO-Je17I>`__
 
-.. `Monday, June 12, Session B <https://youtu.be/IAx74kMrC0E>`__
+`Monday, June 17, Session B <https://youtu.be/7iS2ER4yRVs>`__
 
-.. `Tuesday, June 13, Session A <https://youtu.be/4bge8CN5Ojg>`__
+`Tuesday, June 18, Session A <https://youtu.be/7l1M4Hj_Qso>`__
 
-.. `Tuesday, June 13, Session B <https://youtu.be/R2QbRmqsiEw>`__
+`Tuesday, June 18, Session B <https://youtu.be/_d-VCFihPso>`__
 
-.. `Wednesday, June 14, Session A <https://youtu.be/dnXPTfybf0w>`__
+`Thursday, June 20, Session A <https://youtu.be/edTi4aR_fLY>`__
 
-.. `Wednesday, June 14, Session B <https://youtu.be/tuGrMPvFp-Y>`__
+`Thursday, June 20, Session B <https://youtu.be/q2zfZPWrapQ>`__
 
-.. `Thursday, June 15, Session A <https://youtu.be/FrtXr3RGuKk>`__
-
-.. `Thursday, June 15, Session B <https://youtu.be/pycrXcNij8M>`__
-
-.. `Friday, June 16, Session A <https://youtu.be/26eqXwZp_64>`__
+`Friday, June 21, Session A <https://youtu.be/nN0b3IzofsI>`__
 
 
 =============
