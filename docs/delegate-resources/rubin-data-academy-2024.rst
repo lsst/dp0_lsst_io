@@ -125,9 +125,9 @@ For conversion to your local time, try `this time zone converter <https://www.ti
 
 .. _DP0-Delegate-Resources-RDA2024-Videos:
 
-======
-Videos
-======
+================
+Video recordings
+================
 
 For information about the topics covered in each of these sessions, see the :ref:`agenda <DP0-Delegate-Resources-RDA2024-Agenda>` in the section above this one.
 
