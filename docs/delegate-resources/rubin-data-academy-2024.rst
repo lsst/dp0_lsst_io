@@ -27,7 +27,7 @@ DP0 Rubin Data Academy 2024
 Post-Academy Update
 ===================
 
-**Update, June 22, 2024:** This meeting has already taken place. See below for links to video recordings of all sessions.
+**Update, June 22, 2024:** The 2024 Data Academy has already taken place. See below for links to video recordings of all sessions.
 
 ========
 Overview
