@@ -92,7 +92,7 @@
      - Q&A with Rubin staff, co-working time
    * - 2024-07-18
      - tutorial
-     - Asteroid Taxonomy with DP0.3 (Valerio Carruba)
+     - `Asteroid Taxonomy with DP0.3 <https://community.lsst.org/t/rubin-science-assembly-thu-18-july-2024-asteroid-taxonomy-with-dp0-3/8856/3>`_ (Valerio Carruba)
    * - 2024-07-25
      - cancelled
      - Week of the `Rubin Community Workshop <https://project.lsst.org/meetings/rubin-2024/>`_, see you there!
