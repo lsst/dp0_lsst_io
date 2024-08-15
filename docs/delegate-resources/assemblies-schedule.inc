@@ -97,4 +97,4 @@
      - cancelled
      - Week of the `Rubin Community Workshop <https://project.lsst.org/meetings/rubin-2024/>`_, see you there!
 
-**Notice:** We will take a short break from Rubin Science Assemblies for the month of August 2024. Stay tuned for more scheduled events coming in September 2024!
+**Notice:** We will take a short break from Rubin Science Assemblies for the months of August 2024 and September 2024. Stay tuned for more scheduled events coming in October 2024!
