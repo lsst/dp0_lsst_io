@@ -35,55 +35,41 @@
      - Topic
    * - 2024-10-03
      - tutorial
-     -
    * - 2024-10-10
      - drop-in
-     - 
    * - 2024-10-17
      - presentation
      - Participating in Rubin First Look
    * - 2024-10-24
      - drop-in
-     - 
    * - 2024-10-31
      - tutorial
      - Aaron Meisner: DP0.2 Command line tutorial 02 (tentative)
    * - 2024-11-07
      - drop-in
-     - 
    * - 2024-11-14
      - tutorial
-     - 
    * - 2024-11-21
      - drop-in
-     - 
    * - 2024-11-28
      - CANCELLED (American Thanksgiving)
-     - 
    * - 2024-12-05
      - drop-in
-     - 
    * - 2024-12-12
      - presentation
      - Data Preview 0 Review: Thank You Delegates!
    * - 2024-12-19
      - CANCELLED (winter break)
-     - 
    * - 2024-12-26
      - CANCELLED (winter break)
-     - 
    * - 2025-01-02
      - CANCELLED (winter break)
-     - 
    * - 2025-01-09
      - tutorial
-     - 
    * - 2025-01-16
      - drop-in
-     - 
    * - 2025-01-23
      - tutorial
-     - 
    * - 2025-01-30
      - tutorial
      - <Looking forward to Data Preview 1>
