@@ -125,3 +125,67 @@ DP0 Delegate Assembly Recordings
    * - 2023-12-08
      - `Using TOPCAT with the DP0.2 TAP Service (Introduction to the RSP API Aspect and DP0.2 API TOPCAT tutorial 01) <https://community.lsst.org/t/announcement-dp0-delegate-assembly-8-december-2023-using-topcat-with-the-dp0-2-tap-service/8140/6>`_ (Douglas Tucker)
      - *general Q&A, breakouts*
+   * - 2024-03-07
+     - `(Re-)Introduction to DP0.2 and DP0.3 <https://community.lsst.org/t/rubin-science-assembly-thu-07-march-2024-re-introduction-to-dp0-2-and-dp0-3/8339/2>`_ (Jeff Carlin)
+     - tutorial
+   * - 2024-03-14
+     - Q&A with Rubin staff, co-working time
+     - drop-in
+   * - 2024-03-21
+     - `How to upload tables to the Portal Aspect <https://community.lsst.org/t/rubin-science-assembly-thu-21-march-2024-how-to-upload-tables-to-the-portal-aspect/8390/4>`_ (Christina Williams)
+     - tutorial
+   * - 2024-03-28
+     - Q&A with Rubin staff, co-working time
+     - drop-in
+   * - 2024-04-04
+     - `Phase curve analysis in the Portal Aspect <https://community.lsst.org/t/rubin-science-assembly-thu-4-april-2024-at-9-am-pdt-pd0-3-phase-curve-fit-analysis-in-the-portal-aspect/8429>`_ (Yumi Choi)
+     - tutorial
+   * - 2024-04-11
+     - Q&A with Rubin staff, co-working time
+     - drop-in
+   * - 2024-04-18
+     - `How to create custom coadds <https://community.lsst.org/t/rubin-science-assembly-thu-18-april-2024-at-9-am-pdt-how-to-create-custom-coadds/8473/2>`_ (Aaron Meisner)
+     - tutorial
+   * - 2024-04-25
+     - Q&A with Rubin staff, co-working time
+     - drop-in
+   * - 2024-05-02
+     - `How to analyze the LSST point-spread function <https://community.lsst.org/t/rubin-science-assembly-thu-02-may-2024-at-9-am-pdt-how-to-analyze-the-lsst-point-spread-function/8534>`_ (PSF; Andrés Plazas Malagón)
+     - tutorial
+   * - 2024-05-09
+     - N/A
+     - cancelled
+   * - 2024-05-16
+     - `How to use the image cutout service <https://community.lsst.org/t/rubin-science-assembly-thu-16-may-2024-at-9-am-pdt-how-to-use-the-rubin-image-cutout-service/8592>`_ (Christina Williams)
+     - tutorial
+   * - 2024-05-23
+     - Q&A with Rubin staff, co-working time
+     - drop-in
+   * - 2024-05-30
+     - `How to do synthetic source injection <https://community.lsst.org/t/rubin-science-assembly-thu-30-may-2024-at-9-am-pdt-how-to-do-synthetic-source-injection/8647/4>`_ (Jeff Carlin)
+     - tutorial
+   * - 2024-06-06
+     - Q&A with Rubin staff, co-working time
+     - drop-in
+   * - 2024-06-13
+     - `Custom source detection pipeline <https://community.lsst.org/t/rubin-science-assembly-thu-13-june-2024-at-9-am-pdt-custom-source-detection-pipeline/8703/2>`_ (Aaron Meisner)
+     - tutorial
+   * - 2024-06-20
+     - Week of the :doc:`rubin-data-academy-2024`, see you there!
+     - cancelled
+   * - 2024-06-27
+     - `Near-Earth objects in DP0.3 <https://community.lsst.org/t/rubin-science-assembly-thu-27-june-2024-at-9-am-pdt-dp0-3-exploring-near-earth-object-orbital-properties-in-the-notebook-aspect/8776>`_ (Sarah Greenstreet)
+     - tutorial
+   * - 2024-07-04
+     - Holiday in the USA.
+     - cancelled
+   * - 2024-07-11
+     - Q&A with Rubin staff, co-working time
+     - drop-in
+   * - 2024-07-18
+     - `Asteroid Taxonomy with DP0.3 <https://community.lsst.org/t/rubin-science-assembly-thu-18-july-2024-asteroid-taxonomy-with-dp0-3/8856/3>`_ (Valerio Carruba)
+     - tutorial
+   * - 2024-07-25
+     - Week of the `Rubin Community Workshop <https://project.lsst.org/meetings/rubin-2024/>`_, see you there!
+     - cancelled
+
