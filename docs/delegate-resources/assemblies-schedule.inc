@@ -58,8 +58,8 @@
      - drop-in
      - team members available for support
    * - 2024-11-28
-     - CANCELLED (American Thanksgiving)
-     - topic
+     - CANCELLED
+     - (American Thanksgiving)
    * - 2024-12-05
      - drop-in
      - team members available for support
