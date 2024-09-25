@@ -125,6 +125,9 @@ DP0 Delegate Assembly Recordings
    * - 2023-12-08
      - `Using TOPCAT with the DP0.2 TAP Service (Introduction to the RSP API Aspect and DP0.2 API TOPCAT tutorial 01) <https://community.lsst.org/t/announcement-dp0-delegate-assembly-8-december-2023-using-topcat-with-the-dp0-2-tap-service/8140/6>`_ (Douglas Tucker)
      - *general Q&A, breakouts*
+   * - **Date**
+     - **Topic**
+     - **Type of assembly**
    * - 2024-03-07
      - `(Re-)Introduction to DP0.2 and DP0.3 <https://community.lsst.org/t/rubin-science-assembly-thu-07-march-2024-re-introduction-to-dp0-2-and-dp0-3/8339/2>`_ (Jeff Carlin)
      - tutorial
