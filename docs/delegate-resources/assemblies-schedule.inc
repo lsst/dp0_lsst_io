@@ -35,7 +35,7 @@
      - Topic
    * - 2024-10-03
      - tutorial
-     - topic
+     - Douglas Tucker: A (Re-)Introduction to DP0
    * - 2024-10-10
      - drop-in
      - team members available for support
