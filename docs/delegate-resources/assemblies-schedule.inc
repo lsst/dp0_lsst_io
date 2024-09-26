@@ -85,6 +85,9 @@
      - tutorial
      - topic
    * - 2025-01-30
+     - drop-in
+     - team members available for support
+   * - 2025-02-06
      - tutorial
      - Looking forward to Data Preview 1
    * - 2025-02-13
