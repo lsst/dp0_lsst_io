@@ -47,10 +47,10 @@
      - team members available for support
    * - 2024-10-31
      - tutorial
-     - Aaron Meisner: DP0.2 Command line tutorial 02 (tentative)
+     - Aaron Meisner: Butler from the Command Line
    * - 2024-11-07
      - drop-in
-     - team members available for supporttopic
+     - team members available for support
    * - 2024-11-14
      - tutorial
      - topic
@@ -77,7 +77,7 @@
      - (winter break)
    * - 2025-01-09
      - tutorial
-     - topic
+     - Yumi Choi: how to join user-uploaded tables in RSP
    * - 2025-01-16
      - drop-in
      - team members available for support
