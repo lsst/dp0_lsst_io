@@ -35,7 +35,7 @@
      - Topic
    * - 2024-10-03
      - tutorial
-     - Douglas Tucker: A (Re-)Introduction to DP0
+     - Douglas Tucker: `A (Re-)Introduction to DP0 <https://community.lsst.org/t/rubin-science-assembly-thu-03-october-2024-re-introduction-to-dp0/9426/2?u=douglasltucker>`_
    * - 2024-10-10
      - drop-in
      - team members available for support
