@@ -41,7 +41,7 @@
      - team members available for support
    * - 2024-10-17
      - presentation
-     - Participating in Rubin First Look
+     - `Science Community Participation in the Rubin First Look Media Event <https://community.lsst.org/t/rubin-science-assembly-thu-oct-17-2024-science-community-participation-in-the-rubin-first-look-media-event/9458>`_
    * - 2024-10-24
      - drop-in
      - team members available for support
