@@ -53,7 +53,7 @@
      - team members available for support
    * - 2024-11-14
      - tutorial
-     - topic
+     - Rubin/Roman Synergies
    * - 2024-11-21
      - drop-in
      - team members available for support
@@ -64,8 +64,8 @@
      - drop-in
      - team members available for support
    * - 2024-12-12
-     - presentation
-     - Data Preview 0 Review: Thank You Delegates!
+     - tutorial
+     - Sarah Greenstreet: Advanced plots with DP0.3
    * - 2024-12-19
      - CANCELLED
      - (winter break)
@@ -82,8 +82,8 @@
      - drop-in
      - team members available for support
    * - 2025-01-23
-     - tutorial
-     - topic
+     - presentation
+     - Data Preview 0 Review: Thank You Delegates!
    * - 2025-01-30
      - drop-in
      - team members available for support
