@@ -47,7 +47,7 @@
      - team members available for support
    * - 2024-10-31
      - tutorial
-     - Aaron Meisner: Butler from the Command Line
+     - Aaron Meisner: `Butler from the Command Line <https://community.lsst.org/t/rubin-science-assembly-thu-31-october-2024-butler-from-the-command-line/9500/2>`_
    * - 2024-11-07
      - drop-in
      - team members available for support
