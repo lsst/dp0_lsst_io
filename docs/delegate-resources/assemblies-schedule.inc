@@ -53,7 +53,7 @@
      - team members available for support
    * - 2024-11-14
      - tutorial
-     - Rubin/Roman Synergies
+     - `Rubin/Roman Synergies <https://community.lsst.org/t/rubin-science-assembly-thu-nov-14-9am-pst-rubin-roman-synergies/9539/2>`_
    * - 2024-11-21
      - drop-in
      - team members available for support
