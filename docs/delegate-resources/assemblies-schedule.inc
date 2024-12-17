@@ -65,7 +65,7 @@
      - team members available for support
    * - 2024-12-12
      - tutorial
-     - Sarah Greenstreet: Advanced plots with DP0.3
+     - Sarah Greenstreet: `Advanced plots with DP0.3 <https://community.lsst.org/t/rubin-science-assembly-thu-12-dec-2024-advanced-plotting-with-dp0-3/9630/2?u=sgreenstreet>`_
    * - 2024-12-19
      - CANCELLED
      - (winter break)
