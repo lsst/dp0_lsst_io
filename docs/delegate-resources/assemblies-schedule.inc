@@ -77,7 +77,7 @@
      - (winter break)
    * - 2025-01-09
      - tutorial
-     - Yumi Choi: how to join user-uploaded tables in RSP
+     - Yumi Choi: `How to join user-uploaded tables in RSP <https://community.lsst.org/t/rubin-science-assembly-thu-9-jan-2025-how-to-join-user-uploaded-tables-in-rsp/9683/2>`_
    * - 2025-01-16
      - drop-in
      - team members available for support
