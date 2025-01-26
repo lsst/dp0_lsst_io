@@ -20,7 +20,7 @@ Participation guidelines
 
 .. This section should provide a brief, top-level description of the page.
 
-All DP0 delegates must:
+All DP0 users must:
 
 * have Rubin data rights and abide by the :ref:`DP0-Delegate-Resources-Participation-Guidelines-Data-Rights`
 * understand the :ref:`DP0-Delegate-Resources-Participation-Guidelines-Risks` of using the DP0-era RSP
@@ -35,7 +35,7 @@ Rubin data rights policy
 
 Rubin data rights are required to hold an account in the Rubin Science Platform (RSP).
 
-RSP accounts are not transferable and delegates must not share their password with others.
+RSP accounts are not transferable and users must not share their password with others.
 
 **Who has Rubin data rights?**
 All scientists and students affiliated with an institution in the US and Chile have data rights,
@@ -56,7 +56,7 @@ Risks and caveats
 =================
 
 .. Important::
-    DP0 delegates are being given access to a *shared-risk developmental version* of the RSP and the accompanying documentation,
+    DP0 users are being given access to a *shared-risk developmental version* of the RSP and the accompanying documentation,
     and should understand the `risks and caveats <https://dp0-2.lsst.io/data-access-analysis-tools/rsp-warnings.html>`__.
 
 
@@ -80,7 +80,7 @@ Please note that there are a few reasons why posts get flagged, and CoC violatio
 Here are some guidelines on `how to react if your post is flagged <https://community.lsst.org/t/how-to-react-if-your-post-is-flagged>`_.
 
 If you experience or witness a violation of the CoC in another venue, please reach out to Sandrine Thomas, one of the
-`Rubin Observatory Workplace Culture Advocates <https://project.lsst.org/workplace-culture-advocate>`_ who has agreed to be the contact person for DP0 delegates.
+`Rubin Observatory Workplace Culture Advocates <https://project.lsst.org/workplace-culture-advocate>`_ who has agreed to be the contact person for DP0 users.
 
 
 .. _DP0-Delegate-Resources-Participation-Guidelines-PubPol:
@@ -94,20 +94,20 @@ If you publish work based on the DP0.1 or DP0.2 data set, you must cite “Cosmo
 (`Korytov et al 2019 <https://ui.adsabs.harvard.edu/abs/2019ApJS..245...26K/abstract>`_), “The LSST DESC DC2 Simulated Sky Survey” (`arXiv:2010.05926 <https://arxiv.org/abs/2010.05926>`_),
 and potentially “DESC DC2 Data Release Note” (`arXiv:2101.04855 <https://arxiv.org/abs/2101.04855>`_) if you used the Object or Truth-Match tables, which are presented in that release note.
 
-**Consider extending co-authorship or acknowledgments to DP0 delegates whose work you used, or who have helped you, as appropriate.**
-Delegates are encouraged to openly share their DP0-related work and/or code during :doc:`/delegate-resources/virtual-events`,
+**Consider extending co-authorship or acknowledgments to DP0 users whose work you used, or who have helped you, as appropriate.**
+Users are encouraged to openly share their DP0-related work and/or code during :doc:`/delegate-resources/virtual-events`,
 via the `Community Forum <https://community.lsst.org/>`_, and in the shared GitHub shared repositories
 `delegate-contributions-dp02 <https://github.com/rubin-dp0/delegate-contributions-dp02>`__ or
 `delegate-contributions-dp03 <https://github.com/rubin-dp0/delegate-contributions-dp03>`__.
 This is intended to facilitate collaboration, which requires proper acknowledgments.
-For example, if you use another delegate’s Jupyter Notebook as a starting point for your Notebook, give credit to that person at the top of your Notebook.
-If another delegate’s work contributed to your DP0-related publication, consider including an acknowledgment, citing their relevant publications, and/or extending co-authorship, as appropriate.
+For example, if you use another user’s Jupyter Notebook as a starting point for your Notebook, give credit to that person at the top of your Notebook.
+If another user’s work contributed to your DP0-related publication, consider including an acknowledgment, citing their relevant publications, and/or extending co-authorship, as appropriate.
 
 **Be aware that DP0-related work done by Science Collaboration (SC) members might be subject to the publication policies of their Science Collaborations.**
 Significant overlap between the DP0 working groups and SC working groups, committees, or task forces is to be expected, because the science goals of DP0 and the SCs overlap (i.e., preparing for LSST).
-Each SC has their own policies regarding collaboration, co-authorship, and publications and delegates are responsible for following the policies of their SCs, if and when they pertain to their DP0-related work.
-If cases of real or perceived conflict between the general open nature of DP0 collaboration and any SC policies arise, delegates are expected to understand and abide by their SC’s policies.
-In other words, the fact that work is DP0-related does not nullify any SC policies that might apply to a delegate’s work.
-Example scenarios might include sharing SC-developed software with delegates who are not members of that SC, or using code or analysis results collaboratively by delegates in a SC publication.
+Each SC has their own policies regarding collaboration, co-authorship, and publications and users are responsible for following the policies of their SCs, if and when they pertain to their DP0-related work.
+If cases of real or perceived conflict between the general open nature of DP0 collaboration and any SC policies arise, users are expected to understand and abide by their SC’s policies.
+In other words, the fact that work is DP0-related does not nullify any SC policies that might apply to a user’s work.
+Example scenarios might include sharing SC-developed software with users who are not members of that SC, or using code or analysis results collaboratively by users in a SC publication.
 
-Note that the `Rubin Observatory Publication Policy <https://docushare.lsst.org/docushare/dsweb/Get/LPM-162>`_ does not apply to publications by delegates that are based on their DP0 work.
+Note that the `Rubin Observatory Publication Policy <https://docushare.lsst.org/docushare/dsweb/Get/LPM-162>`_ does not apply to publications by users that are based on their DP0 work.
