@@ -10,9 +10,7 @@ Data Preview 0 (DP0) is the first of three data previews during the period leadi
 Rubin Science Platform (RSP) and to enable a limited number of scientists and students to begin early preparations for science with
 **simulated** LSST-like data sets.
 
-**DP0 delegates:** The scientists and students who have RSP accounts and access to the DP0 data sets.
-This term reflects their important roles of representing the broad science community as learners, testers, and providers of feedback,
-and of sharing the benefits of their DP0 participation with their communities as teachers and colleagues.
+**DP0 users:** The scientists and students who have RSP accounts and access to the DP0 data sets.
 
 .. toctree::
    :hidden:
