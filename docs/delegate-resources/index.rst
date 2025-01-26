@@ -1,6 +1,6 @@
-######################
-DP0 delegate resources
-######################
+##################
+DP0 user resources
+##################
 
 .. Review the README on instructions to contribute.
 .. Review the style guide to keep a consistent approach to the documentation.
@@ -20,9 +20,9 @@ DP0 delegate resources
 
 .. This section should provide a brief, top-level description of the page.
 
-**DP0 delegates** are the scientists and students who have RSP accounts and access to the DP0 data sets.
+**DP0 users** are the scientists and students who have RSP accounts and access to the DP0 data sets.
 
-This page contains the guidelines and activities for DP0 delegates.
+This page contains the guidelines and activities for DP0 users.
 
 
 .. _DP0-Delegate-Resources-toc-get-started:
@@ -31,7 +31,7 @@ This page contains the guidelines and activities for DP0 delegates.
 Get started with DP0
 ====================
 
-Become a DP0 delegate by getting an account in the Rubin Science Platform.
+Become a DP0 user by getting an account in the Rubin Science Platform.
 Learn more about LSST and DP0 by participating in DP0-related activities.
 
 .. toctree::
@@ -65,7 +65,7 @@ The Rubin Data Academy offers a one-week virtual program of hands-on learning.
 Participation guidelines
 ========================
 
-Review the policies that apply to all DP0 delegates.
+Review the policies that apply to all DP0 users.
 
 .. toctree::
     :maxdepth: 2
