@@ -20,27 +20,27 @@ Get started with DP0
 
 .. This section should provide a brief, top-level description of the page.
 
-**DP0 delegates** are the scientists and students who have accounts in the Rubin Science Platform (RSP)
+**DP0 users** are the scientists and students who have accounts in the Rubin Science Platform (RSP)
 at `data.lsst.cloud <https://data.lsst.cloud/>`__ and access to the Data Preview 0 (DP0) data sets.
 
-Becoming a delegate and accessing the DP0 data is as easy as following the checklist below
+Becoming a user and accessing the DP0 data is as easy as following the checklist below
 and getting an account in the Rubin Science Platform (RSP).
 
 There is no application process.
 The only prerequisite is to be a Rubin data rights holder (see the `Rubin Data Policy <https://docushare.lsst.org/docushare/dsweb/Get/RDO-013>`_).
-The number of delegates is currently limited to 900.
+The number of users is currently limited to 900.
 Space is available and all petitions are being accepted.
 If that changes this page will be updated.
 
 
 .. _DP0-Delegate-Resources-Get-Started-Checklist:
 
-======================
-New delegate checklist
-======================
+==================
+New user checklist
+==================
 
 .. Important::
-    Rubin data rights are required in order to become a DP0 delegate and have an RSP account. Briefly, this includes students and scientists at US and Chilean institutions, and individuals whose name appears on the `list of international data rights holders <https://www.lsst.org/scientists/international-drh-list>`_; find details in the `Rubin Data Policy <https://docushare.lsst.org/docushare/dsweb/Get/RDO-013>`_. If you’re not sure if you have Rubin data rights, please contact Heather Shaughnessy (sheather@slac.stanford.edu) before proceeding with these steps.
+    Rubin data rights are required in order to become a DP0 user and have an RSP account. Briefly, this includes students and scientists at US and Chilean institutions, and individuals whose name appears on the `list of international data rights holders <https://www.lsst.org/scientists/international-drh-list>`_; find details in the `Rubin Data Policy <https://docushare.lsst.org/docushare/dsweb/Get/RDO-013>`_. If you’re not sure if you have Rubin data rights, please contact Heather Shaughnessy (sheather@slac.stanford.edu) before proceeding with these steps.
 
 
 **Step 1.**
@@ -53,13 +53,11 @@ instructions on `how to get an RSP account <https://rsp.lsst.io/guides/getting-s
 Everyone should use their full professional names and institutional email addresses.
 The process to verify data rights and approve petitions can take a few days.
 Please contact Melissa Graham at mlg3k@uw.edu or Heather Shaughnessy at sheather@slac.stanford.edu with any issues.
-Once your petition is approved and you can log in to `data.lsst.cloud <https://data.lsst.cloud>`_, you are a DP0 delegate.
+Once your petition is approved and you can log in to `data.lsst.cloud <https://data.lsst.cloud>`_, you are a DP0 user.
 
 **Step 3.**
 Get an account in the `Rubin Community Forum <https://community.lsst.org/>`__ and review how to get :doc:`/delegate-resources/support` for DP0.
 
-It is recommended to go to `community.lsst.org/groups <https://community.lsst.org/groups>`_ and join the "DP0 Delegates" group.
-DP0-related news and events are shared with this group.
 Opt-in to receiving email notifications from the Forum by setting the profile preference for "Email me when I am sent a personal message" to "Always".
 People new to the Rubin Community Forum might appreciate
 `this video demonstrating how to navigate and post topics to the forum <https://www.youtube.com/watch?v=d_Z5xmkR4P4&list=PLPINAcUH0dXZSx2aY6wTIjLCWiexs3dZR&index=10>`_.
@@ -71,7 +69,7 @@ People new to the Rubin Community Forum might appreciate
 Documentation and tutorials
 ===========================
 
-All DP0 delegates are encouraged to use the documentation and tutorials to learn how to use the RSP to access and analyze LSST data,
+All DP0 users are encouraged to use the documentation and tutorials to learn how to use the RSP to access and analyze LSST data,
 and to generate and test custom software to prepare for when *real commissioning data* are released as Data Preview 1 (DP1) and DP2
 (see the `plans for early science with Rubin Observatory <https://www.lsst.org/scientists/early-science>`__).
 
@@ -148,7 +146,7 @@ There are eight `LSST Science Collaborations <https://www.lsstcorporation.org/sc
 
 **Participate in the Rubin Community Forum.**
 Ask questions about DP0, or show-and-tell your DP0-related investigations in the `Data Preview 0 Community Forum category <https://community.lsst.org/c/support/dp0>`__.
-Respond to questions or discussion topics raised by other DP0 delegates.
+Respond to questions or discussion topics raised by other DP0 users.
 This helps to build a global self-supporting network of scientists engaged in LSST research.
 
 **Participate in virtual events.**
@@ -157,7 +155,7 @@ Ask questions and join the breakout discussions.
 All are welcome to present their DP0-related experiences (contact Melissa Graham).
 
 **Contribute tutorials.**
-All delegates are welcome to share their own Jupyter Notebooks using the shared repositories
+All users are welcome to share their own Jupyter Notebooks using the shared repositories
 `delegate-contributions-dp02 <https://github.com/rubin-dp0/delegate-contributions-dp02>`__ or
 `delegate-contributions-dp03 <https://github.com/rubin-dp0/delegate-contributions-dp03>`__.
 Tutorials for the Portal, API, or command-line can also be contributed to these repos.
