@@ -39,7 +39,7 @@ The weekly Rubin Science Assemblies are live virtual sessions that focus on lear
 Each assembly will start with announcements.
 On alternating weeks there will either be a presentation (usually a hands-on tutorial),
 or open drop-in time for Q&A with Rubin staff (like an office hour)
-and breakout rooms for co-working with other delegates.
+and breakout rooms for co-working with other users.
 
 For presentation weeks, all are welcome to volunteer to speak or to suggest topics they would like to see covered
 (contact Melissa Graham, mlg3k@uw.edu).
@@ -128,7 +128,7 @@ DP0 kick-off info sessions
 
 When DP0.2 and DP0.3 were released, kick-off info sessions were held to provide
 an overview of the available data products and how to access them via the RSP.
-New delegates are recommended to watch the recorded presentations and review the
+New users are recommended to watch the recorded presentations and review the
 slide decks.
 
 * `DP0.2 kick-off info session <https://community.lsst.org/t/dp0-2-kick-off-info-session-slides-pre-recorded-presentation/6846>`__
