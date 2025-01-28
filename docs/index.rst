@@ -10,18 +10,16 @@ Data Preview 0 (DP0) is the first of three data previews during the period leadi
 Rubin Science Platform (RSP) and to enable a limited number of scientists and students to begin early preparations for science with
 **simulated** LSST-like data sets.
 
-**DP0 delegates:** The scientists and students who have RSP accounts and access to the DP0 data sets.
-This term reflects their important roles of representing the broad science community as learners, testers, and providers of feedback,
-and of sharing the benefits of their DP0 participation with their communities as teachers and colleagues.
+**DP0 users:** The scientists and students who have RSP accounts and access to the DP0 data sets.
 
 .. toctree::
    :hidden:
 
-   Delegate resources <delegate-resources/index>
+   User resources <delegate-resources/index>
 
 .. grid:: 3
 
-   .. grid-item-card:: Delegate resources
+   .. grid-item-card:: User resources
       :link: delegate-resources/index
       :link-type: doc
 
@@ -45,4 +43,4 @@ Related documentation
 
 - `Rubin Science Platform`_ — Learn how to use the Rubin Science Platform to access and analyze LSST data.
 - `LSST Science Pipelines`_ — Learn about the Rubin LSST's Python data processing, measurement, and access software, which is pre-installed in the Rubin Science Platform.
-- `github.com/rubin-dp0 <https://github.com/rubin-dp0>`_ - GitHub repository of tutorial notebooks (including delegate contributions) for both DP0.2 and DP0.3.
+- `github.com/rubin-dp0 <https://github.com/rubin-dp0>`_ - GitHub repository of tutorial notebooks (including user contributions) for both DP0.2 and DP0.3.

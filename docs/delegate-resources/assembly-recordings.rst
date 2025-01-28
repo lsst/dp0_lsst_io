@@ -15,14 +15,14 @@
 .. A warning will alert you of identical labels during the linkcheck process.
 
 
-################################
-DP0 Delegate Assembly Recordings
-################################
+###############################
+DP0 Science Assembly Recordings
+###############################
 
 .. This section should provide a brief, top-level description of the page.
 
 
-.. list-table:: DP0 Delegate Assembly Recordings
+.. list-table:: DP0 Science Assembly Recordings
    :header-rows: 1
    :widths: 1 2 2
 

@@ -20,13 +20,13 @@ Support
 
 .. This section should provide a brief, top-level description of the page.
 
-Several venues are provided to support DP0 delegates and RSP users, as described below.
+Several venues are provided to support DP0 and RSP users, as described below.
 
 If you're unsure which venue to use, `make a new topic <https://community.lsst.org/t/how-to-make-a-new-topic/8197>`__
 in the Rubin Community Forum's `Support category <https://community.lsst.org/c/support>`__.
 
 There is no wrong place to post questions or requests for assistance, so please don't hestitate.
-Hearing about issues and receiving feedback from delegates is important to Rubin Observatory staff.
+Hearing about issues and receiving feedback from users is important to Rubin Observatory staff.
 
 
 .. _DP0-Delegate-Resources-Support-Forum:
