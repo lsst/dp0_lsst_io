@@ -34,7 +34,7 @@ The weekly assemblies are live virtual sessions that focus on learning to use th
 All are welcome.
 Students and anyone new to Rubin are encouraged to participate.
 
-`See the Rubin Science Assemblies webpage for the schedule and connection information <https://rubinobservatory.org/for-scientists/events-deadlines/events-rsa>`_.
+See the `Rubin Science Assemblies webpage <https://rubinobservatory.org/for-scientists/events-deadlines/events-rsa>`_ for the 2025 schedule and connection information.
 
 See past :doc:`/delegate-resources/assembly-recordings`.
 
@@ -54,7 +54,7 @@ Rubin Data Academy
 The annual Rubin Data Academy offers a one-week virtual program of hands-on learning, with
 time for networking and co-working. Students with no prior experience are especially welcome.
 
-`See the Rubin Data Academy webpage for more information <https://rubinobservatory.org/for-scientists/events-deadlines/events-rda>`_.
+See the `Rubin Data Academy webpage <https://rubinobservatory.org/for-scientists/events-deadlines/events-rda>`_ for more information.
 
 
 .. toctree::
