@@ -30,26 +30,13 @@ All are welcome to attend any event or watch the recordings.
 Rubin Science Assemblies
 ========================
 
-The weekly Rubin Science Assemblies are live virtual sessions that focus on learning to use the RSP.
+The weekly assemblies are live virtual sessions that focus on learning to use the RSP, held most Thursdays at 9am Pacific.
+All are welcome.
+Students and anyone new to Rubin are encouraged to participate.
 
-**Connection info:** `ls.st/dp0-events <https://ls.st/dp0-events>`_
+See the `Rubin Science Assemblies webpage <https://rubinobservatory.org/for-scientists/events-deadlines/events-rsa>`_ for the 2025 schedule and connection information.
 
-**Dates and times:** Thursdays at 9am Pacific (1 hour)
-
-Each assembly will start with announcements.
-On alternating weeks there will either be a presentation (usually a hands-on tutorial),
-or open drop-in time for Q&A with Rubin staff (like an office hour)
-and breakout rooms for co-working with other users.
-
-For presentation weeks, all are welcome to volunteer to speak or to suggest topics they would like to see covered
-(contact Melissa Graham, mlg3k@uw.edu).
-
-For open drop-in weeks, all are welcome to bring their questions or issues and get support from Rubin staff,
-or come with a topic of interest and co-work in a breakout room.
-
-See all past :doc:`/delegate-resources/assembly-recordings`.
-
-.. include:: assemblies-schedule.inc
+See past :doc:`/delegate-resources/assembly-recordings`.
 
 .. toctree::
    :hidden:
@@ -67,29 +54,14 @@ Rubin Data Academy
 The annual Rubin Data Academy offers a one-week virtual program of hands-on learning, with
 time for networking and co-working. Students with no prior experience are especially welcome.
 
-----
-2024
-----
+See the `Rubin Data Academy webpage <https://rubinobservatory.org/for-scientists/events-deadlines/events-rda>`_ for more information.
 
-Held virtually, June 17-18 & 20-21, 2024.
 
 .. toctree::
     :maxdepth: 1
     :glob:
 
     rubin-data-academy-2024
-
-
-----
-2023
-----
-
-Held virtually June 12-16, 2023.
-
-.. toctree::
-    :maxdepth: 1
-    :glob:
-
     virtual-summer-school-2023
 
 
