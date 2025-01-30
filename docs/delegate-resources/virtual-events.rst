@@ -30,26 +30,17 @@ All are welcome to attend any event or watch the recordings.
 Rubin Science Assemblies
 ========================
 
-The weekly Rubin Science Assemblies are live virtual sessions that focus on learning to use the RSP.
+The weekly assemblies are live virtual sessions that focus on learning to use the RSP.
+
+**Schedule and more information:** `Rubin Science Assemblies <https://rubinobservatory.org/for-scientists/events-deadlines/events-rsa>`_
 
 **Connection info:** `ls.st/dp0-events <https://ls.st/dp0-events>`_
 
 **Dates and times:** Thursdays at 9am Pacific (1 hour)
 
-Each assembly will start with announcements.
-On alternating weeks there will either be a presentation (usually a hands-on tutorial),
-or open drop-in time for Q&A with Rubin staff (like an office hour)
-and breakout rooms for co-working with other users.
+Volunteer to speak or suggest topics (contact Melissa Graham, mlg3k@uw.edu).
 
-For presentation weeks, all are welcome to volunteer to speak or to suggest topics they would like to see covered
-(contact Melissa Graham, mlg3k@uw.edu).
-
-For open drop-in weeks, all are welcome to bring their questions or issues and get support from Rubin staff,
-or come with a topic of interest and co-work in a breakout room.
-
-See all past :doc:`/delegate-resources/assembly-recordings`.
-
-.. include:: assemblies-schedule.inc
+See past :doc:`/delegate-resources/assembly-recordings`.
 
 .. toctree::
    :hidden:
