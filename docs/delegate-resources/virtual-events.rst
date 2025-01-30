@@ -30,15 +30,11 @@ All are welcome to attend any event or watch the recordings.
 Rubin Science Assemblies
 ========================
 
-The weekly assemblies are live virtual sessions that focus on learning to use the RSP.
+The weekly assemblies are live virtual sessions that focus on learning to use the RSP, held most Thursdays at 9am Pacific.
+All are welcome.
+Students and anyone new to Rubin are encouraged to participate.
 
-**Schedule and more information:** `Rubin Science Assemblies <https://rubinobservatory.org/for-scientists/events-deadlines/events-rsa>`_
-
-**Connection info:** `ls.st/dp0-events <https://ls.st/dp0-events>`_
-
-**Dates and times:** Thursdays at 9am Pacific (1 hour)
-
-Volunteer to speak or suggest topics (contact Melissa Graham, mlg3k@uw.edu).
+`See the Rubin Science Assemblies webpage for the schedule and connection information <https://rubinobservatory.org/for-scientists/events-deadlines/events-rsa>`_.
 
 See past :doc:`/delegate-resources/assembly-recordings`.
 
@@ -58,29 +54,14 @@ Rubin Data Academy
 The annual Rubin Data Academy offers a one-week virtual program of hands-on learning, with
 time for networking and co-working. Students with no prior experience are especially welcome.
 
-----
-2024
-----
+`See the Rubin Data Academy webpage for more information <https://rubinobservatory.org/for-scientists/events-deadlines/events-rda>`_.
 
-Held virtually, June 17-18 & 20-21, 2024.
 
 .. toctree::
     :maxdepth: 1
     :glob:
 
     rubin-data-academy-2024
-
-
-----
-2023
-----
-
-Held virtually June 12-16, 2023.
-
-.. toctree::
-    :maxdepth: 1
-    :glob:
-
     virtual-summer-school-2023
 
 
