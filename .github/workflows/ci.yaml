@@ -28,7 +28,7 @@ jobs:
           python-version: "3.11"
 
       - name: Run pre-commit hooks
-        uses: pre-commit/action@v3.0.0
+        uses: j178/prek-action@v2
 
   build:
     runs-on: ubuntu-latest
